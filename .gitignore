@@ -1,0 +1,5 @@
+tem2.txt
+__pycache__/
+.ipynb_checkpoints/
+*.tmp
+*.pyc

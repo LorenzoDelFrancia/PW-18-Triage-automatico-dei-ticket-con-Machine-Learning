@@ -1,0 +1,1001 @@
+id,title,body,category,priority,full_text
+1,Informazioni prodotto,È possibile ottenere uno sconto per grandi quantità? Cordiali saluti.,Commerciale,media,informazioni prodotto è possibile ottenere uno sconto per grandi quantità cordiali saluti
+2,Stampante non stampa,L'aggiornamento del sistema operativo è fallito Grazie in anticipo.,Tecnico,media,stampante non stampa l'aggiornamento del sistema operativo è fallito grazie in anticipo
+3,Trasferta,Ho bisogno di un certificato di lavoro per la banca Attendo riscontro.,Amministrazione,media,trasferta ho bisogno di un certificato di lavoro per la banca attendo riscontro
+4,Anticipo stipendio,Devo comunicare un periodo di malattia Quando possibile.,Amministrazione,bassa,anticipo stipendio devo comunicare un periodo di malattia quando possibile
+5,Garanzia prodotto,"Vorrei ricevere un preventivo per i vostri servizi È urgente, non riesco a lavorare.",Commerciale,alta,garanzia prodotto vorrei ricevere un preventivo per i vostri servizi è urgente non riesco a lavorare
+6,Garanzia prodotto,Confermo di aver effettuato il pagamento Non è prioritario.,Commerciale,bassa,garanzia prodotto confermo di aver effettuato il pagamento non è prioritario
+7,Spedizione urgente,"L'articolo che cerco è disponibile in magazzino? Quando possibile, grazie.",Commerciale,media,spedizione urgente l'articolo che cerco è disponibile in magazzino quando possibile grazie
+8,Aggiornamento fallito,"La licenza del software è scaduta Quando possibile, grazie.",Tecnico,media,aggiornamento fallito la licenza del software è scaduta quando possibile grazie
+9,Reso merce,"Ho bisogno di informazioni su un prodotto specifico Urgentissimo, il cliente attende.",Commerciale,alta,reso merce ho bisogno di informazioni su un prodotto specifico urgentissimo il cliente attende
+10,Upgrade piano,Vorrei ricevere un preventivo per i vostri servizi Grazie per l'assistenza.,Commerciale,media,upgrade piano vorrei ricevere un preventivo per i vostri servizi grazie per l'assistenza
+11,Certificato lavoro,Devo organizzare una trasferta di lavoro Quando possibile.,Amministrazione,bassa,certificato lavoro devo organizzare una trasferta di lavoro quando possibile
+12,Monitor sfarfalla,La stampante non risponde ai comandi di stampa Fatemi sapere.,Tecnico,media,monitor sfarfalla la stampante non risponde ai comandi di stampa fatemi sapere
+13,Attestato di servizio,Devo comunicare un periodo di malattia Cordiali saluti.,Amministrazione,media,attestato di servizio devo comunicare un periodo di malattia cordiali saluti
+14,Disdetta servizio,"Richiedo la sostituzione dell'articolo difettoso È urgente, non riesco a lavorare.",Commerciale,alta,disdetta servizio richiedo la sostituzione dell'articolo difettoso è urgente non riesco a lavorare
+15,Sostituzione articolo,"Vorrei verificare il credito residuo Situazione critica, sistema bloccato.",Commerciale,alta,sostituzione articolo vorrei verificare il credito residuo situazione critica sistema bloccato
+16,Catalogo prodotti,"Il mio ordine è in ritardo rispetto alla data prevista Situazione critica, sistema bloccato.",Commerciale,alta,catalogo prodotti il mio ordine è in ritardo rispetto alla data prevista situazione critica sistema bloccato
+17,Contratto fornitura,"Invio sollecito per il pagamento della fattura Urgentissimo, il cliente attende.",Commerciale,alta,contratto fornitura invio sollecito per il pagamento della fattura urgentissimo il cliente attende
+18,Promozione attiva,Siamo interessati a una partnership commerciale Fatemi sapere.,Commerciale,media,promozione attiva siamo interessati a una partnership commerciale fatemi sapere
+19,Monitor sfarfalla,Il sistema mostra un errore critico all'avvio Resto in attesa di risposta.,Tecnico,media,monitor sfarfalla il sistema mostra un errore critico all'avvio resto in attesa di risposta
+20,Webcam non rilevata,La stampante non risponde ai comandi di stampa Non è prioritario.,Tecnico,bassa,webcam non rilevata la stampante non risponde ai comandi di stampa non è prioritario
+21,Informazioni prodotto,Vorrei ricevere il catalogo prodotti completo Fatemi sapere.,Commerciale,media,informazioni prodotto vorrei ricevere il catalogo prodotti completo fatemi sapere
+22,Licenza scaduta,Il mouse wireless non risponde Ho bisogno di aiuto immediato.,Tecnico,alta,licenza scaduta il mouse wireless non risponde ho bisogno di aiuto immediato
+23,USB non riconosciuta,Il monitor presenta sfarfallii continui Ho bisogno di aiuto immediato.,Tecnico,alta,usb non riconosciuta il monitor presenta sfarfallii continui ho bisogno di aiuto immediato
+24,Dimissioni,Ho bisogno di un certificato di lavoro per la banca Cordiali saluti.,Amministrazione,media,dimissioni ho bisogno di un certificato di lavoro per la banca cordiali saluti
+25,Partnership commerciale,Il mio ordine è in ritardo rispetto alla data prevista Fatemi sapere.,Commerciale,media,partnership commerciale il mio ordine è in ritardo rispetto alla data prevista fatemi sapere
+26,Richiesta campioni,"Invio sollecito per il pagamento della fattura Quando possibile, grazie.",Commerciale,media,richiesta campioni invio sollecito per il pagamento della fattura quando possibile grazie
+27,Connessione internet assente,"Lo schermo rimane nero dopo l'accensione È urgente, non riesco a lavorare.",Tecnico,alta,connessione internet assente lo schermo rimane nero dopo l'accensione è urgente non riesco a lavorare
+28,Virus rilevato,"Manca il driver della scheda video È urgente, non riesco a lavorare.",Tecnico,alta,virus rilevato manca il driver della scheda video è urgente non riesco a lavorare
+29,Fattura errata,Devo modificare la quantità dell'ordine effettuato Solo per curiosità.,Commerciale,bassa,fattura errata devo modificare la quantità dell'ordine effettuato solo per curiosità
+30,Malattia,Vorrei attivare lo smart working Grazie in anticipo.,Amministrazione,media,malattia vorrei attivare lo smart working grazie in anticipo
+31,Sostituzione articolo,Richiedo la sostituzione dell'articolo difettoso Solo per avere informazioni.,Commerciale,bassa,sostituzione articolo richiedo la sostituzione dell'articolo difettoso solo per avere informazioni
+32,Password dimenticata,Il backup automatico non viene eseguito A vostra comodità.,Tecnico,bassa,password dimenticata il backup automatico non viene eseguito a vostra comodità
+33,Attestato di servizio,"Vorrei presentare le dimissioni Quando possibile, grazie.",Amministrazione,media,attestato di servizio vorrei presentare le dimissioni quando possibile grazie
+34,Pagamento effettuato,Il mio ordine è in ritardo rispetto alla data prevista Senza fretta.,Commerciale,bassa,pagamento effettuato il mio ordine è in ritardo rispetto alla data prevista senza fretta
+35,Smart working,Ho bisogno di un certificato di lavoro per la banca Senza fretta.,Amministrazione,bassa,smart working ho bisogno di un certificato di lavoro per la banca senza fretta
+36,Computer lento,Il sistema è molto lento per mancanza di RAM Senza fretta.,Tecnico,bassa,computer lento il sistema è molto lento per mancanza di ram senza fretta
+37,Richiesta TFR,"Devo aggiornare il mio indirizzo di residenza Sono fermo, non posso procedere.",Amministrazione,alta,richiesta tfr devo aggiornare il mio indirizzo di residenza sono fermo non posso procedere
+38,Catalogo prodotti,Vorrei informazioni sulla promozione attiva Resto in attesa di risposta.,Commerciale,media,catalogo prodotti vorrei informazioni sulla promozione attiva resto in attesa di risposta
+39,Spedizione urgente,Vorrei discutere un contratto di fornitura Ho bisogno di aiuto immediato.,Commerciale,alta,spedizione urgente vorrei discutere un contratto di fornitura ho bisogno di aiuto immediato
+40,Modifica anagrafica,"Ho ricevuto il contratto da firmare Non è urgente, quando avete tempo.",Amministrazione,bassa,modifica anagrafica ho ricevuto il contratto da firmare non è urgente quando avete tempo
+41,Software da installare,Il sistema mostra un errore critico all'avvio Solo per avere informazioni.,Tecnico,bassa,software da installare il sistema mostra un errore critico all'avvio solo per avere informazioni
+42,Connessione internet assente,Il disco C: è quasi pieno Attendo riscontro.,Tecnico,media,connessione internet assente il disco c è quasi pieno attendo riscontro
+43,Configurazione email,Il sistema nega l'accesso ai file condivisi Fatemi sapere.,Tecnico,media,configurazione email il sistema nega l'accesso ai file condivisi fatemi sapere
+44,Richiesta preventivo,Sono interessato a un upgrade del piano attuale Senza fretta.,Commerciale,bassa,richiesta preventivo sono interessato a un upgrade del piano attuale senza fretta
+45,Disdetta servizio,Vorrei tracciare il mio ordine Grazie in anticipo.,Commerciale,media,disdetta servizio vorrei tracciare il mio ordine grazie in anticipo
+46,Informazioni prodotto,Ci sono offerte speciali in corso? Resto in attesa di risposta.,Commerciale,media,informazioni prodotto ci sono offerte speciali in corso resto in attesa di risposta
+47,Disco pieno,"Il PC si spegne improvvisamente senza motivo Situazione critica, sistema bloccato.",Tecnico,alta,disco pieno il pc si spegne improvvisamente senza motivo situazione critica sistema bloccato
+48,Offerta speciale,Il prodotto ricevuto presenta dei difetti È bloccante per il mio lavoro.,Commerciale,alta,offerta speciale il prodotto ricevuto presenta dei difetti è bloccante per il mio lavoro
+49,Virus rilevato,Lo schermo rimane nero dopo l'accensione Non è prioritario.,Tecnico,bassa,virus rilevato lo schermo rimane nero dopo l'accensione non è prioritario
+50,Backup fallito,Le email inviate non arrivano a destinazione Senza fretta.,Tecnico,bassa,backup fallito le email inviate non arrivano a destinazione senza fretta
+51,Modifica ordine,Vorrei informazioni sulla promozione attiva È bloccante per il mio lavoro.,Commerciale,alta,modifica ordine vorrei informazioni sulla promozione attiva è bloccante per il mio lavoro
+52,Congedo parentale,"Vorrei attivare lo smart working Quando possibile, grazie.",Amministrazione,media,congedo parentale vorrei attivare lo smart working quando possibile grazie
+53,Cambio IBAN,Ho ricevuto il contratto da firmare Problema grave che blocca tutto.,Amministrazione,alta,cambio iban ho ricevuto il contratto da firmare problema grave che blocca tutto
+54,Spedizione urgente,Vorrei tracciare il mio ordine Attendo riscontro.,Commerciale,media,spedizione urgente vorrei tracciare il mio ordine attendo riscontro
+55,Modifica ordine,Ho bisogno di una spedizione urgente A vostra comodità.,Commerciale,bassa,modifica ordine ho bisogno di una spedizione urgente a vostra comodità
+56,Contratto fornitura,Vorrei ricevere un preventivo per i vostri servizi Solo per avere informazioni.,Commerciale,bassa,contratto fornitura vorrei ricevere un preventivo per i vostri servizi solo per avere informazioni
+57,Stampante non stampa,"Non riesco a connettermi alla rete aziendale Sono fermo, non posso procedere.",Tecnico,alta,stampante non stampa non riesco a connettermi alla rete aziendale sono fermo non posso procedere
+58,Richiesta campioni,"Siamo interessati a una partnership commerciale Emergenza, serve intervento immediato.",Commerciale,alta,richiesta campioni siamo interessati a una partnership commerciale emergenza serve intervento immediato
+59,Smart working,"Devo comunicare il nuovo IBAN per l'accredito stipendio Situazione critica, sistema bloccato.",Amministrazione,alta,smart working devo comunicare il nuovo iban per l'accredito stipendio situazione critica sistema bloccato
+60,Ordine in ritardo,Ho bisogno di informazioni su un prodotto specifico Grazie in anticipo.,Commerciale,media,ordine in ritardo ho bisogno di informazioni su un prodotto specifico grazie in anticipo
+61,Fattura errata,"Vorrei ricevere un preventivo per i vostri servizi Non è urgente, quando avete tempo.",Commerciale,bassa,fattura errata vorrei ricevere un preventivo per i vostri servizi non è urgente quando avete tempo
+62,Certificato lavoro,"Richiedo un anticipo sullo stipendio Non è urgente, quando avete tempo.",Amministrazione,bassa,certificato lavoro richiedo un anticipo sullo stipendio non è urgente quando avete tempo
+63,Catalogo prodotti,Ci sono offerte speciali in corso? Grazie in anticipo.,Commerciale,media,catalogo prodotti ci sono offerte speciali in corso grazie in anticipo
+64,VPN non funziona,Lo schermo rimane nero dopo l'accensione Cordiali saluti.,Tecnico,media,vpn non funziona lo schermo rimane nero dopo l'accensione cordiali saluti
+65,Backup fallito,Non esce audio dalle casse del computer Non è prioritario.,Tecnico,bassa,backup fallito non esce audio dalle casse del computer non è prioritario
+66,Reso merce,La fattura ricevuta contiene degli errori Grazie per l'assistenza.,Commerciale,media,reso merce la fattura ricevuta contiene degli errori grazie per l'assistenza
+67,Partnership commerciale,Siamo interessati a una partnership commerciale Grazie in anticipo.,Commerciale,media,partnership commerciale siamo interessati a una partnership commerciale grazie in anticipo
+68,Server non risponde,"Non esce audio dalle casse del computer Non è urgente, quando avete tempo.",Tecnico,bassa,server non risponde non esce audio dalle casse del computer non è urgente quando avete tempo
+69,Richiesta ferie,Devo aggiornare la richiesta assegni familiari È solo una domanda informativa.,Amministrazione,bassa,richiesta ferie devo aggiornare la richiesta assegni familiari è solo una domanda informativa
+70,Partnership commerciale,È possibile ricevere dei campioni gratuiti? Cordiali saluti.,Commerciale,media,partnership commerciale è possibile ricevere dei campioni gratuiti cordiali saluti
+71,Software non funziona,"Le email inviate non arrivano a destinazione Urgentissimo, il cliente attende.",Tecnico,alta,software non funziona le email inviate non arrivano a destinazione urgentissimo il cliente attende
+72,CUD mancante,"Non ho ricevuto la CUD di quest'anno Urgentissimo, il cliente attende.",Amministrazione,alta,cud mancante non ho ricevuto la cud di quest'anno urgentissimo il cliente attende
+73,Computer lento,Il monitor presenta sfarfallii continui Ho bisogno di aiuto immediato.,Tecnico,alta,computer lento il monitor presenta sfarfallii continui ho bisogno di aiuto immediato
+74,Richiesta campioni,"Sono un nuovo cliente e vorrei registrarmi Urgentissimo, il cliente attende.",Commerciale,alta,richiesta campioni sono un nuovo cliente e vorrei registrarmi urgentissimo il cliente attende
+75,Cambio IBAN,"Richiedo un anticipo sullo stipendio Emergenza, serve intervento immediato.",Amministrazione,alta,cambio iban richiedo un anticipo sullo stipendio emergenza serve intervento immediato
+76,Richiesta preventivo,È possibile ottenere uno sconto per grandi quantità? Solo per avere informazioni.,Commerciale,bassa,richiesta preventivo è possibile ottenere uno sconto per grandi quantità solo per avere informazioni
+77,Connessione internet assente,L'applicazione si chiude inaspettatamente A vostra comodità.,Tecnico,bassa,connessione internet assente l'applicazione si chiude inaspettatamente a vostra comodità
+78,Dimissioni,Non ho ricevuto la CUD di quest'anno Non è prioritario.,Amministrazione,bassa,dimissioni non ho ricevuto la cud di quest'anno non è prioritario
+79,CUD mancante,"Devo richiedere il rimborso delle spese di viaggio Emergenza, serve intervento immediato.",Amministrazione,alta,cud mancante devo richiedere il rimborso delle spese di viaggio emergenza serve intervento immediato
+80,Stampante non stampa,"Ho bisogno di installare un nuovo software Urgentissimo, il cliente attende.",Tecnico,alta,stampante non stampa ho bisogno di installare un nuovo software urgentissimo il cliente attende
+81,Virus rilevato,Il computer impiega troppo tempo ad avviarsi Solo per curiosità.,Tecnico,bassa,virus rilevato il computer impiega troppo tempo ad avviarsi solo per curiosità
+82,Assistenza post-vendita,Devo modificare la quantità dell'ordine effettuato Grazie in anticipo.,Commerciale,media,assistenza post-vendita devo modificare la quantità dell'ordine effettuato grazie in anticipo
+83,Certificato lavoro,Vorrei informazioni sul prestito aziendale Non è prioritario.,Amministrazione,bassa,certificato lavoro vorrei informazioni sul prestito aziendale non è prioritario
+84,Ordine in ritardo,Confermo di aver effettuato il pagamento Solo per avere informazioni.,Commerciale,bassa,ordine in ritardo confermo di aver effettuato il pagamento solo per avere informazioni
+85,Dimissioni,Ho bisogno di modificare le detrazioni fiscali,Amministrazione,media,dimissioni ho bisogno di modificare le detrazioni fiscali
+86,Reso merce,Il prodotto ricevuto presenta dei difetti Fatemi sapere.,Commerciale,media,reso merce il prodotto ricevuto presenta dei difetti fatemi sapere
+87,Audio non funziona,"Il backup automatico non viene eseguito Situazione critica, sistema bloccato.",Tecnico,alta,audio non funziona il backup automatico non viene eseguito situazione critica sistema bloccato
+88,Assistenza post-vendita,Devo modificare la quantità dell'ordine effettuato Fatemi sapere.,Commerciale,media,assistenza post-vendita devo modificare la quantità dell'ordine effettuato fatemi sapere
+89,Fattura errata,Vorrei tracciare il mio ordine,Commerciale,media,fattura errata vorrei tracciare il mio ordine
+90,Feedback servizio,Confermo di aver effettuato il pagamento Grazie in anticipo.,Commerciale,media,feedback servizio confermo di aver effettuato il pagamento grazie in anticipo
+91,Driver mancante,"Il monitor presenta sfarfallii continui Urgentissimo, il cliente attende.",Tecnico,alta,driver mancante il monitor presenta sfarfallii continui urgentissimo il cliente attende
+92,Software da installare,Alcuni tasti della tastiera non funzionano Grazie in anticipo.,Tecnico,media,software da installare alcuni tasti della tastiera non funzionano grazie in anticipo
+93,Driver mancante,Il disco C: è quasi pieno A vostra comodità.,Tecnico,bassa,driver mancante il disco c è quasi pieno a vostra comodità
+94,Software da installare,Il mouse wireless non risponde Cordiali saluti.,Tecnico,media,software da installare il mouse wireless non risponde cordiali saluti
+95,Errore contributi,Vorrei presentare le dimissioni È solo una domanda informativa.,Amministrazione,bassa,errore contributi vorrei presentare le dimissioni è solo una domanda informativa
+96,Promozione attiva,Vorrei lasciare un feedback sul servizio ricevuto Quando possibile.,Commerciale,bassa,promozione attiva vorrei lasciare un feedback sul servizio ricevuto quando possibile
+97,Richiesta campioni,Il prodotto ricevuto presenta dei difetti Resto in attesa di risposta.,Commerciale,media,richiesta campioni il prodotto ricevuto presenta dei difetti resto in attesa di risposta
+98,RAM insufficiente,Il mouse wireless non risponde Cordiali saluti.,Tecnico,media,ram insufficiente il mouse wireless non risponde cordiali saluti
+99,Busta paga errata,"Vorrei richiedere il congedo parentale Emergenza, serve intervento immediato.",Amministrazione,alta,busta paga errata vorrei richiedere il congedo parentale emergenza serve intervento immediato
+100,Licenza scaduta,"Il sistema nega l'accesso ai file condivisi Sono fermo, non posso procedere.",Tecnico,alta,licenza scaduta il sistema nega l'accesso ai file condivisi sono fermo non posso procedere
+101,Software non funziona,Il sistema è molto lento per mancanza di RAM Solo per avere informazioni.,Tecnico,bassa,software non funziona il sistema è molto lento per mancanza di ram solo per avere informazioni
+102,Promozione attiva,Ci sono offerte speciali in corso?,Commerciale,media,promozione attiva ci sono offerte speciali in corso
+103,Problema di rete,La connessione VPN si disconnette continuamente Problema grave che blocca tutto.,Tecnico,alta,problema di rete la connessione vpn si disconnette continuamente problema grave che blocca tutto
+104,Richiesta ferie,Richiedo un permesso per visita medica Cordiali saluti.,Amministrazione,media,richiesta ferie richiedo un permesso per visita medica cordiali saluti
+105,Modifica anagrafica,I contributi versati risultano errati È solo una domanda informativa.,Amministrazione,bassa,modifica anagrafica i contributi versati risultano errati è solo una domanda informativa
+106,PC si spegne da solo,L'antivirus ha rilevato una minaccia,Tecnico,media,pc si spegne da solo l'antivirus ha rilevato una minaccia
+107,Promozione attiva,Devo modificare la quantità dell'ordine effettuato Solo per curiosità.,Commerciale,bassa,promozione attiva devo modificare la quantità dell'ordine effettuato solo per curiosità
+108,Rimborso spese,Il cedolino presenta delle anomalie Senza fretta.,Amministrazione,bassa,rimborso spese il cedolino presenta delle anomalie senza fretta
+109,Reso merce,Sono un nuovo cliente e vorrei registrarmi Ho bisogno di aiuto immediato.,Commerciale,alta,reso merce sono un nuovo cliente e vorrei registrarmi ho bisogno di aiuto immediato
+110,Software da installare,La stampante non risponde ai comandi di stampa Fatemi sapere.,Tecnico,media,software da installare la stampante non risponde ai comandi di stampa fatemi sapere
+111,Straordinari non pagati,Il cedolino presenta delle anomalie È bloccante per il mio lavoro.,Amministrazione,alta,straordinari non pagati il cedolino presenta delle anomalie è bloccante per il mio lavoro
+112,Cambio IBAN,"Richiedo assistenza per il modello 730 Situazione critica, sistema bloccato.",Amministrazione,alta,cambio iban richiedo assistenza per il modello 730 situazione critica sistema bloccato
+113,Nota spese,Richiedo informazioni sul congedo di maternità Cordiali saluti.,Amministrazione,media,nota spese richiedo informazioni sul congedo di maternità cordiali saluti
+114,Trasferta,Richiedo un cambio di mansione Senza fretta.,Amministrazione,bassa,trasferta richiedo un cambio di mansione senza fretta
+115,Email non arrivano,Devo configurare la mia casella email A vostra comodità.,Tecnico,bassa,email non arrivano devo configurare la mia casella email a vostra comodità
+116,Richiesta campioni,È possibile ricevere dei campioni gratuiti? È bloccante per il mio lavoro.,Commerciale,alta,richiesta campioni è possibile ricevere dei campioni gratuiti è bloccante per il mio lavoro
+117,Richiesta TFR,"Vorrei informazioni sulla liquidazione del TFR Situazione critica, sistema bloccato.",Amministrazione,alta,richiesta tfr vorrei informazioni sulla liquidazione del tfr situazione critica sistema bloccato
+118,Partnership commerciale,Invio sollecito per il pagamento della fattura,Commerciale,media,partnership commerciale invio sollecito per il pagamento della fattura
+119,RAM insufficiente,"Devo configurare la mia casella email Sono fermo, non posso procedere.",Tecnico,alta,ram insufficiente devo configurare la mia casella email sono fermo non posso procedere
+120,Pagamento effettuato,"Ho bisogno di una spedizione urgente Urgentissimo, il cliente attende.",Commerciale,alta,pagamento effettuato ho bisogno di una spedizione urgente urgentissimo il cliente attende
+121,Rinnovo abbonamento,Devo modificare la quantità dell'ordine effettuato Cordiali saluti.,Commerciale,media,rinnovo abbonamento devo modificare la quantità dell'ordine effettuato cordiali saluti
+122,Tastiera bloccata,Le email inviate non arrivano a destinazione Resto in attesa di risposta.,Tecnico,media,tastiera bloccata le email inviate non arrivano a destinazione resto in attesa di risposta
+123,Credito cliente,"Vorrei discutere un contratto di fornitura È urgente, non riesco a lavorare.",Commerciale,alta,credito cliente vorrei discutere un contratto di fornitura è urgente non riesco a lavorare
+124,Aggiornamento fallito,La licenza del software è scaduta Senza fretta.,Tecnico,bassa,aggiornamento fallito la licenza del software è scaduta senza fretta
+125,Stampante non stampa,"Il sistema nega l'accesso ai file condivisi Emergenza, serve intervento immediato.",Tecnico,alta,stampante non stampa il sistema nega l'accesso ai file condivisi emergenza serve intervento immediato
+126,Straordinari non pagati,Devo aggiornare il mio indirizzo di residenza A vostra comodità.,Amministrazione,bassa,straordinari non pagati devo aggiornare il mio indirizzo di residenza a vostra comodità
+127,Server non risponde,L'aggiornamento del sistema operativo è fallito Solo per avere informazioni.,Tecnico,bassa,server non risponde l'aggiornamento del sistema operativo è fallito solo per avere informazioni
+128,Listino prezzi,Richiedo la sostituzione dell'articolo difettoso Non è prioritario.,Commerciale,bassa,listino prezzi richiedo la sostituzione dell'articolo difettoso non è prioritario
+129,Straordinari non pagati,Ho notato un errore nell'importo della busta paga Solo per avere informazioni.,Amministrazione,bassa,straordinari non pagati ho notato un errore nell'importo della busta paga solo per avere informazioni
+130,Malattia,Gli straordinari del mese scorso non sono stati pagati Attendo riscontro.,Amministrazione,media,malattia gli straordinari del mese scorso non sono stati pagati attendo riscontro
+131,Webcam non rilevata,Non esce audio dalle casse del computer A vostra comodità.,Tecnico,bassa,webcam non rilevata non esce audio dalle casse del computer a vostra comodità
+132,Attestato di servizio,"Vorrei richiedere le ferie per il mese prossimo Sono fermo, non posso procedere.",Amministrazione,alta,attestato di servizio vorrei richiedere le ferie per il mese prossimo sono fermo non posso procedere
+133,Backup fallito,Il mouse wireless non risponde Grazie in anticipo.,Tecnico,media,backup fallito il mouse wireless non risponde grazie in anticipo
+134,Connessione internet assente,"Il disco C: è quasi pieno È urgente, non riesco a lavorare.",Tecnico,alta,connessione internet assente il disco c è quasi pieno è urgente non riesco a lavorare
+135,Lettera referenze,Devo comunicare un periodo di malattia Solo per avere informazioni.,Amministrazione,bassa,lettera referenze devo comunicare un periodo di malattia solo per avere informazioni
+136,Software non funziona,Impossibile navigare su internet Cordiali saluti.,Tecnico,media,software non funziona impossibile navigare su internet cordiali saluti
+137,Variazione orario,Vorrei informazioni sul prestito aziendale Problema grave che blocca tutto.,Amministrazione,alta,variazione orario vorrei informazioni sul prestito aziendale problema grave che blocca tutto
+138,Rinnovo contratto,Il cedolino presenta delle anomalie Attendo riscontro.,Amministrazione,media,rinnovo contratto il cedolino presenta delle anomalie attendo riscontro
+139,Stampante non stampa,Non ricordo la password del mio account Attendo riscontro.,Tecnico,media,stampante non stampa non ricordo la password del mio account attendo riscontro
+140,Catalogo prodotti,"Devo rinnovare il mio abbonamento Situazione critica, sistema bloccato.",Commerciale,alta,catalogo prodotti devo rinnovare il mio abbonamento situazione critica sistema bloccato
+141,Cambio mansione,Il mio contratto è in scadenza Quando possibile.,Amministrazione,bassa,cambio mansione il mio contratto è in scadenza quando possibile
+142,Informazioni prodotto,"Vorrei verificare il credito residuo È urgente, non riesco a lavorare.",Commerciale,alta,informazioni prodotto vorrei verificare il credito residuo è urgente non riesco a lavorare
+143,Richiesta TFR,Richiedo un anticipo sullo stipendio Senza fretta.,Amministrazione,bassa,richiesta tfr richiedo un anticipo sullo stipendio senza fretta
+144,Computer lento,"Alcuni tasti della tastiera non funzionano Urgentissimo, il cliente attende.",Tecnico,alta,computer lento alcuni tasti della tastiera non funzionano urgentissimo il cliente attende
+145,Fattura errata,"Vorrei lasciare un feedback sul servizio ricevuto Sono fermo, non posso procedere.",Commerciale,alta,fattura errata vorrei lasciare un feedback sul servizio ricevuto sono fermo non posso procedere
+146,Rinnovo abbonamento,Il prodotto è ancora in garanzia? Cordiali saluti.,Commerciale,media,rinnovo abbonamento il prodotto è ancora in garanzia cordiali saluti
+147,Connessione internet assente,La chiavetta USB non viene riconosciuta È bloccante per il mio lavoro.,Tecnico,alta,connessione internet assente la chiavetta usb non viene riconosciuta è bloccante per il mio lavoro
+148,VPN non funziona,Manca il driver della scheda video Cordiali saluti.,Tecnico,media,vpn non funziona manca il driver della scheda video cordiali saluti
+149,Upgrade piano,Il prodotto è ancora in garanzia? Resto in attesa di risposta.,Commerciale,media,upgrade piano il prodotto è ancora in garanzia resto in attesa di risposta
+150,Assistenza post-vendita,Ho bisogno di informazioni su un prodotto specifico Cordiali saluti.,Commerciale,media,assistenza post-vendita ho bisogno di informazioni su un prodotto specifico cordiali saluti
+151,Errore contributi,Richiedo informazioni sul congedo di maternità Fatemi sapere.,Amministrazione,media,errore contributi richiedo informazioni sul congedo di maternità fatemi sapere
+152,Busta paga errata,"Devo organizzare una trasferta di lavoro Emergenza, serve intervento immediato.",Amministrazione,alta,busta paga errata devo organizzare una trasferta di lavoro emergenza serve intervento immediato
+153,Modifica ordine,"Il mio ordine è in ritardo rispetto alla data prevista Urgentissimo, il cliente attende.",Commerciale,alta,modifica ordine il mio ordine è in ritardo rispetto alla data prevista urgentissimo il cliente attende
+154,Dimissioni,Vorrei richiedere le ferie per il mese prossimo Grazie per l'assistenza.,Amministrazione,media,dimissioni vorrei richiedere le ferie per il mese prossimo grazie per l'assistenza
+155,Feedback servizio,Vorrei ricevere il catalogo prodotti completo Fatemi sapere.,Commerciale,media,feedback servizio vorrei ricevere il catalogo prodotti completo fatemi sapere
+156,Ordine in ritardo,Vorrei informazioni sulla promozione attiva A vostra comodità.,Commerciale,bassa,ordine in ritardo vorrei informazioni sulla promozione attiva a vostra comodità
+157,Rinnovo contratto,Vorrei attivare lo smart working Senza fretta.,Amministrazione,bassa,rinnovo contratto vorrei attivare lo smart working senza fretta
+158,Disdetta servizio,Vorrei lasciare un feedback sul servizio ricevuto Grazie per l'assistenza.,Commerciale,media,disdetta servizio vorrei lasciare un feedback sul servizio ricevuto grazie per l'assistenza
+159,Errore di sistema,Il backup automatico non viene eseguito Non è prioritario.,Tecnico,bassa,errore di sistema il backup automatico non viene eseguito non è prioritario
+160,Reclamo prodotto,Ci sono offerte speciali in corso? Senza fretta.,Commerciale,bassa,reclamo prodotto ci sono offerte speciali in corso senza fretta
+161,Listino prezzi,Vorrei ricevere il catalogo prodotti completo,Commerciale,media,listino prezzi vorrei ricevere il catalogo prodotti completo
+162,Mouse non funziona,Le email inviate non arrivano a destinazione Fatemi sapere.,Tecnico,media,mouse non funziona le email inviate non arrivano a destinazione fatemi sapere
+163,Dimissioni,Vorrei presentare le dimissioni Grazie in anticipo.,Amministrazione,media,dimissioni vorrei presentare le dimissioni grazie in anticipo
+164,Mouse non funziona,"Il sistema nega l'accesso ai file condivisi Urgentissimo, il cliente attende.",Tecnico,alta,mouse non funziona il sistema nega l'accesso ai file condivisi urgentissimo il cliente attende
+165,Dimissioni,Devo comunicare il nuovo IBAN per l'accredito stipendio Senza fretta.,Amministrazione,bassa,dimissioni devo comunicare il nuovo iban per l'accredito stipendio senza fretta
+166,Contratto da firmare,Ho bisogno di modificare le detrazioni fiscali Problema grave che blocca tutto.,Amministrazione,alta,contratto da firmare ho bisogno di modificare le detrazioni fiscali problema grave che blocca tutto
+167,Richiesta permesso,Ho bisogno di un attestato di servizio Solo per avere informazioni.,Amministrazione,bassa,richiesta permesso ho bisogno di un attestato di servizio solo per avere informazioni
+168,RAM insufficiente,"L'applicazione si chiude inaspettatamente Urgentissimo, il cliente attende.",Tecnico,alta,ram insufficiente l'applicazione si chiude inaspettatamente urgentissimo il cliente attende
+169,Listino prezzi,Vorrei annullare l'ordine numero 12345 Solo per avere informazioni.,Commerciale,bassa,listino prezzi vorrei annullare l'ordine numero 12345 solo per avere informazioni
+170,Rinnovo abbonamento,Vorrei discutere un contratto di fornitura Senza fretta.,Commerciale,bassa,rinnovo abbonamento vorrei discutere un contratto di fornitura senza fretta
+171,Cambio IBAN,Vorrei informazioni sulla liquidazione del TFR Senza fretta.,Amministrazione,bassa,cambio iban vorrei informazioni sulla liquidazione del tfr senza fretta
+172,Maternità,Richiedo una variazione dell'orario di lavoro È solo una domanda informativa.,Amministrazione,bassa,maternità richiedo una variazione dell'orario di lavoro è solo una domanda informativa
+173,Pagamento effettuato,Richiedo il listino prezzi aggiornato Fatemi sapere.,Commerciale,media,pagamento effettuato richiedo il listino prezzi aggiornato fatemi sapere
+174,Contratto da firmare,"Devo richiedere il rimborso delle spese di viaggio Quando possibile, grazie.",Amministrazione,media,contratto da firmare devo richiedere il rimborso delle spese di viaggio quando possibile grazie
+175,RAM insufficiente,Il sistema nega l'accesso ai file condivisi Solo per curiosità.,Tecnico,bassa,ram insufficiente il sistema nega l'accesso ai file condivisi solo per curiosità
+176,Software non funziona,La stampante non risponde ai comandi di stampa Ho bisogno di aiuto immediato.,Tecnico,alta,software non funziona la stampante non risponde ai comandi di stampa ho bisogno di aiuto immediato
+177,Offerta speciale,Vorrei tracciare il mio ordine È bloccante per il mio lavoro.,Commerciale,alta,offerta speciale vorrei tracciare il mio ordine è bloccante per il mio lavoro
+178,Assistenza post-vendita,Siamo interessati a una partnership commerciale Solo per curiosità.,Commerciale,bassa,assistenza post-vendita siamo interessati a una partnership commerciale solo per curiosità
+179,Malattia,"Richiedo una variazione dell'orario di lavoro Situazione critica, sistema bloccato.",Amministrazione,alta,malattia richiedo una variazione dell'orario di lavoro situazione critica sistema bloccato
+180,Certificato lavoro,Vorrei presentare le dimissioni Resto in attesa di risposta.,Amministrazione,media,certificato lavoro vorrei presentare le dimissioni resto in attesa di risposta
+181,Assistenza post-vendita,"Ho bisogno di una spedizione urgente Situazione critica, sistema bloccato.",Commerciale,alta,assistenza post-vendita ho bisogno di una spedizione urgente situazione critica sistema bloccato
+182,Driver mancante,L'applicazione si chiude inaspettatamente Ho bisogno di aiuto immediato.,Tecnico,alta,driver mancante l'applicazione si chiude inaspettatamente ho bisogno di aiuto immediato
+183,Trasferta,"Vorrei presentare le dimissioni Urgentissimo, il cliente attende.",Amministrazione,alta,trasferta vorrei presentare le dimissioni urgentissimo il cliente attende
+184,Sostituzione articolo,È possibile ricevere dei campioni gratuiti?,Commerciale,media,sostituzione articolo è possibile ricevere dei campioni gratuiti
+185,Bluetooth non funziona,Il sistema nega l'accesso ai file condivisi È solo una domanda informativa.,Tecnico,bassa,bluetooth non funziona il sistema nega l'accesso ai file condivisi è solo una domanda informativa
+186,Tastiera bloccata,Il server aziendale non è raggiungibile Grazie in anticipo.,Tecnico,media,tastiera bloccata il server aziendale non è raggiungibile grazie in anticipo
+187,Cambio mansione,Devo comunicare un periodo di malattia Solo per curiosità.,Amministrazione,bassa,cambio mansione devo comunicare un periodo di malattia solo per curiosità
+188,Richiesta permesso,"Ho bisogno di una lettera di referenze Quando possibile, grazie.",Amministrazione,media,richiesta permesso ho bisogno di una lettera di referenze quando possibile grazie
+189,Assistenza post-vendita,Vorrei ricevere il catalogo prodotti completo Senza fretta.,Commerciale,bassa,assistenza post-vendita vorrei ricevere il catalogo prodotti completo senza fretta
+190,Bluetooth non funziona,"Il sistema mostra un errore critico all'avvio Quando possibile, grazie.",Tecnico,media,bluetooth non funziona il sistema mostra un errore critico all'avvio quando possibile grazie
+191,USB non riconosciuta,La licenza del software è scaduta Cordiali saluti.,Tecnico,media,usb non riconosciuta la licenza del software è scaduta cordiali saluti
+192,Webcam non rilevata,Impossibile navigare su internet Grazie in anticipo.,Tecnico,media,webcam non rilevata impossibile navigare su internet grazie in anticipo
+193,Bluetooth non funziona,Le email inviate non arrivano a destinazione Senza fretta.,Tecnico,bassa,bluetooth non funziona le email inviate non arrivano a destinazione senza fretta
+194,Assistenza post-vendita,Ho bisogno di informazioni su un prodotto specifico È solo una domanda informativa.,Commerciale,bassa,assistenza post-vendita ho bisogno di informazioni su un prodotto specifico è solo una domanda informativa
+195,Pagamento effettuato,"Devo modificare la quantità dell'ordine effettuato Emergenza, serve intervento immediato.",Commerciale,alta,pagamento effettuato devo modificare la quantità dell'ordine effettuato emergenza serve intervento immediato
+196,Contratto fornitura,L'articolo che cerco è disponibile in magazzino? Quando possibile.,Commerciale,bassa,contratto fornitura l'articolo che cerco è disponibile in magazzino quando possibile
+197,Webcam non rilevata,Il sistema nega l'accesso ai file condivisi Cordiali saluti.,Tecnico,media,webcam non rilevata il sistema nega l'accesso ai file condivisi cordiali saluti
+198,Reso merce,L'articolo che cerco è disponibile in magazzino? Resto in attesa di risposta.,Commerciale,media,reso merce l'articolo che cerco è disponibile in magazzino resto in attesa di risposta
+199,Disponibilità articolo,Il prodotto è ancora in garanzia? Grazie in anticipo.,Commerciale,media,disponibilità articolo il prodotto è ancora in garanzia grazie in anticipo
+200,Stampante non stampa,Il server aziendale non è raggiungibile Non è prioritario.,Tecnico,bassa,stampante non stampa il server aziendale non è raggiungibile non è prioritario
+201,Cambio mansione,Ho bisogno di una lettera di referenze,Amministrazione,media,cambio mansione ho bisogno di una lettera di referenze
+202,Assegni familiari,Ho ricevuto il contratto da firmare Solo per curiosità.,Amministrazione,bassa,assegni familiari ho ricevuto il contratto da firmare solo per curiosità
+203,Virus rilevato,Non riesco a connettermi alla rete aziendale Attendo riscontro.,Tecnico,media,virus rilevato non riesco a connettermi alla rete aziendale attendo riscontro
+204,Disco pieno,Il sistema nega l'accesso ai file condivisi Fatemi sapere.,Tecnico,media,disco pieno il sistema nega l'accesso ai file condivisi fatemi sapere
+205,Virus rilevato,"Non ricordo la password del mio account Quando possibile, grazie.",Tecnico,media,virus rilevato non ricordo la password del mio account quando possibile grazie
+206,Webcam non rilevata,Il server aziendale non è raggiungibile Grazie in anticipo.,Tecnico,media,webcam non rilevata il server aziendale non è raggiungibile grazie in anticipo
+207,Richiesta ferie,"Vorrei informazioni sulla liquidazione del TFR È urgente, non riesco a lavorare.",Amministrazione,alta,richiesta ferie vorrei informazioni sulla liquidazione del tfr è urgente non riesco a lavorare
+208,Schermo nero,"Non ricordo la password del mio account Quando possibile, grazie.",Tecnico,media,schermo nero non ricordo la password del mio account quando possibile grazie
+209,Partnership commerciale,Sono un nuovo cliente e vorrei registrarmi Cordiali saluti.,Commerciale,media,partnership commerciale sono un nuovo cliente e vorrei registrarmi cordiali saluti
+210,Sostituzione articolo,"Richiedo la sostituzione dell'articolo difettoso Quando possibile, grazie.",Commerciale,media,sostituzione articolo richiedo la sostituzione dell'articolo difettoso quando possibile grazie
+211,Modifica anagrafica,Devo aggiornare il mio indirizzo di residenza Grazie in anticipo.,Amministrazione,media,modifica anagrafica devo aggiornare il mio indirizzo di residenza grazie in anticipo
+212,Maternità,"Richiedo una variazione dell'orario di lavoro È urgente, non riesco a lavorare.",Amministrazione,alta,maternità richiedo una variazione dell'orario di lavoro è urgente non riesco a lavorare
+213,Monitor sfarfalla,"Il mouse wireless non risponde Emergenza, serve intervento immediato.",Tecnico,alta,monitor sfarfalla il mouse wireless non risponde emergenza serve intervento immediato
+214,Modifica ordine,La fattura ricevuta contiene degli errori È solo una domanda informativa.,Commerciale,bassa,modifica ordine la fattura ricevuta contiene degli errori è solo una domanda informativa
+215,Password dimenticata,La connessione VPN si disconnette continuamente Problema grave che blocca tutto.,Tecnico,alta,password dimenticata la connessione vpn si disconnette continuamente problema grave che blocca tutto
+216,Tracciamento ordine,Il prodotto è ancora in garanzia? È bloccante per il mio lavoro.,Commerciale,alta,tracciamento ordine il prodotto è ancora in garanzia è bloccante per il mio lavoro
+217,Mouse non funziona,L'aggiornamento del sistema operativo è fallito Non è prioritario.,Tecnico,bassa,mouse non funziona l'aggiornamento del sistema operativo è fallito non è prioritario
+218,Disco pieno,Devo configurare la mia casella email Non è prioritario.,Tecnico,bassa,disco pieno devo configurare la mia casella email non è prioritario
+219,Schermo nero,Manca il driver della scheda video Non è prioritario.,Tecnico,bassa,schermo nero manca il driver della scheda video non è prioritario
+220,Trasferta,"I contributi versati risultano errati Urgentissimo, il cliente attende.",Amministrazione,alta,trasferta i contributi versati risultano errati urgentissimo il cliente attende
+221,VPN non funziona,"Il file Excel non si apre correttamente Urgentissimo, il cliente attende.",Tecnico,alta,vpn non funziona il file excel non si apre correttamente urgentissimo il cliente attende
+222,Errore di sistema,Il backup automatico non viene eseguito Ho bisogno di aiuto immediato.,Tecnico,alta,errore di sistema il backup automatico non viene eseguito ho bisogno di aiuto immediato
+223,Disponibilità articolo,"Vorrei verificare il credito residuo Urgentissimo, il cliente attende.",Commerciale,alta,disponibilità articolo vorrei verificare il credito residuo urgentissimo il cliente attende
+224,Busta paga errata,Ho ricevuto il contratto da firmare Ho bisogno di aiuto immediato.,Amministrazione,alta,busta paga errata ho ricevuto il contratto da firmare ho bisogno di aiuto immediato
+225,Virus rilevato,Non ricordo la password del mio account Attendo riscontro.,Tecnico,media,virus rilevato non ricordo la password del mio account attendo riscontro
+226,Congedo parentale,Ho bisogno di un certificato di lavoro per la banca Cordiali saluti.,Amministrazione,media,congedo parentale ho bisogno di un certificato di lavoro per la banca cordiali saluti
+227,Tracciamento ordine,"Il prodotto ricevuto presenta dei difetti Situazione critica, sistema bloccato.",Commerciale,alta,tracciamento ordine il prodotto ricevuto presenta dei difetti situazione critica sistema bloccato
+228,Offerta speciale,Ho bisogno di informazioni su un prodotto specifico Attendo riscontro.,Commerciale,media,offerta speciale ho bisogno di informazioni su un prodotto specifico attendo riscontro
+229,Virus rilevato,Non esce audio dalle casse del computer Non è prioritario.,Tecnico,bassa,virus rilevato non esce audio dalle casse del computer non è prioritario
+230,Busta paga errata,Richiedo un cambio di mansione Grazie per l'assistenza.,Amministrazione,media,busta paga errata richiedo un cambio di mansione grazie per l'assistenza
+231,Richiesta permesso,Vorrei attivare lo smart working Problema grave che blocca tutto.,Amministrazione,alta,richiesta permesso vorrei attivare lo smart working problema grave che blocca tutto
+232,RAM insufficiente,Non esce audio dalle casse del computer Cordiali saluti.,Tecnico,media,ram insufficiente non esce audio dalle casse del computer cordiali saluti
+233,Contratto fornitura,Vorrei informazioni sulla promozione attiva Solo per curiosità.,Commerciale,bassa,contratto fornitura vorrei informazioni sulla promozione attiva solo per curiosità
+234,Licenza scaduta,La webcam non viene riconosciuta dal sistema Senza fretta.,Tecnico,bassa,licenza scaduta la webcam non viene riconosciuta dal sistema senza fretta
+235,Aggiornamento fallito,Il mouse wireless non risponde Non è prioritario.,Tecnico,bassa,aggiornamento fallito il mouse wireless non risponde non è prioritario
+236,Catalogo prodotti,Vorrei ricevere il catalogo prodotti completo Grazie in anticipo.,Commerciale,media,catalogo prodotti vorrei ricevere il catalogo prodotti completo grazie in anticipo
+237,Modifica ordine,Vorrei disdire il servizio attivo Senza fretta.,Commerciale,bassa,modifica ordine vorrei disdire il servizio attivo senza fretta
+238,Malattia,Richiedo un permesso per visita medica Solo per avere informazioni.,Amministrazione,bassa,malattia richiedo un permesso per visita medica solo per avere informazioni
+239,Richiesta TFR,Devo aggiornare il mio indirizzo di residenza Cordiali saluti.,Amministrazione,media,richiesta tfr devo aggiornare il mio indirizzo di residenza cordiali saluti
+240,Informazioni prodotto,"L'articolo che cerco è disponibile in magazzino? È urgente, non riesco a lavorare.",Commerciale,alta,informazioni prodotto l'articolo che cerco è disponibile in magazzino è urgente non riesco a lavorare
+241,Detrazioni fiscali,Vorrei richiedere le ferie per il mese prossimo Cordiali saluti.,Amministrazione,media,detrazioni fiscali vorrei richiedere le ferie per il mese prossimo cordiali saluti
+242,Server non risponde,"Manca il driver della scheda video È urgente, non riesco a lavorare.",Tecnico,alta,server non risponde manca il driver della scheda video è urgente non riesco a lavorare
+243,File corrotto,Non riesco a collegare dispositivi Bluetooth Resto in attesa di risposta.,Tecnico,media,file corrotto non riesco a collegare dispositivi bluetooth resto in attesa di risposta
+244,Attestato di servizio,Vorrei richiedere il congedo parentale Quando possibile.,Amministrazione,bassa,attestato di servizio vorrei richiedere il congedo parentale quando possibile
+245,Email non arrivano,Il server aziendale non è raggiungibile Non è prioritario.,Tecnico,bassa,email non arrivano il server aziendale non è raggiungibile non è prioritario
+246,Annullamento ordine,Richiedo la sostituzione dell'articolo difettoso Grazie per l'assistenza.,Commerciale,media,annullamento ordine richiedo la sostituzione dell'articolo difettoso grazie per l'assistenza
+247,Contratto fornitura,Vorrei ricevere un preventivo per i vostri servizi Ho bisogno di aiuto immediato.,Commerciale,alta,contratto fornitura vorrei ricevere un preventivo per i vostri servizi ho bisogno di aiuto immediato
+248,Lettera referenze,Ho bisogno di modificare le detrazioni fiscali Senza fretta.,Amministrazione,bassa,lettera referenze ho bisogno di modificare le detrazioni fiscali senza fretta
+249,Malattia,Vorrei attivare lo smart working Cordiali saluti.,Amministrazione,media,malattia vorrei attivare lo smart working cordiali saluti
+250,Assistenza post-vendita,Devo modificare la quantità dell'ordine effettuato Solo per curiosità.,Commerciale,bassa,assistenza post-vendita devo modificare la quantità dell'ordine effettuato solo per curiosità
+251,Disco pieno,L'applicazione si chiude inaspettatamente Attendo riscontro.,Tecnico,media,disco pieno l'applicazione si chiude inaspettatamente attendo riscontro
+252,Reso merce,Siamo interessati a una partnership commerciale Solo per curiosità.,Commerciale,bassa,reso merce siamo interessati a una partnership commerciale solo per curiosità
+253,USB non riconosciuta,Impossibile navigare su internet Solo per curiosità.,Tecnico,bassa,usb non riconosciuta impossibile navigare su internet solo per curiosità
+254,Ordine in ritardo,Vorrei effettuare il reso della merce acquistata Solo per curiosità.,Commerciale,bassa,ordine in ritardo vorrei effettuare il reso della merce acquistata solo per curiosità
+255,Software non funziona,"La webcam non viene riconosciuta dal sistema Sono fermo, non posso procedere.",Tecnico,alta,software non funziona la webcam non viene riconosciuta dal sistema sono fermo non posso procedere
+256,Garanzia prodotto,Il prodotto ricevuto presenta dei difetti Non è prioritario.,Commerciale,bassa,garanzia prodotto il prodotto ricevuto presenta dei difetti non è prioritario
+257,Reso merce,Vorrei disdire il servizio attivo Non è prioritario.,Commerciale,bassa,reso merce vorrei disdire il servizio attivo non è prioritario
+258,Sollecito pagamento,"Invio sollecito per il pagamento della fattura Non è urgente, quando avete tempo.",Commerciale,bassa,sollecito pagamento invio sollecito per il pagamento della fattura non è urgente quando avete tempo
+259,Informazioni prodotto,"Vorrei disdire il servizio attivo Situazione critica, sistema bloccato.",Commerciale,alta,informazioni prodotto vorrei disdire il servizio attivo situazione critica sistema bloccato
+260,Computer lento,L'aggiornamento del sistema operativo è fallito Resto in attesa di risposta.,Tecnico,media,computer lento l'aggiornamento del sistema operativo è fallito resto in attesa di risposta
+261,Disdetta servizio,Vorrei verificare il credito residuo Fatemi sapere.,Commerciale,media,disdetta servizio vorrei verificare il credito residuo fatemi sapere
+262,Rinnovo contratto,Richiedo informazioni sul congedo di maternità Cordiali saluti.,Amministrazione,media,rinnovo contratto richiedo informazioni sul congedo di maternità cordiali saluti
+263,Promozione attiva,Vorrei ricevere un preventivo per i vostri servizi Grazie per l'assistenza.,Commerciale,media,promozione attiva vorrei ricevere un preventivo per i vostri servizi grazie per l'assistenza
+264,Connessione internet assente,"Il disco C: è quasi pieno Emergenza, serve intervento immediato.",Tecnico,alta,connessione internet assente il disco c è quasi pieno emergenza serve intervento immediato
+265,Detrazioni fiscali,Devo aggiornare la richiesta assegni familiari Solo per curiosità.,Amministrazione,bassa,detrazioni fiscali devo aggiornare la richiesta assegni familiari solo per curiosità
+266,Sollecito pagamento,"Vorrei effettuare il reso della merce acquistata Sono fermo, non posso procedere.",Commerciale,alta,sollecito pagamento vorrei effettuare il reso della merce acquistata sono fermo non posso procedere
+267,Nota spese,Richiedo un anticipo sullo stipendio Ho bisogno di aiuto immediato.,Amministrazione,alta,nota spese richiedo un anticipo sullo stipendio ho bisogno di aiuto immediato
+268,VPN non funziona,Il computer impiega troppo tempo ad avviarsi È solo una domanda informativa.,Tecnico,bassa,vpn non funziona il computer impiega troppo tempo ad avviarsi è solo una domanda informativa
+269,Feedback servizio,Sono un nuovo cliente e vorrei registrarmi Solo per curiosità.,Commerciale,bassa,feedback servizio sono un nuovo cliente e vorrei registrarmi solo per curiosità
+270,Detrazioni fiscali,Vorrei informazioni sulla liquidazione del TFR Problema grave che blocca tutto.,Amministrazione,alta,detrazioni fiscali vorrei informazioni sulla liquidazione del tfr problema grave che blocca tutto
+271,Contratto da firmare,Devo organizzare una trasferta di lavoro A vostra comodità.,Amministrazione,bassa,contratto da firmare devo organizzare una trasferta di lavoro a vostra comodità
+272,Variazione orario,Richiedo un permesso per visita medica Non è prioritario.,Amministrazione,bassa,variazione orario richiedo un permesso per visita medica non è prioritario
+273,Informazioni prodotto,Siamo interessati a una partnership commerciale Quando possibile.,Commerciale,bassa,informazioni prodotto siamo interessati a una partnership commerciale quando possibile
+274,Reso merce,"Ho bisogno di informazioni su un prodotto specifico Quando possibile, grazie.",Commerciale,media,reso merce ho bisogno di informazioni su un prodotto specifico quando possibile grazie
+275,Rinnovo contratto,Il cedolino presenta delle anomalie Quando possibile.,Amministrazione,bassa,rinnovo contratto il cedolino presenta delle anomalie quando possibile
+276,Informazioni prodotto,La fattura ricevuta contiene degli errori Solo per curiosità.,Commerciale,bassa,informazioni prodotto la fattura ricevuta contiene degli errori solo per curiosità
+277,Promozione attiva,Invio sollecito per il pagamento della fattura È bloccante per il mio lavoro.,Commerciale,alta,promozione attiva invio sollecito per il pagamento della fattura è bloccante per il mio lavoro
+278,Licenza scaduta,La chiavetta USB non viene riconosciuta Attendo riscontro.,Tecnico,media,licenza scaduta la chiavetta usb non viene riconosciuta attendo riscontro
+279,Variazione orario,"Ho bisogno di una lettera di referenze Situazione critica, sistema bloccato.",Amministrazione,alta,variazione orario ho bisogno di una lettera di referenze situazione critica sistema bloccato
+280,Reclamo prodotto,Ho bisogno di assistenza post-vendita Solo per avere informazioni.,Commerciale,bassa,reclamo prodotto ho bisogno di assistenza post-vendita solo per avere informazioni
+281,Modifica anagrafica,Invio la nota spese del mese Quando possibile.,Amministrazione,bassa,modifica anagrafica invio la nota spese del mese quando possibile
+282,Nuovo cliente,"Vorrei effettuare il reso della merce acquistata Sono fermo, non posso procedere.",Commerciale,alta,nuovo cliente vorrei effettuare il reso della merce acquistata sono fermo non posso procedere
+283,Garanzia prodotto,Vorrei discutere un contratto di fornitura Non è prioritario.,Commerciale,bassa,garanzia prodotto vorrei discutere un contratto di fornitura non è prioritario
+284,Backup fallito,Devo configurare la mia casella email Problema grave che blocca tutto.,Tecnico,alta,backup fallito devo configurare la mia casella email problema grave che blocca tutto
+285,Certificato lavoro,Richiedo assistenza per il modello 730 Problema grave che blocca tutto.,Amministrazione,alta,certificato lavoro richiedo assistenza per il modello 730 problema grave che blocca tutto
+286,Contratto fornitura,Vorrei ricevere un preventivo per i vostri servizi Solo per avere informazioni.,Commerciale,bassa,contratto fornitura vorrei ricevere un preventivo per i vostri servizi solo per avere informazioni
+287,Tracciamento ordine,Siamo interessati a una partnership commerciale È solo una domanda informativa.,Commerciale,bassa,tracciamento ordine siamo interessati a una partnership commerciale è solo una domanda informativa
+288,Software non funziona,Il sistema è molto lento per mancanza di RAM Fatemi sapere.,Tecnico,media,software non funziona il sistema è molto lento per mancanza di ram fatemi sapere
+289,Backup fallito,La stampante non risponde ai comandi di stampa È solo una domanda informativa.,Tecnico,bassa,backup fallito la stampante non risponde ai comandi di stampa è solo una domanda informativa
+290,Offerta speciale,Richiedo il listino prezzi aggiornato Solo per curiosità.,Commerciale,bassa,offerta speciale richiedo il listino prezzi aggiornato solo per curiosità
+291,Aggiornamento fallito,Alcuni tasti della tastiera non funzionano Solo per avere informazioni.,Tecnico,bassa,aggiornamento fallito alcuni tasti della tastiera non funzionano solo per avere informazioni
+292,Certificato lavoro,Richiedo informazioni sul congedo di maternità Solo per avere informazioni.,Amministrazione,bassa,certificato lavoro richiedo informazioni sul congedo di maternità solo per avere informazioni
+293,Reclamo prodotto,La fattura ricevuta contiene degli errori Solo per avere informazioni.,Commerciale,bassa,reclamo prodotto la fattura ricevuta contiene degli errori solo per avere informazioni
+294,Rinnovo abbonamento,Richiedo il listino prezzi aggiornato Senza fretta.,Commerciale,bassa,rinnovo abbonamento richiedo il listino prezzi aggiornato senza fretta
+295,Busta paga errata,Il mio contratto è in scadenza Cordiali saluti.,Amministrazione,media,busta paga errata il mio contratto è in scadenza cordiali saluti
+296,Contratto da firmare,Devo richiedere il rimborso delle spese di viaggio Solo per avere informazioni.,Amministrazione,bassa,contratto da firmare devo richiedere il rimborso delle spese di viaggio solo per avere informazioni
+297,Disco pieno,"La chiavetta USB non viene riconosciuta Sono fermo, non posso procedere.",Tecnico,alta,disco pieno la chiavetta usb non viene riconosciuta sono fermo non posso procedere
+298,Trasferta,"Vorrei richiedere le ferie per il mese prossimo Urgentissimo, il cliente attende.",Amministrazione,alta,trasferta vorrei richiedere le ferie per il mese prossimo urgentissimo il cliente attende
+299,Nota spese,Devo aggiornare il mio indirizzo di residenza Cordiali saluti.,Amministrazione,media,nota spese devo aggiornare il mio indirizzo di residenza cordiali saluti
+300,Trasferta,Ho bisogno di un attestato di servizio A vostra comodità.,Amministrazione,bassa,trasferta ho bisogno di un attestato di servizio a vostra comodità
+301,Modifica ordine,Ho bisogno di una spedizione urgente Solo per curiosità.,Commerciale,bassa,modifica ordine ho bisogno di una spedizione urgente solo per curiosità
+302,Reso merce,È possibile ricevere dei campioni gratuiti?,Commerciale,media,reso merce è possibile ricevere dei campioni gratuiti
+303,Errore contributi,Devo comunicare un periodo di malattia Grazie in anticipo.,Amministrazione,media,errore contributi devo comunicare un periodo di malattia grazie in anticipo
+304,Ordine in ritardo,"Sono un nuovo cliente e vorrei registrarmi Quando possibile, grazie.",Commerciale,media,ordine in ritardo sono un nuovo cliente e vorrei registrarmi quando possibile grazie
+305,Sollecito pagamento,Richiedo il listino prezzi aggiornato Grazie in anticipo.,Commerciale,media,sollecito pagamento richiedo il listino prezzi aggiornato grazie in anticipo
+306,Email non arrivano,La chiavetta USB non viene riconosciuta È bloccante per il mio lavoro.,Tecnico,alta,email non arrivano la chiavetta usb non viene riconosciuta è bloccante per il mio lavoro
+307,Disco pieno,Il disco C: è quasi pieno,Tecnico,media,disco pieno il disco c è quasi pieno
+308,Disponibilità articolo,Vorrei discutere un contratto di fornitura Grazie per l'assistenza.,Commerciale,media,disponibilità articolo vorrei discutere un contratto di fornitura grazie per l'assistenza
+309,Informazioni prodotto,Vorrei tracciare il mio ordine,Commerciale,media,informazioni prodotto vorrei tracciare il mio ordine
+310,Mouse non funziona,Il monitor presenta sfarfallii continui Senza fretta.,Tecnico,bassa,mouse non funziona il monitor presenta sfarfallii continui senza fretta
+311,Assistenza post-vendita,"Vorrei verificare il credito residuo Non è urgente, quando avete tempo.",Commerciale,bassa,assistenza post-vendita vorrei verificare il credito residuo non è urgente quando avete tempo
+312,Cambio IBAN,Ho bisogno di modificare le detrazioni fiscali Fatemi sapere.,Amministrazione,media,cambio iban ho bisogno di modificare le detrazioni fiscali fatemi sapere
+313,Software non funziona,Il server aziendale non è raggiungibile Resto in attesa di risposta.,Tecnico,media,software non funziona il server aziendale non è raggiungibile resto in attesa di risposta
+314,CUD mancante,Il cedolino presenta delle anomalie Ho bisogno di aiuto immediato.,Amministrazione,alta,cud mancante il cedolino presenta delle anomalie ho bisogno di aiuto immediato
+315,Trasferta,"Devo aggiornare il mio indirizzo di residenza Emergenza, serve intervento immediato.",Amministrazione,alta,trasferta devo aggiornare il mio indirizzo di residenza emergenza serve intervento immediato
+316,Pagamento effettuato,Richiedo il listino prezzi aggiornato Senza fretta.,Commerciale,bassa,pagamento effettuato richiedo il listino prezzi aggiornato senza fretta
+317,Certificato lavoro,Vorrei informazioni sulla liquidazione del TFR È solo una domanda informativa.,Amministrazione,bassa,certificato lavoro vorrei informazioni sulla liquidazione del tfr è solo una domanda informativa
+318,Upgrade piano,Vorrei effettuare il reso della merce acquistata Solo per curiosità.,Commerciale,bassa,upgrade piano vorrei effettuare il reso della merce acquistata solo per curiosità
+319,Straordinari non pagati,Devo organizzare una trasferta di lavoro È bloccante per il mio lavoro.,Amministrazione,alta,straordinari non pagati devo organizzare una trasferta di lavoro è bloccante per il mio lavoro
+320,Richiesta permesso,Vorrei attivare lo smart working È solo una domanda informativa.,Amministrazione,bassa,richiesta permesso vorrei attivare lo smart working è solo una domanda informativa
+321,Sostituzione articolo,"È possibile ricevere dei campioni gratuiti? Non è urgente, quando avete tempo.",Commerciale,bassa,sostituzione articolo è possibile ricevere dei campioni gratuiti non è urgente quando avete tempo
+322,Offerta speciale,L'articolo che cerco è disponibile in magazzino? Problema grave che blocca tutto.,Commerciale,alta,offerta speciale l'articolo che cerco è disponibile in magazzino problema grave che blocca tutto
+323,Attestato di servizio,Devo organizzare una trasferta di lavoro Resto in attesa di risposta.,Amministrazione,media,attestato di servizio devo organizzare una trasferta di lavoro resto in attesa di risposta
+324,Prestito aziendale,"Non ho ricevuto la CUD di quest'anno Emergenza, serve intervento immediato.",Amministrazione,alta,prestito aziendale non ho ricevuto la cud di quest'anno emergenza serve intervento immediato
+325,Password dimenticata,Il sistema mostra un errore critico all'avvio Solo per avere informazioni.,Tecnico,bassa,password dimenticata il sistema mostra un errore critico all'avvio solo per avere informazioni
+326,Bluetooth non funziona,Il sistema mostra un errore critico all'avvio Resto in attesa di risposta.,Tecnico,media,bluetooth non funziona il sistema mostra un errore critico all'avvio resto in attesa di risposta
+327,Annullamento ordine,"Vorrei verificare il credito residuo Emergenza, serve intervento immediato.",Commerciale,alta,annullamento ordine vorrei verificare il credito residuo emergenza serve intervento immediato
+328,Pagamento effettuato,"Devo rinnovare il mio abbonamento Non è urgente, quando avete tempo.",Commerciale,bassa,pagamento effettuato devo rinnovare il mio abbonamento non è urgente quando avete tempo
+329,Reclamo prodotto,Vorrei verificare il credito residuo Resto in attesa di risposta.,Commerciale,media,reclamo prodotto vorrei verificare il credito residuo resto in attesa di risposta
+330,Attestato di servizio,"Gli straordinari del mese scorso non sono stati pagati Emergenza, serve intervento immediato.",Amministrazione,alta,attestato di servizio gli straordinari del mese scorso non sono stati pagati emergenza serve intervento immediato
+331,Attestato di servizio,Devo comunicare un periodo di malattia Resto in attesa di risposta.,Amministrazione,media,attestato di servizio devo comunicare un periodo di malattia resto in attesa di risposta
+332,Trasferta,Richiedo una variazione dell'orario di lavoro Attendo riscontro.,Amministrazione,media,trasferta richiedo una variazione dell'orario di lavoro attendo riscontro
+333,Sollecito pagamento,Confermo di aver effettuato il pagamento Senza fretta.,Commerciale,bassa,sollecito pagamento confermo di aver effettuato il pagamento senza fretta
+334,Errore contributi,Ho ricevuto il contratto da firmare A vostra comodità.,Amministrazione,bassa,errore contributi ho ricevuto il contratto da firmare a vostra comodità
+335,Lettera referenze,"Ho bisogno di una lettera di referenze Emergenza, serve intervento immediato.",Amministrazione,alta,lettera referenze ho bisogno di una lettera di referenze emergenza serve intervento immediato
+336,Reclamo prodotto,Richiedo la sostituzione dell'articolo difettoso Cordiali saluti.,Commerciale,media,reclamo prodotto richiedo la sostituzione dell'articolo difettoso cordiali saluti
+337,Congedo parentale,"Devo aggiornare la richiesta assegni familiari È urgente, non riesco a lavorare.",Amministrazione,alta,congedo parentale devo aggiornare la richiesta assegni familiari è urgente non riesco a lavorare
+338,Server non risponde,La connessione VPN si disconnette continuamente Attendo riscontro.,Tecnico,media,server non risponde la connessione vpn si disconnette continuamente attendo riscontro
+339,Server non risponde,"Il file Excel non si apre correttamente Non è urgente, quando avete tempo.",Tecnico,bassa,server non risponde il file excel non si apre correttamente non è urgente quando avete tempo
+340,Listino prezzi,"Richiedo il listino prezzi aggiornato Urgentissimo, il cliente attende.",Commerciale,alta,listino prezzi richiedo il listino prezzi aggiornato urgentissimo il cliente attende
+341,Rimborso spese,Ho bisogno di un certificato di lavoro per la banca È bloccante per il mio lavoro.,Amministrazione,alta,rimborso spese ho bisogno di un certificato di lavoro per la banca è bloccante per il mio lavoro
+342,Virus rilevato,Il sistema mostra un errore critico all'avvio,Tecnico,media,virus rilevato il sistema mostra un errore critico all'avvio
+343,Configurazione email,Non riesco a collegare dispositivi Bluetooth Resto in attesa di risposta.,Tecnico,media,configurazione email non riesco a collegare dispositivi bluetooth resto in attesa di risposta
+344,VPN non funziona,"Impossibile navigare su internet Emergenza, serve intervento immediato.",Tecnico,alta,vpn non funziona impossibile navigare su internet emergenza serve intervento immediato
+345,Credito cliente,L'articolo che cerco è disponibile in magazzino? Problema grave che blocca tutto.,Commerciale,alta,credito cliente l'articolo che cerco è disponibile in magazzino problema grave che blocca tutto
+346,RAM insufficiente,Non esce audio dalle casse del computer Fatemi sapere.,Tecnico,media,ram insufficiente non esce audio dalle casse del computer fatemi sapere
+347,Richiesta preventivo,Ho bisogno di una spedizione urgente Cordiali saluti.,Commerciale,media,richiesta preventivo ho bisogno di una spedizione urgente cordiali saluti
+348,Variazione orario,Gli straordinari del mese scorso non sono stati pagati Solo per avere informazioni.,Amministrazione,bassa,variazione orario gli straordinari del mese scorso non sono stati pagati solo per avere informazioni
+349,Listino prezzi,Vorrei informazioni sulla promozione attiva Solo per curiosità.,Commerciale,bassa,listino prezzi vorrei informazioni sulla promozione attiva solo per curiosità
+350,Dimissioni,"I contributi versati risultano errati Situazione critica, sistema bloccato.",Amministrazione,alta,dimissioni i contributi versati risultano errati situazione critica sistema bloccato
+351,Aggiornamento fallito,Lo schermo rimane nero dopo l'accensione Problema grave che blocca tutto.,Tecnico,alta,aggiornamento fallito lo schermo rimane nero dopo l'accensione problema grave che blocca tutto
+352,Credito cliente,Vorrei ricevere il catalogo prodotti completo Problema grave che blocca tutto.,Commerciale,alta,credito cliente vorrei ricevere il catalogo prodotti completo problema grave che blocca tutto
+353,Software da installare,"L'applicazione si chiude inaspettatamente Quando possibile, grazie.",Tecnico,media,software da installare l'applicazione si chiude inaspettatamente quando possibile grazie
+354,Configurazione email,"L'aggiornamento del sistema operativo è fallito È urgente, non riesco a lavorare.",Tecnico,alta,configurazione email l'aggiornamento del sistema operativo è fallito è urgente non riesco a lavorare
+355,Problema cedolino,Il mio contratto è in scadenza Non è prioritario.,Amministrazione,bassa,problema cedolino il mio contratto è in scadenza non è prioritario
+356,Tracciamento ordine,"Vorrei ricevere il catalogo prodotti completo Emergenza, serve intervento immediato.",Commerciale,alta,tracciamento ordine vorrei ricevere il catalogo prodotti completo emergenza serve intervento immediato
+357,Prestito aziendale,Vorrei informazioni sulla liquidazione del TFR Solo per curiosità.,Amministrazione,bassa,prestito aziendale vorrei informazioni sulla liquidazione del tfr solo per curiosità
+358,Errore contributi,I contributi versati risultano errati Cordiali saluti.,Amministrazione,media,errore contributi i contributi versati risultano errati cordiali saluti
+359,Feedback servizio,Vorrei lasciare un feedback sul servizio ricevuto Fatemi sapere.,Commerciale,media,feedback servizio vorrei lasciare un feedback sul servizio ricevuto fatemi sapere
+360,Lettera referenze,Devo comunicare il nuovo IBAN per l'accredito stipendio È solo una domanda informativa.,Amministrazione,bassa,lettera referenze devo comunicare il nuovo iban per l'accredito stipendio è solo una domanda informativa
+361,Assegni familiari,Ho bisogno di un attestato di servizio Problema grave che blocca tutto.,Amministrazione,alta,assegni familiari ho bisogno di un attestato di servizio problema grave che blocca tutto
+362,Garanzia prodotto,Siamo interessati a una partnership commerciale Problema grave che blocca tutto.,Commerciale,alta,garanzia prodotto siamo interessati a una partnership commerciale problema grave che blocca tutto
+363,Rinnovo abbonamento,Vorrei effettuare il reso della merce acquistata Solo per avere informazioni.,Commerciale,bassa,rinnovo abbonamento vorrei effettuare il reso della merce acquistata solo per avere informazioni
+364,CUD mancante,I contributi versati risultano errati Senza fretta.,Amministrazione,bassa,cud mancante i contributi versati risultano errati senza fretta
+365,Problema di rete,Il server aziendale non è raggiungibile Quando possibile.,Tecnico,bassa,problema di rete il server aziendale non è raggiungibile quando possibile
+366,Tracciamento ordine,"Vorrei tracciare il mio ordine Non è urgente, quando avete tempo.",Commerciale,bassa,tracciamento ordine vorrei tracciare il mio ordine non è urgente quando avete tempo
+367,CUD mancante,Devo aggiornare il mio indirizzo di residenza Non è prioritario.,Amministrazione,bassa,cud mancante devo aggiornare il mio indirizzo di residenza non è prioritario
+368,File corrotto,La webcam non viene riconosciuta dal sistema Resto in attesa di risposta.,Tecnico,media,file corrotto la webcam non viene riconosciuta dal sistema resto in attesa di risposta
+369,Software non funziona,Alcuni tasti della tastiera non funzionano È solo una domanda informativa.,Tecnico,bassa,software non funziona alcuni tasti della tastiera non funzionano è solo una domanda informativa
+370,Busta paga errata,Vorrei attivare lo smart working Solo per curiosità.,Amministrazione,bassa,busta paga errata vorrei attivare lo smart working solo per curiosità
+371,Disco pieno,Il computer impiega troppo tempo ad avviarsi Resto in attesa di risposta.,Tecnico,media,disco pieno il computer impiega troppo tempo ad avviarsi resto in attesa di risposta
+372,Credito cliente,Sono un nuovo cliente e vorrei registrarmi È solo una domanda informativa.,Commerciale,bassa,credito cliente sono un nuovo cliente e vorrei registrarmi è solo una domanda informativa
+373,Driver mancante,Alcuni tasti della tastiera non funzionano È solo una domanda informativa.,Tecnico,bassa,driver mancante alcuni tasti della tastiera non funzionano è solo una domanda informativa
+374,Configurazione email,Il PC si spegne improvvisamente senza motivo È bloccante per il mio lavoro.,Tecnico,alta,configurazione email il pc si spegne improvvisamente senza motivo è bloccante per il mio lavoro
+375,Disponibilità articolo,Confermo di aver effettuato il pagamento Ho bisogno di aiuto immediato.,Commerciale,alta,disponibilità articolo confermo di aver effettuato il pagamento ho bisogno di aiuto immediato
+376,Problema cedolino,Gli straordinari del mese scorso non sono stati pagati Ho bisogno di aiuto immediato.,Amministrazione,alta,problema cedolino gli straordinari del mese scorso non sono stati pagati ho bisogno di aiuto immediato
+377,Maternità,Vorrei attivare lo smart working Quando possibile.,Amministrazione,bassa,maternità vorrei attivare lo smart working quando possibile
+378,Informazioni prodotto,Richiedo il listino prezzi aggiornato Attendo riscontro.,Commerciale,media,informazioni prodotto richiedo il listino prezzi aggiornato attendo riscontro
+379,Trasferta,Non ho ricevuto la CUD di quest'anno Resto in attesa di risposta.,Amministrazione,media,trasferta non ho ricevuto la cud di quest'anno resto in attesa di risposta
+380,Busta paga errata,Ho ricevuto il contratto da firmare Cordiali saluti.,Amministrazione,media,busta paga errata ho ricevuto il contratto da firmare cordiali saluti
+381,Busta paga errata,Non ho ricevuto la CUD di quest'anno Grazie per l'assistenza.,Amministrazione,media,busta paga errata non ho ricevuto la cud di quest'anno grazie per l'assistenza
+382,Lettera referenze,Richiedo una variazione dell'orario di lavoro A vostra comodità.,Amministrazione,bassa,lettera referenze richiedo una variazione dell'orario di lavoro a vostra comodità
+383,Cambio IBAN,Gli straordinari del mese scorso non sono stati pagati,Amministrazione,media,cambio iban gli straordinari del mese scorso non sono stati pagati
+384,PC si spegne da solo,Il monitor presenta sfarfallii continui È bloccante per il mio lavoro.,Tecnico,alta,pc si spegne da solo il monitor presenta sfarfallii continui è bloccante per il mio lavoro
+385,Rinnovo contratto,Ho bisogno di un attestato di servizio A vostra comodità.,Amministrazione,bassa,rinnovo contratto ho bisogno di un attestato di servizio a vostra comodità
+386,Smart working,Ho notato un errore nell'importo della busta paga Cordiali saluti.,Amministrazione,media,smart working ho notato un errore nell'importo della busta paga cordiali saluti
+387,Stampante non stampa,"Il PC si spegne improvvisamente senza motivo È urgente, non riesco a lavorare.",Tecnico,alta,stampante non stampa il pc si spegne improvvisamente senza motivo è urgente non riesco a lavorare
+388,Schermo nero,La stampante non risponde ai comandi di stampa Senza fretta.,Tecnico,bassa,schermo nero la stampante non risponde ai comandi di stampa senza fretta
+389,Licenza scaduta,"La connessione VPN si disconnette continuamente Urgentissimo, il cliente attende.",Tecnico,alta,licenza scaduta la connessione vpn si disconnette continuamente urgentissimo il cliente attende
+390,Rinnovo abbonamento,Siamo interessati a una partnership commerciale Ho bisogno di aiuto immediato.,Commerciale,alta,rinnovo abbonamento siamo interessati a una partnership commerciale ho bisogno di aiuto immediato
+391,Assegni familiari,Devo organizzare una trasferta di lavoro Quando possibile.,Amministrazione,bassa,assegni familiari devo organizzare una trasferta di lavoro quando possibile
+392,File corrotto,"L'antivirus ha rilevato una minaccia Emergenza, serve intervento immediato.",Tecnico,alta,file corrotto l'antivirus ha rilevato una minaccia emergenza serve intervento immediato
+393,Contratto da firmare,Devo aggiornare la richiesta assegni familiari,Amministrazione,media,contratto da firmare devo aggiornare la richiesta assegni familiari
+394,Busta paga errata,Devo organizzare una trasferta di lavoro,Amministrazione,media,busta paga errata devo organizzare una trasferta di lavoro
+395,Richiesta campioni,Ho bisogno di assistenza post-vendita Solo per avere informazioni.,Commerciale,bassa,richiesta campioni ho bisogno di assistenza post-vendita solo per avere informazioni
+396,Nota spese,Ho notato un errore nell'importo della busta paga Grazie in anticipo.,Amministrazione,media,nota spese ho notato un errore nell'importo della busta paga grazie in anticipo
+397,Tracciamento ordine,"Devo rinnovare il mio abbonamento È urgente, non riesco a lavorare.",Commerciale,alta,tracciamento ordine devo rinnovare il mio abbonamento è urgente non riesco a lavorare
+398,Dimissioni,I contributi versati risultano errati Cordiali saluti.,Amministrazione,media,dimissioni i contributi versati risultano errati cordiali saluti
+399,Disdetta servizio,Devo rinnovare il mio abbonamento È solo una domanda informativa.,Commerciale,bassa,disdetta servizio devo rinnovare il mio abbonamento è solo una domanda informativa
+400,Configurazione email,L'aggiornamento del sistema operativo è fallito È bloccante per il mio lavoro.,Tecnico,alta,configurazione email l'aggiornamento del sistema operativo è fallito è bloccante per il mio lavoro
+401,Assistenza post-vendita,Vorrei lasciare un feedback sul servizio ricevuto Cordiali saluti.,Commerciale,media,assistenza post-vendita vorrei lasciare un feedback sul servizio ricevuto cordiali saluti
+402,Stampante non stampa,Il computer impiega troppo tempo ad avviarsi Solo per curiosità.,Tecnico,bassa,stampante non stampa il computer impiega troppo tempo ad avviarsi solo per curiosità
+403,Assegni familiari,"Ho bisogno di una lettera di referenze Non è urgente, quando avete tempo.",Amministrazione,bassa,assegni familiari ho bisogno di una lettera di referenze non è urgente quando avete tempo
+404,Certificato lavoro,Vorrei informazioni sulla liquidazione del TFR Grazie per l'assistenza.,Amministrazione,media,certificato lavoro vorrei informazioni sulla liquidazione del tfr grazie per l'assistenza
+405,Congedo parentale,Vorrei richiedere il congedo parentale Grazie in anticipo.,Amministrazione,media,congedo parentale vorrei richiedere il congedo parentale grazie in anticipo
+406,Garanzia prodotto,Vorrei ricevere un preventivo per i vostri servizi,Commerciale,media,garanzia prodotto vorrei ricevere un preventivo per i vostri servizi
+407,Cambio mansione,Ho ricevuto il contratto da firmare Resto in attesa di risposta.,Amministrazione,media,cambio mansione ho ricevuto il contratto da firmare resto in attesa di risposta
+408,Software da installare,"Il backup automatico non viene eseguito Non è urgente, quando avete tempo.",Tecnico,bassa,software da installare il backup automatico non viene eseguito non è urgente quando avete tempo
+409,Sollecito pagamento,Vorrei verificare il credito residuo Resto in attesa di risposta.,Commerciale,media,sollecito pagamento vorrei verificare il credito residuo resto in attesa di risposta
+410,Pagamento effettuato,"Vorrei ricevere un preventivo per i vostri servizi Quando possibile, grazie.",Commerciale,media,pagamento effettuato vorrei ricevere un preventivo per i vostri servizi quando possibile grazie
+411,Driver mancante,"Il sistema nega l'accesso ai file condivisi È urgente, non riesco a lavorare.",Tecnico,alta,driver mancante il sistema nega l'accesso ai file condivisi è urgente non riesco a lavorare
+412,Feedback servizio,"Vorrei lasciare un feedback sul servizio ricevuto Sono fermo, non posso procedere.",Commerciale,alta,feedback servizio vorrei lasciare un feedback sul servizio ricevuto sono fermo non posso procedere
+413,Connessione internet assente,Il computer impiega troppo tempo ad avviarsi Solo per avere informazioni.,Tecnico,bassa,connessione internet assente il computer impiega troppo tempo ad avviarsi solo per avere informazioni
+414,Sostituzione articolo,Vorrei informazioni sulla promozione attiva A vostra comodità.,Commerciale,bassa,sostituzione articolo vorrei informazioni sulla promozione attiva a vostra comodità
+415,Nota spese,"Ho bisogno di un certificato di lavoro per la banca Quando possibile, grazie.",Amministrazione,media,nota spese ho bisogno di un certificato di lavoro per la banca quando possibile grazie
+416,Modifica anagrafica,Vorrei attivare lo smart working È solo una domanda informativa.,Amministrazione,bassa,modifica anagrafica vorrei attivare lo smart working è solo una domanda informativa
+417,Reso merce,"Richiedo il listino prezzi aggiornato Emergenza, serve intervento immediato.",Commerciale,alta,reso merce richiedo il listino prezzi aggiornato emergenza serve intervento immediato
+418,Backup fallito,Il computer impiega troppo tempo ad avviarsi Solo per avere informazioni.,Tecnico,bassa,backup fallito il computer impiega troppo tempo ad avviarsi solo per avere informazioni
+419,Nota spese,Gli straordinari del mese scorso non sono stati pagati A vostra comodità.,Amministrazione,bassa,nota spese gli straordinari del mese scorso non sono stati pagati a vostra comodità
+420,Sconto richiesto,Ho bisogno di assistenza post-vendita Solo per curiosità.,Commerciale,bassa,sconto richiesto ho bisogno di assistenza post-vendita solo per curiosità
+421,Nuovo cliente,Vorrei ricevere il catalogo prodotti completo A vostra comodità.,Commerciale,bassa,nuovo cliente vorrei ricevere il catalogo prodotti completo a vostra comodità
+422,CUD mancante,Vorrei attivare lo smart working Senza fretta.,Amministrazione,bassa,cud mancante vorrei attivare lo smart working senza fretta
+423,Tastiera bloccata,"Il PC si spegne improvvisamente senza motivo Non è urgente, quando avete tempo.",Tecnico,bassa,tastiera bloccata il pc si spegne improvvisamente senza motivo non è urgente quando avete tempo
+424,VPN non funziona,"L'antivirus ha rilevato una minaccia Quando possibile, grazie.",Tecnico,media,vpn non funziona l'antivirus ha rilevato una minaccia quando possibile grazie
+425,Congedo parentale,"Ho notato un errore nell'importo della busta paga Quando possibile, grazie.",Amministrazione,media,congedo parentale ho notato un errore nell'importo della busta paga quando possibile grazie
+426,Nuovo cliente,"È possibile ottenere uno sconto per grandi quantità? Quando possibile, grazie.",Commerciale,media,nuovo cliente è possibile ottenere uno sconto per grandi quantità quando possibile grazie
+427,Sconto richiesto,Il mio ordine è in ritardo rispetto alla data prevista Resto in attesa di risposta.,Commerciale,media,sconto richiesto il mio ordine è in ritardo rispetto alla data prevista resto in attesa di risposta
+428,File corrotto,Alcuni tasti della tastiera non funzionano Grazie in anticipo.,Tecnico,media,file corrotto alcuni tasti della tastiera non funzionano grazie in anticipo
+429,File corrotto,Il mouse wireless non risponde Attendo riscontro.,Tecnico,media,file corrotto il mouse wireless non risponde attendo riscontro
+430,Driver mancante,"La chiavetta USB non viene riconosciuta Sono fermo, non posso procedere.",Tecnico,alta,driver mancante la chiavetta usb non viene riconosciuta sono fermo non posso procedere
+431,Problema cedolino,Il mio contratto è in scadenza Fatemi sapere.,Amministrazione,media,problema cedolino il mio contratto è in scadenza fatemi sapere
+432,Sollecito pagamento,Ci sono offerte speciali in corso? Grazie per l'assistenza.,Commerciale,media,sollecito pagamento ci sono offerte speciali in corso grazie per l'assistenza
+433,Informazioni prodotto,L'articolo che cerco è disponibile in magazzino? Resto in attesa di risposta.,Commerciale,media,informazioni prodotto l'articolo che cerco è disponibile in magazzino resto in attesa di risposta
+434,Assegni familiari,Vorrei attivare lo smart working Solo per curiosità.,Amministrazione,bassa,assegni familiari vorrei attivare lo smart working solo per curiosità
+435,Richiesta TFR,Ho bisogno di modificare le detrazioni fiscali Solo per avere informazioni.,Amministrazione,bassa,richiesta tfr ho bisogno di modificare le detrazioni fiscali solo per avere informazioni
+436,Certificato lavoro,Ho ricevuto il contratto da firmare Non è prioritario.,Amministrazione,bassa,certificato lavoro ho ricevuto il contratto da firmare non è prioritario
+437,Prestito aziendale,I contributi versati risultano errati Grazie in anticipo.,Amministrazione,media,prestito aziendale i contributi versati risultano errati grazie in anticipo
+438,Computer lento,La stampante non risponde ai comandi di stampa Solo per avere informazioni.,Tecnico,bassa,computer lento la stampante non risponde ai comandi di stampa solo per avere informazioni
+439,Contratto da firmare,Devo comunicare un periodo di malattia Non è prioritario.,Amministrazione,bassa,contratto da firmare devo comunicare un periodo di malattia non è prioritario
+440,Richiesta TFR,Vorrei informazioni sul prestito aziendale,Amministrazione,media,richiesta tfr vorrei informazioni sul prestito aziendale
+441,Driver mancante,L'aggiornamento del sistema operativo è fallito Resto in attesa di risposta.,Tecnico,media,driver mancante l'aggiornamento del sistema operativo è fallito resto in attesa di risposta
+442,Configurazione email,L'applicazione si chiude inaspettatamente Non è prioritario.,Tecnico,bassa,configurazione email l'applicazione si chiude inaspettatamente non è prioritario
+443,Configurazione email,Il monitor presenta sfarfallii continui Fatemi sapere.,Tecnico,media,configurazione email il monitor presenta sfarfallii continui fatemi sapere
+444,Tracciamento ordine,Invio sollecito per il pagamento della fattura,Commerciale,media,tracciamento ordine invio sollecito per il pagamento della fattura
+445,Assegni familiari,"Richiedo un anticipo sullo stipendio Emergenza, serve intervento immediato.",Amministrazione,alta,assegni familiari richiedo un anticipo sullo stipendio emergenza serve intervento immediato
+446,Richiesta permesso,Vorrei richiedere il congedo parentale,Amministrazione,media,richiesta permesso vorrei richiedere il congedo parentale
+447,RAM insufficiente,"Non riesco a collegare dispositivi Bluetooth Emergenza, serve intervento immediato.",Tecnico,alta,ram insufficiente non riesco a collegare dispositivi bluetooth emergenza serve intervento immediato
+448,Richiesta campioni,Vorrei effettuare il reso della merce acquistata Quando possibile.,Commerciale,bassa,richiesta campioni vorrei effettuare il reso della merce acquistata quando possibile
+449,Contratto fornitura,"Vorrei discutere un contratto di fornitura Quando possibile, grazie.",Commerciale,media,contratto fornitura vorrei discutere un contratto di fornitura quando possibile grazie
+450,Modifica ordine,"Ci sono offerte speciali in corso? Non è urgente, quando avete tempo.",Commerciale,bassa,modifica ordine ci sono offerte speciali in corso non è urgente quando avete tempo
+451,Upgrade piano,Richiedo il listino prezzi aggiornato Solo per avere informazioni.,Commerciale,bassa,upgrade piano richiedo il listino prezzi aggiornato solo per avere informazioni
+452,Aggiornamento fallito,"Il computer impiega troppo tempo ad avviarsi Non è urgente, quando avete tempo.",Tecnico,bassa,aggiornamento fallito il computer impiega troppo tempo ad avviarsi non è urgente quando avete tempo
+453,Virus rilevato,Il sistema mostra un errore critico all'avvio A vostra comodità.,Tecnico,bassa,virus rilevato il sistema mostra un errore critico all'avvio a vostra comodità
+454,Problema di rete,La connessione VPN si disconnette continuamente Non è prioritario.,Tecnico,bassa,problema di rete la connessione vpn si disconnette continuamente non è prioritario
+455,Virus rilevato,"Devo configurare la mia casella email Non è urgente, quando avete tempo.",Tecnico,bassa,virus rilevato devo configurare la mia casella email non è urgente quando avete tempo
+456,Prestito aziendale,Invio la nota spese del mese Cordiali saluti.,Amministrazione,media,prestito aziendale invio la nota spese del mese cordiali saluti
+457,Licenza scaduta,Il server aziendale non è raggiungibile A vostra comodità.,Tecnico,bassa,licenza scaduta il server aziendale non è raggiungibile a vostra comodità
+458,Bluetooth non funziona,"Il mouse wireless non risponde Non è urgente, quando avete tempo.",Tecnico,bassa,bluetooth non funziona il mouse wireless non risponde non è urgente quando avete tempo
+459,Certificato lavoro,Il cedolino presenta delle anomalie Resto in attesa di risposta.,Amministrazione,media,certificato lavoro il cedolino presenta delle anomalie resto in attesa di risposta
+460,Lettera referenze,Devo aggiornare il mio indirizzo di residenza Grazie in anticipo.,Amministrazione,media,lettera referenze devo aggiornare il mio indirizzo di residenza grazie in anticipo
+461,Trasferta,Richiedo un cambio di mansione Ho bisogno di aiuto immediato.,Amministrazione,alta,trasferta richiedo un cambio di mansione ho bisogno di aiuto immediato
+462,Promozione attiva,"Ho bisogno di una spedizione urgente Sono fermo, non posso procedere.",Commerciale,alta,promozione attiva ho bisogno di una spedizione urgente sono fermo non posso procedere
+463,Webcam non rilevata,La webcam non viene riconosciuta dal sistema Ho bisogno di aiuto immediato.,Tecnico,alta,webcam non rilevata la webcam non viene riconosciuta dal sistema ho bisogno di aiuto immediato
+464,Promozione attiva,Ho bisogno di assistenza post-vendita Attendo riscontro.,Commerciale,media,promozione attiva ho bisogno di assistenza post-vendita attendo riscontro
+465,Disco pieno,"La chiavetta USB non viene riconosciuta Non è urgente, quando avete tempo.",Tecnico,bassa,disco pieno la chiavetta usb non viene riconosciuta non è urgente quando avete tempo
+466,File corrotto,Il sistema mostra un errore critico all'avvio A vostra comodità.,Tecnico,bassa,file corrotto il sistema mostra un errore critico all'avvio a vostra comodità
+467,Password dimenticata,Il PC si spegne improvvisamente senza motivo Ho bisogno di aiuto immediato.,Tecnico,alta,password dimenticata il pc si spegne improvvisamente senza motivo ho bisogno di aiuto immediato
+468,Straordinari non pagati,"Vorrei informazioni sul prestito aziendale Non è urgente, quando avete tempo.",Amministrazione,bassa,straordinari non pagati vorrei informazioni sul prestito aziendale non è urgente quando avete tempo
+469,Server non risponde,La connessione VPN si disconnette continuamente Solo per curiosità.,Tecnico,bassa,server non risponde la connessione vpn si disconnette continuamente solo per curiosità
+470,Sostituzione articolo,"Invio sollecito per il pagamento della fattura Non è urgente, quando avete tempo.",Commerciale,bassa,sostituzione articolo invio sollecito per il pagamento della fattura non è urgente quando avete tempo
+471,Rinnovo contratto,"Ho bisogno di un attestato di servizio Non è urgente, quando avete tempo.",Amministrazione,bassa,rinnovo contratto ho bisogno di un attestato di servizio non è urgente quando avete tempo
+472,Promozione attiva,Ho bisogno di assistenza post-vendita Resto in attesa di risposta.,Commerciale,media,promozione attiva ho bisogno di assistenza post-vendita resto in attesa di risposta
+473,Stampante non stampa,Il monitor presenta sfarfallii continui Solo per avere informazioni.,Tecnico,bassa,stampante non stampa il monitor presenta sfarfallii continui solo per avere informazioni
+474,Tastiera bloccata,Manca il driver della scheda video È bloccante per il mio lavoro.,Tecnico,alta,tastiera bloccata manca il driver della scheda video è bloccante per il mio lavoro
+475,File corrotto,Non riesco a connettermi alla rete aziendale È bloccante per il mio lavoro.,Tecnico,alta,file corrotto non riesco a connettermi alla rete aziendale è bloccante per il mio lavoro
+476,Cambio mansione,Richiedo un anticipo sullo stipendio,Amministrazione,media,cambio mansione richiedo un anticipo sullo stipendio
+477,Problema di rete,Impossibile navigare su internet,Tecnico,media,problema di rete impossibile navigare su internet
+478,RAM insufficiente,Il server aziendale non è raggiungibile Grazie per l'assistenza.,Tecnico,media,ram insufficiente il server aziendale non è raggiungibile grazie per l'assistenza
+479,Feedback servizio,"Vorrei informazioni sulla promozione attiva Urgentissimo, il cliente attende.",Commerciale,alta,feedback servizio vorrei informazioni sulla promozione attiva urgentissimo il cliente attende
+480,Catalogo prodotti,"L'articolo che cerco è disponibile in magazzino? Sono fermo, non posso procedere.",Commerciale,alta,catalogo prodotti l'articolo che cerco è disponibile in magazzino sono fermo non posso procedere
+481,CUD mancante,Ho bisogno di una lettera di referenze Fatemi sapere.,Amministrazione,media,cud mancante ho bisogno di una lettera di referenze fatemi sapere
+482,Ordine in ritardo,"Vorrei tracciare il mio ordine Non è urgente, quando avete tempo.",Commerciale,bassa,ordine in ritardo vorrei tracciare il mio ordine non è urgente quando avete tempo
+483,Audio non funziona,Non esce audio dalle casse del computer Ho bisogno di aiuto immediato.,Tecnico,alta,audio non funziona non esce audio dalle casse del computer ho bisogno di aiuto immediato
+484,Stampante non stampa,Lo schermo rimane nero dopo l'accensione È solo una domanda informativa.,Tecnico,bassa,stampante non stampa lo schermo rimane nero dopo l'accensione è solo una domanda informativa
+485,Credito cliente,"Vorrei disdire il servizio attivo Urgentissimo, il cliente attende.",Commerciale,alta,credito cliente vorrei disdire il servizio attivo urgentissimo il cliente attende
+486,Ordine in ritardo,Ci sono offerte speciali in corso? Quando possibile.,Commerciale,bassa,ordine in ritardo ci sono offerte speciali in corso quando possibile
+487,Modifica anagrafica,"Richiedo informazioni sul congedo di maternità Non è urgente, quando avete tempo.",Amministrazione,bassa,modifica anagrafica richiedo informazioni sul congedo di maternità non è urgente quando avete tempo
+488,Spedizione urgente,Devo rinnovare il mio abbonamento Grazie in anticipo.,Commerciale,media,spedizione urgente devo rinnovare il mio abbonamento grazie in anticipo
+489,Certificato lavoro,Invio la nota spese del mese Attendo riscontro.,Amministrazione,media,certificato lavoro invio la nota spese del mese attendo riscontro
+490,Feedback servizio,Ho bisogno di assistenza post-vendita Senza fretta.,Commerciale,bassa,feedback servizio ho bisogno di assistenza post-vendita senza fretta
+491,Dimissioni,"Richiedo un cambio di mansione Emergenza, serve intervento immediato.",Amministrazione,alta,dimissioni richiedo un cambio di mansione emergenza serve intervento immediato
+492,Bluetooth non funziona,La stampante non risponde ai comandi di stampa Non è prioritario.,Tecnico,bassa,bluetooth non funziona la stampante non risponde ai comandi di stampa non è prioritario
+493,USB non riconosciuta,"La licenza del software è scaduta Quando possibile, grazie.",Tecnico,media,usb non riconosciuta la licenza del software è scaduta quando possibile grazie
+494,Virus rilevato,Il sistema nega l'accesso ai file condivisi Non è prioritario.,Tecnico,bassa,virus rilevato il sistema nega l'accesso ai file condivisi non è prioritario
+495,Attestato di servizio,Ho notato un errore nell'importo della busta paga Quando possibile.,Amministrazione,bassa,attestato di servizio ho notato un errore nell'importo della busta paga quando possibile
+496,Schermo nero,Il monitor presenta sfarfallii continui A vostra comodità.,Tecnico,bassa,schermo nero il monitor presenta sfarfallii continui a vostra comodità
+497,CUD mancante,"Devo aggiornare il mio indirizzo di residenza Situazione critica, sistema bloccato.",Amministrazione,alta,cud mancante devo aggiornare il mio indirizzo di residenza situazione critica sistema bloccato
+498,Straordinari non pagati,Devo aggiornare la richiesta assegni familiari Grazie in anticipo.,Amministrazione,media,straordinari non pagati devo aggiornare la richiesta assegni familiari grazie in anticipo
+499,Backup fallito,Il PC si spegne improvvisamente senza motivo Fatemi sapere.,Tecnico,media,backup fallito il pc si spegne improvvisamente senza motivo fatemi sapere
+500,Modello 730,Devo aggiornare la richiesta assegni familiari Quando possibile.,Amministrazione,bassa,modello 730 devo aggiornare la richiesta assegni familiari quando possibile
+501,Errore contributi,Vorrei informazioni sul prestito aziendale A vostra comodità.,Amministrazione,bassa,errore contributi vorrei informazioni sul prestito aziendale a vostra comodità
+502,Errore contributi,"Vorrei informazioni sul prestito aziendale Emergenza, serve intervento immediato.",Amministrazione,alta,errore contributi vorrei informazioni sul prestito aziendale emergenza serve intervento immediato
+503,Reso merce,"Vorrei tracciare il mio ordine Sono fermo, non posso procedere.",Commerciale,alta,reso merce vorrei tracciare il mio ordine sono fermo non posso procedere
+504,Ordine in ritardo,Vorrei disdire il servizio attivo Ho bisogno di aiuto immediato.,Commerciale,alta,ordine in ritardo vorrei disdire il servizio attivo ho bisogno di aiuto immediato
+505,Contratto da firmare,Devo richiedere il rimborso delle spese di viaggio È solo una domanda informativa.,Amministrazione,bassa,contratto da firmare devo richiedere il rimborso delle spese di viaggio è solo una domanda informativa
+506,Lettera referenze,Vorrei attivare lo smart working Senza fretta.,Amministrazione,bassa,lettera referenze vorrei attivare lo smart working senza fretta
+507,Dimissioni,"Vorrei richiedere le ferie per il mese prossimo Urgentissimo, il cliente attende.",Amministrazione,alta,dimissioni vorrei richiedere le ferie per il mese prossimo urgentissimo il cliente attende
+508,Richiesta TFR,Ho notato un errore nell'importo della busta paga È bloccante per il mio lavoro.,Amministrazione,alta,richiesta tfr ho notato un errore nell'importo della busta paga è bloccante per il mio lavoro
+509,Audio non funziona,Il file Excel non si apre correttamente A vostra comodità.,Tecnico,bassa,audio non funziona il file excel non si apre correttamente a vostra comodità
+510,Monitor sfarfalla,"Ho bisogno di installare un nuovo software Non è urgente, quando avete tempo.",Tecnico,bassa,monitor sfarfalla ho bisogno di installare un nuovo software non è urgente quando avete tempo
+511,Anticipo stipendio,"Ho bisogno di un attestato di servizio Emergenza, serve intervento immediato.",Amministrazione,alta,anticipo stipendio ho bisogno di un attestato di servizio emergenza serve intervento immediato
+512,Accesso negato,Il server aziendale non è raggiungibile Solo per avere informazioni.,Tecnico,bassa,accesso negato il server aziendale non è raggiungibile solo per avere informazioni
+513,Straordinari non pagati,"Devo organizzare una trasferta di lavoro Urgentissimo, il cliente attende.",Amministrazione,alta,straordinari non pagati devo organizzare una trasferta di lavoro urgentissimo il cliente attende
+514,Errore contributi,Non ho ricevuto la CUD di quest'anno Grazie in anticipo.,Amministrazione,media,errore contributi non ho ricevuto la cud di quest'anno grazie in anticipo
+515,Virus rilevato,Il PC si spegne improvvisamente senza motivo Non è prioritario.,Tecnico,bassa,virus rilevato il pc si spegne improvvisamente senza motivo non è prioritario
+516,Catalogo prodotti,Vorrei informazioni sulla promozione attiva Resto in attesa di risposta.,Commerciale,media,catalogo prodotti vorrei informazioni sulla promozione attiva resto in attesa di risposta
+517,Tracciamento ordine,"Il prodotto è ancora in garanzia? Sono fermo, non posso procedere.",Commerciale,alta,tracciamento ordine il prodotto è ancora in garanzia sono fermo non posso procedere
+518,Disco pieno,"Impossibile navigare su internet Sono fermo, non posso procedere.",Tecnico,alta,disco pieno impossibile navigare su internet sono fermo non posso procedere
+519,Rinnovo abbonamento,Ho bisogno di assistenza post-vendita Senza fretta.,Commerciale,bassa,rinnovo abbonamento ho bisogno di assistenza post-vendita senza fretta
+520,Richiesta ferie,Il cedolino presenta delle anomalie Solo per curiosità.,Amministrazione,bassa,richiesta ferie il cedolino presenta delle anomalie solo per curiosità
+521,Richiesta campioni,Devo rinnovare il mio abbonamento Problema grave che blocca tutto.,Commerciale,alta,richiesta campioni devo rinnovare il mio abbonamento problema grave che blocca tutto
+522,Congedo parentale,Ho notato un errore nell'importo della busta paga Problema grave che blocca tutto.,Amministrazione,alta,congedo parentale ho notato un errore nell'importo della busta paga problema grave che blocca tutto
+523,Certificato lavoro,Vorrei informazioni sul prestito aziendale Grazie in anticipo.,Amministrazione,media,certificato lavoro vorrei informazioni sul prestito aziendale grazie in anticipo
+524,Smart working,Devo richiedere il rimborso delle spese di viaggio Cordiali saluti.,Amministrazione,media,smart working devo richiedere il rimborso delle spese di viaggio cordiali saluti
+525,Tastiera bloccata,L'applicazione si chiude inaspettatamente Grazie in anticipo.,Tecnico,media,tastiera bloccata l'applicazione si chiude inaspettatamente grazie in anticipo
+526,Detrazioni fiscali,Vorrei informazioni sul prestito aziendale Problema grave che blocca tutto.,Amministrazione,alta,detrazioni fiscali vorrei informazioni sul prestito aziendale problema grave che blocca tutto
+527,Catalogo prodotti,L'articolo che cerco è disponibile in magazzino? È bloccante per il mio lavoro.,Commerciale,alta,catalogo prodotti l'articolo che cerco è disponibile in magazzino è bloccante per il mio lavoro
+528,Ordine in ritardo,Vorrei discutere un contratto di fornitura Resto in attesa di risposta.,Commerciale,media,ordine in ritardo vorrei discutere un contratto di fornitura resto in attesa di risposta
+529,Modifica anagrafica,Richiedo un permesso per visita medica Attendo riscontro.,Amministrazione,media,modifica anagrafica richiedo un permesso per visita medica attendo riscontro
+530,Virus rilevato,Impossibile navigare su internet Solo per curiosità.,Tecnico,bassa,virus rilevato impossibile navigare su internet solo per curiosità
+531,Congedo parentale,Il cedolino presenta delle anomalie Grazie per l'assistenza.,Amministrazione,media,congedo parentale il cedolino presenta delle anomalie grazie per l'assistenza
+532,Server non risponde,"Non esce audio dalle casse del computer Quando possibile, grazie.",Tecnico,media,server non risponde non esce audio dalle casse del computer quando possibile grazie
+533,Sollecito pagamento,Ho bisogno di informazioni su un prodotto specifico Fatemi sapere.,Commerciale,media,sollecito pagamento ho bisogno di informazioni su un prodotto specifico fatemi sapere
+534,Informazioni prodotto,Vorrei discutere un contratto di fornitura Grazie per l'assistenza.,Commerciale,media,informazioni prodotto vorrei discutere un contratto di fornitura grazie per l'assistenza
+535,Rimborso spese,"Vorrei attivare lo smart working Quando possibile, grazie.",Amministrazione,media,rimborso spese vorrei attivare lo smart working quando possibile grazie
+536,Ordine in ritardo,Vorrei informazioni sulla promozione attiva Attendo riscontro.,Commerciale,media,ordine in ritardo vorrei informazioni sulla promozione attiva attendo riscontro
+537,Annullamento ordine,Ho bisogno di assistenza post-vendita Solo per avere informazioni.,Commerciale,bassa,annullamento ordine ho bisogno di assistenza post-vendita solo per avere informazioni
+538,Modifica ordine,Richiedo la sostituzione dell'articolo difettoso A vostra comodità.,Commerciale,bassa,modifica ordine richiedo la sostituzione dell'articolo difettoso a vostra comodità
+539,Mouse non funziona,"Non esce audio dalle casse del computer Situazione critica, sistema bloccato.",Tecnico,alta,mouse non funziona non esce audio dalle casse del computer situazione critica sistema bloccato
+540,File corrotto,Non riesco a connettermi alla rete aziendale Solo per curiosità.,Tecnico,bassa,file corrotto non riesco a connettermi alla rete aziendale solo per curiosità
+541,Garanzia prodotto,Sono un nuovo cliente e vorrei registrarmi È bloccante per il mio lavoro.,Commerciale,alta,garanzia prodotto sono un nuovo cliente e vorrei registrarmi è bloccante per il mio lavoro
+542,Promozione attiva,L'articolo che cerco è disponibile in magazzino? Grazie in anticipo.,Commerciale,media,promozione attiva l'articolo che cerco è disponibile in magazzino grazie in anticipo
+543,Driver mancante,"Non riesco a collegare dispositivi Bluetooth Quando possibile, grazie.",Tecnico,media,driver mancante non riesco a collegare dispositivi bluetooth quando possibile grazie
+544,Attestato di servizio,"Ho bisogno di una lettera di referenze Quando possibile, grazie.",Amministrazione,media,attestato di servizio ho bisogno di una lettera di referenze quando possibile grazie
+545,PC si spegne da solo,Impossibile navigare su internet Fatemi sapere.,Tecnico,media,pc si spegne da solo impossibile navigare su internet fatemi sapere
+546,Fattura errata,Vorrei discutere un contratto di fornitura Senza fretta.,Commerciale,bassa,fattura errata vorrei discutere un contratto di fornitura senza fretta
+547,Problema cedolino,"Non ho ricevuto la CUD di quest'anno Urgentissimo, il cliente attende.",Amministrazione,alta,problema cedolino non ho ricevuto la cud di quest'anno urgentissimo il cliente attende
+548,Problema di rete,"Devo configurare la mia casella email Quando possibile, grazie.",Tecnico,media,problema di rete devo configurare la mia casella email quando possibile grazie
+549,Monitor sfarfalla,Il sistema è molto lento per mancanza di RAM Resto in attesa di risposta.,Tecnico,media,monitor sfarfalla il sistema è molto lento per mancanza di ram resto in attesa di risposta
+550,Configurazione email,La stampante non risponde ai comandi di stampa Resto in attesa di risposta.,Tecnico,media,configurazione email la stampante non risponde ai comandi di stampa resto in attesa di risposta
+551,Audio non funziona,Il backup automatico non viene eseguito Grazie in anticipo.,Tecnico,media,audio non funziona il backup automatico non viene eseguito grazie in anticipo
+552,Offerta speciale,Vorrei informazioni sulla promozione attiva Resto in attesa di risposta.,Commerciale,media,offerta speciale vorrei informazioni sulla promozione attiva resto in attesa di risposta
+553,Reclamo prodotto,"Vorrei lasciare un feedback sul servizio ricevuto Emergenza, serve intervento immediato.",Commerciale,alta,reclamo prodotto vorrei lasciare un feedback sul servizio ricevuto emergenza serve intervento immediato
+554,Ordine in ritardo,Sono un nuovo cliente e vorrei registrarmi Attendo riscontro.,Commerciale,media,ordine in ritardo sono un nuovo cliente e vorrei registrarmi attendo riscontro
+555,Assistenza post-vendita,Ci sono offerte speciali in corso? Problema grave che blocca tutto.,Commerciale,alta,assistenza post-vendita ci sono offerte speciali in corso problema grave che blocca tutto
+556,Malattia,"Vorrei informazioni sul prestito aziendale È urgente, non riesco a lavorare.",Amministrazione,alta,malattia vorrei informazioni sul prestito aziendale è urgente non riesco a lavorare
+557,Audio non funziona,"Non ricordo la password del mio account Sono fermo, non posso procedere.",Tecnico,alta,audio non funziona non ricordo la password del mio account sono fermo non posso procedere
+558,Problema cedolino,Devo richiedere il rimborso delle spese di viaggio Quando possibile.,Amministrazione,bassa,problema cedolino devo richiedere il rimborso delle spese di viaggio quando possibile
+559,Software non funziona,"Lo schermo rimane nero dopo l'accensione Emergenza, serve intervento immediato.",Tecnico,alta,software non funziona lo schermo rimane nero dopo l'accensione emergenza serve intervento immediato
+560,Email non arrivano,"Il monitor presenta sfarfallii continui Emergenza, serve intervento immediato.",Tecnico,alta,email non arrivano il monitor presenta sfarfallii continui emergenza serve intervento immediato
+561,Informazioni prodotto,Vorrei verificare il credito residuo Resto in attesa di risposta.,Commerciale,media,informazioni prodotto vorrei verificare il credito residuo resto in attesa di risposta
+562,Congedo parentale,"Devo aggiornare la richiesta assegni familiari È urgente, non riesco a lavorare.",Amministrazione,alta,congedo parentale devo aggiornare la richiesta assegni familiari è urgente non riesco a lavorare
+563,Ordine in ritardo,Ho bisogno di una spedizione urgente,Commerciale,media,ordine in ritardo ho bisogno di una spedizione urgente
+564,Software non funziona,L'applicazione si chiude inaspettatamente Solo per curiosità.,Tecnico,bassa,software non funziona l'applicazione si chiude inaspettatamente solo per curiosità
+565,Richiesta ferie,Devo richiedere il rimborso delle spese di viaggio Grazie per l'assistenza.,Amministrazione,media,richiesta ferie devo richiedere il rimborso delle spese di viaggio grazie per l'assistenza
+566,Busta paga errata,"Richiedo un anticipo sullo stipendio Urgentissimo, il cliente attende.",Amministrazione,alta,busta paga errata richiedo un anticipo sullo stipendio urgentissimo il cliente attende
+567,Stampante non stampa,La webcam non viene riconosciuta dal sistema Senza fretta.,Tecnico,bassa,stampante non stampa la webcam non viene riconosciuta dal sistema senza fretta
+568,Assistenza post-vendita,"L'articolo che cerco è disponibile in magazzino? Situazione critica, sistema bloccato.",Commerciale,alta,assistenza post-vendita l'articolo che cerco è disponibile in magazzino situazione critica sistema bloccato
+569,Backup fallito,La stampante non risponde ai comandi di stampa Quando possibile.,Tecnico,bassa,backup fallito la stampante non risponde ai comandi di stampa quando possibile
+570,Webcam non rilevata,L'applicazione si chiude inaspettatamente È bloccante per il mio lavoro.,Tecnico,alta,webcam non rilevata l'applicazione si chiude inaspettatamente è bloccante per il mio lavoro
+571,Licenza scaduta,Il mouse wireless non risponde,Tecnico,media,licenza scaduta il mouse wireless non risponde
+572,Pagamento effettuato,"Siamo interessati a una partnership commerciale Emergenza, serve intervento immediato.",Commerciale,alta,pagamento effettuato siamo interessati a una partnership commerciale emergenza serve intervento immediato
+573,Contratto da firmare,Gli straordinari del mese scorso non sono stati pagati Cordiali saluti.,Amministrazione,media,contratto da firmare gli straordinari del mese scorso non sono stati pagati cordiali saluti
+574,USB non riconosciuta,Il server aziendale non è raggiungibile Grazie in anticipo.,Tecnico,media,usb non riconosciuta il server aziendale non è raggiungibile grazie in anticipo
+575,Aggiornamento fallito,Non esce audio dalle casse del computer Attendo riscontro.,Tecnico,media,aggiornamento fallito non esce audio dalle casse del computer attendo riscontro
+576,Webcam non rilevata,Non ricordo la password del mio account,Tecnico,media,webcam non rilevata non ricordo la password del mio account
+577,Rinnovo abbonamento,"Vorrei tracciare il mio ordine Non è urgente, quando avete tempo.",Commerciale,bassa,rinnovo abbonamento vorrei tracciare il mio ordine non è urgente quando avete tempo
+578,Modello 730,"Ho bisogno di un attestato di servizio Sono fermo, non posso procedere.",Amministrazione,alta,modello 730 ho bisogno di un attestato di servizio sono fermo non posso procedere
+579,Rimborso spese,Vorrei richiedere le ferie per il mese prossimo Attendo riscontro.,Amministrazione,media,rimborso spese vorrei richiedere le ferie per il mese prossimo attendo riscontro
+580,Webcam non rilevata,L'applicazione si chiude inaspettatamente È solo una domanda informativa.,Tecnico,bassa,webcam non rilevata l'applicazione si chiude inaspettatamente è solo una domanda informativa
+581,USB non riconosciuta,Il backup automatico non viene eseguito Ho bisogno di aiuto immediato.,Tecnico,alta,usb non riconosciuta il backup automatico non viene eseguito ho bisogno di aiuto immediato
+582,Promozione attiva,"Il mio ordine è in ritardo rispetto alla data prevista È urgente, non riesco a lavorare.",Commerciale,alta,promozione attiva il mio ordine è in ritardo rispetto alla data prevista è urgente non riesco a lavorare
+583,Maternità,Richiedo assistenza per il modello 730 Quando possibile.,Amministrazione,bassa,maternità richiedo assistenza per il modello 730 quando possibile
+584,Schermo nero,"Il disco C: è quasi pieno Quando possibile, grazie.",Tecnico,media,schermo nero il disco c è quasi pieno quando possibile grazie
+585,Connessione internet assente,"Il backup automatico non viene eseguito Situazione critica, sistema bloccato.",Tecnico,alta,connessione internet assente il backup automatico non viene eseguito situazione critica sistema bloccato
+586,Webcam non rilevata,Manca il driver della scheda video È solo una domanda informativa.,Tecnico,bassa,webcam non rilevata manca il driver della scheda video è solo una domanda informativa
+587,Aggiornamento fallito,Devo configurare la mia casella email Cordiali saluti.,Tecnico,media,aggiornamento fallito devo configurare la mia casella email cordiali saluti
+588,Nuovo cliente,"Ho bisogno di assistenza post-vendita Sono fermo, non posso procedere.",Commerciale,alta,nuovo cliente ho bisogno di assistenza post-vendita sono fermo non posso procedere
+589,Modifica anagrafica,Devo comunicare il nuovo IBAN per l'accredito stipendio,Amministrazione,media,modifica anagrafica devo comunicare il nuovo iban per l'accredito stipendio
+590,Pagamento effettuato,Ho bisogno di una spedizione urgente Senza fretta.,Commerciale,bassa,pagamento effettuato ho bisogno di una spedizione urgente senza fretta
+591,Fattura errata,"Sono un nuovo cliente e vorrei registrarmi Situazione critica, sistema bloccato.",Commerciale,alta,fattura errata sono un nuovo cliente e vorrei registrarmi situazione critica sistema bloccato
+592,Richiesta TFR,"Richiedo assistenza per il modello 730 Urgentissimo, il cliente attende.",Amministrazione,alta,richiesta tfr richiedo assistenza per il modello 730 urgentissimo il cliente attende
+593,Garanzia prodotto,Confermo di aver effettuato il pagamento Solo per avere informazioni.,Commerciale,bassa,garanzia prodotto confermo di aver effettuato il pagamento solo per avere informazioni
+594,Email non arrivano,Il backup automatico non viene eseguito Grazie in anticipo.,Tecnico,media,email non arrivano il backup automatico non viene eseguito grazie in anticipo
+595,RAM insufficiente,Impossibile navigare su internet Attendo riscontro.,Tecnico,media,ram insufficiente impossibile navigare su internet attendo riscontro
+596,Promozione attiva,Vorrei tracciare il mio ordine Solo per curiosità.,Commerciale,bassa,promozione attiva vorrei tracciare il mio ordine solo per curiosità
+597,Aggiornamento fallito,"L'applicazione si chiude inaspettatamente Situazione critica, sistema bloccato.",Tecnico,alta,aggiornamento fallito l'applicazione si chiude inaspettatamente situazione critica sistema bloccato
+598,Richiesta preventivo,Devo rinnovare il mio abbonamento A vostra comodità.,Commerciale,bassa,richiesta preventivo devo rinnovare il mio abbonamento a vostra comodità
+599,Smart working,Invio la nota spese del mese Attendo riscontro.,Amministrazione,media,smart working invio la nota spese del mese attendo riscontro
+600,Backup fallito,"Il file Excel non si apre correttamente Situazione critica, sistema bloccato.",Tecnico,alta,backup fallito il file excel non si apre correttamente situazione critica sistema bloccato
+601,RAM insufficiente,Il sistema nega l'accesso ai file condivisi Quando possibile.,Tecnico,bassa,ram insufficiente il sistema nega l'accesso ai file condivisi quando possibile
+602,Disco pieno,Il sistema è molto lento per mancanza di RAM,Tecnico,media,disco pieno il sistema è molto lento per mancanza di ram
+603,Richiesta campioni,"Ho bisogno di informazioni su un prodotto specifico Urgentissimo, il cliente attende.",Commerciale,alta,richiesta campioni ho bisogno di informazioni su un prodotto specifico urgentissimo il cliente attende
+604,Partnership commerciale,Il mio ordine è in ritardo rispetto alla data prevista Attendo riscontro.,Commerciale,media,partnership commerciale il mio ordine è in ritardo rispetto alla data prevista attendo riscontro
+605,CUD mancante,Ho ricevuto il contratto da firmare Solo per curiosità.,Amministrazione,bassa,cud mancante ho ricevuto il contratto da firmare solo per curiosità
+606,Credito cliente,"Vorrei lasciare un feedback sul servizio ricevuto Sono fermo, non posso procedere.",Commerciale,alta,credito cliente vorrei lasciare un feedback sul servizio ricevuto sono fermo non posso procedere
+607,Modello 730,Gli straordinari del mese scorso non sono stati pagati Senza fretta.,Amministrazione,bassa,modello 730 gli straordinari del mese scorso non sono stati pagati senza fretta
+608,Problema di rete,Il disco C: è quasi pieno Solo per curiosità.,Tecnico,bassa,problema di rete il disco c è quasi pieno solo per curiosità
+609,Ordine in ritardo,Devo rinnovare il mio abbonamento Fatemi sapere.,Commerciale,media,ordine in ritardo devo rinnovare il mio abbonamento fatemi sapere
+610,Certificato lavoro,Richiedo un anticipo sullo stipendio Attendo riscontro.,Amministrazione,media,certificato lavoro richiedo un anticipo sullo stipendio attendo riscontro
+611,Nota spese,Invio la nota spese del mese È solo una domanda informativa.,Amministrazione,bassa,nota spese invio la nota spese del mese è solo una domanda informativa
+612,Straordinari non pagati,I contributi versati risultano errati È bloccante per il mio lavoro.,Amministrazione,alta,straordinari non pagati i contributi versati risultano errati è bloccante per il mio lavoro
+613,Rinnovo contratto,Richiedo una variazione dell'orario di lavoro Grazie in anticipo.,Amministrazione,media,rinnovo contratto richiedo una variazione dell'orario di lavoro grazie in anticipo
+614,Listino prezzi,Ci sono offerte speciali in corso? Solo per curiosità.,Commerciale,bassa,listino prezzi ci sono offerte speciali in corso solo per curiosità
+615,File corrotto,La connessione VPN si disconnette continuamente Solo per avere informazioni.,Tecnico,bassa,file corrotto la connessione vpn si disconnette continuamente solo per avere informazioni
+616,Maternità,"Devo aggiornare la richiesta assegni familiari Sono fermo, non posso procedere.",Amministrazione,alta,maternità devo aggiornare la richiesta assegni familiari sono fermo non posso procedere
+617,Catalogo prodotti,Vorrei ricevere un preventivo per i vostri servizi Grazie in anticipo.,Commerciale,media,catalogo prodotti vorrei ricevere un preventivo per i vostri servizi grazie in anticipo
+618,Assegni familiari,"Devo aggiornare il mio indirizzo di residenza È urgente, non riesco a lavorare.",Amministrazione,alta,assegni familiari devo aggiornare il mio indirizzo di residenza è urgente non riesco a lavorare
+619,Sconto richiesto,"Vorrei ricevere il catalogo prodotti completo Quando possibile, grazie.",Commerciale,media,sconto richiesto vorrei ricevere il catalogo prodotti completo quando possibile grazie
+620,Dimissioni,Ho notato un errore nell'importo della busta paga,Amministrazione,media,dimissioni ho notato un errore nell'importo della busta paga
+621,Catalogo prodotti,Ci sono offerte speciali in corso? Grazie in anticipo.,Commerciale,media,catalogo prodotti ci sono offerte speciali in corso grazie in anticipo
+622,Richiesta permesso,Richiedo un anticipo sullo stipendio Solo per avere informazioni.,Amministrazione,bassa,richiesta permesso richiedo un anticipo sullo stipendio solo per avere informazioni
+623,Pagamento effettuato,Ho bisogno di informazioni su un prodotto specifico Grazie in anticipo.,Commerciale,media,pagamento effettuato ho bisogno di informazioni su un prodotto specifico grazie in anticipo
+624,Software da installare,"Il server aziendale non è raggiungibile Quando possibile, grazie.",Tecnico,media,software da installare il server aziendale non è raggiungibile quando possibile grazie
+625,Busta paga errata,Ho bisogno di un attestato di servizio Ho bisogno di aiuto immediato.,Amministrazione,alta,busta paga errata ho bisogno di un attestato di servizio ho bisogno di aiuto immediato
+626,Contratto fornitura,"Il prodotto è ancora in garanzia? È urgente, non riesco a lavorare.",Commerciale,alta,contratto fornitura il prodotto è ancora in garanzia è urgente non riesco a lavorare
+627,Modello 730,Devo aggiornare la richiesta assegni familiari Non è prioritario.,Amministrazione,bassa,modello 730 devo aggiornare la richiesta assegni familiari non è prioritario
+628,Accesso negato,L'antivirus ha rilevato una minaccia Senza fretta.,Tecnico,bassa,accesso negato l'antivirus ha rilevato una minaccia senza fretta
+629,Assegni familiari,Richiedo un permesso per visita medica A vostra comodità.,Amministrazione,bassa,assegni familiari richiedo un permesso per visita medica a vostra comodità
+630,Aggiornamento fallito,Non riesco a connettermi alla rete aziendale Grazie per l'assistenza.,Tecnico,media,aggiornamento fallito non riesco a connettermi alla rete aziendale grazie per l'assistenza
+631,Ordine in ritardo,Ho bisogno di una spedizione urgente Grazie per l'assistenza.,Commerciale,media,ordine in ritardo ho bisogno di una spedizione urgente grazie per l'assistenza
+632,Problema di rete,"Non riesco a connettermi alla rete aziendale Quando possibile, grazie.",Tecnico,media,problema di rete non riesco a connettermi alla rete aziendale quando possibile grazie
+633,Audio non funziona,Il backup automatico non viene eseguito Attendo riscontro.,Tecnico,media,audio non funziona il backup automatico non viene eseguito attendo riscontro
+634,Stampante non stampa,"L'antivirus ha rilevato una minaccia È urgente, non riesco a lavorare.",Tecnico,alta,stampante non stampa l'antivirus ha rilevato una minaccia è urgente non riesco a lavorare
+635,Password dimenticata,"La stampante non risponde ai comandi di stampa Situazione critica, sistema bloccato.",Tecnico,alta,password dimenticata la stampante non risponde ai comandi di stampa situazione critica sistema bloccato
+636,Congedo parentale,Richiedo informazioni sul congedo di maternità Problema grave che blocca tutto.,Amministrazione,alta,congedo parentale richiedo informazioni sul congedo di maternità problema grave che blocca tutto
+637,Contratto da firmare,Vorrei informazioni sul prestito aziendale Grazie in anticipo.,Amministrazione,media,contratto da firmare vorrei informazioni sul prestito aziendale grazie in anticipo
+638,Catalogo prodotti,"Vorrei ricevere un preventivo per i vostri servizi Quando possibile, grazie.",Commerciale,media,catalogo prodotti vorrei ricevere un preventivo per i vostri servizi quando possibile grazie
+639,Tracciamento ordine,"Sono interessato a un upgrade del piano attuale Sono fermo, non posso procedere.",Commerciale,alta,tracciamento ordine sono interessato a un upgrade del piano attuale sono fermo non posso procedere
+640,Offerta speciale,Vorrei disdire il servizio attivo Attendo riscontro.,Commerciale,media,offerta speciale vorrei disdire il servizio attivo attendo riscontro
+641,Problema cedolino,Vorrei presentare le dimissioni A vostra comodità.,Amministrazione,bassa,problema cedolino vorrei presentare le dimissioni a vostra comodità
+642,Richiesta ferie,"Vorrei richiedere il congedo parentale Urgentissimo, il cliente attende.",Amministrazione,alta,richiesta ferie vorrei richiedere il congedo parentale urgentissimo il cliente attende
+643,Richiesta permesso,Il cedolino presenta delle anomalie A vostra comodità.,Amministrazione,bassa,richiesta permesso il cedolino presenta delle anomalie a vostra comodità
+644,Ordine in ritardo,"Confermo di aver effettuato il pagamento Emergenza, serve intervento immediato.",Commerciale,alta,ordine in ritardo confermo di aver effettuato il pagamento emergenza serve intervento immediato
+645,Email non arrivano,Il sistema nega l'accesso ai file condivisi Cordiali saluti.,Tecnico,media,email non arrivano il sistema nega l'accesso ai file condivisi cordiali saluti
+646,Aggiornamento fallito,"Il server aziendale non è raggiungibile Non è urgente, quando avete tempo.",Tecnico,bassa,aggiornamento fallito il server aziendale non è raggiungibile non è urgente quando avete tempo
+647,Anticipo stipendio,"Il cedolino presenta delle anomalie Urgentissimo, il cliente attende.",Amministrazione,alta,anticipo stipendio il cedolino presenta delle anomalie urgentissimo il cliente attende
+648,Detrazioni fiscali,"Ho bisogno di un attestato di servizio Quando possibile, grazie.",Amministrazione,media,detrazioni fiscali ho bisogno di un attestato di servizio quando possibile grazie
+649,Nuovo cliente,Siamo interessati a una partnership commerciale A vostra comodità.,Commerciale,bassa,nuovo cliente siamo interessati a una partnership commerciale a vostra comodità
+650,Certificato lavoro,Ho bisogno di una lettera di referenze È bloccante per il mio lavoro.,Amministrazione,alta,certificato lavoro ho bisogno di una lettera di referenze è bloccante per il mio lavoro
+651,Errore contributi,Devo aggiornare la richiesta assegni familiari Problema grave che blocca tutto.,Amministrazione,alta,errore contributi devo aggiornare la richiesta assegni familiari problema grave che blocca tutto
+652,Promozione attiva,"Vorrei informazioni sulla promozione attiva Emergenza, serve intervento immediato.",Commerciale,alta,promozione attiva vorrei informazioni sulla promozione attiva emergenza serve intervento immediato
+653,Nuovo cliente,Vorrei lasciare un feedback sul servizio ricevuto Fatemi sapere.,Commerciale,media,nuovo cliente vorrei lasciare un feedback sul servizio ricevuto fatemi sapere
+654,CUD mancante,Ho notato un errore nell'importo della busta paga Problema grave che blocca tutto.,Amministrazione,alta,cud mancante ho notato un errore nell'importo della busta paga problema grave che blocca tutto
+655,Modifica ordine,"Vorrei annullare l'ordine numero 12345 Quando possibile, grazie.",Commerciale,media,modifica ordine vorrei annullare l'ordine numero 12345 quando possibile grazie
+656,Partnership commerciale,Siamo interessati a una partnership commerciale Solo per avere informazioni.,Commerciale,bassa,partnership commerciale siamo interessati a una partnership commerciale solo per avere informazioni
+657,Reclamo prodotto,"Sono interessato a un upgrade del piano attuale Sono fermo, non posso procedere.",Commerciale,alta,reclamo prodotto sono interessato a un upgrade del piano attuale sono fermo non posso procedere
+658,Congedo parentale,Richiedo una variazione dell'orario di lavoro Solo per avere informazioni.,Amministrazione,bassa,congedo parentale richiedo una variazione dell'orario di lavoro solo per avere informazioni
+659,Email non arrivano,Il computer impiega troppo tempo ad avviarsi Grazie in anticipo.,Tecnico,media,email non arrivano il computer impiega troppo tempo ad avviarsi grazie in anticipo
+660,Errore contributi,"Ho bisogno di un attestato di servizio Emergenza, serve intervento immediato.",Amministrazione,alta,errore contributi ho bisogno di un attestato di servizio emergenza serve intervento immediato
+661,Driver mancante,"Il backup automatico non viene eseguito Non è urgente, quando avete tempo.",Tecnico,bassa,driver mancante il backup automatico non viene eseguito non è urgente quando avete tempo
+662,Richiesta ferie,Richiedo una variazione dell'orario di lavoro Senza fretta.,Amministrazione,bassa,richiesta ferie richiedo una variazione dell'orario di lavoro senza fretta
+663,Pagamento effettuato,"Richiedo il listino prezzi aggiornato Non è urgente, quando avete tempo.",Commerciale,bassa,pagamento effettuato richiedo il listino prezzi aggiornato non è urgente quando avete tempo
+664,Aggiornamento fallito,"Il sistema è molto lento per mancanza di RAM Emergenza, serve intervento immediato.",Tecnico,alta,aggiornamento fallito il sistema è molto lento per mancanza di ram emergenza serve intervento immediato
+665,Connessione internet assente,Le email inviate non arrivano a destinazione Attendo riscontro.,Tecnico,media,connessione internet assente le email inviate non arrivano a destinazione attendo riscontro
+666,Nuovo cliente,"La fattura ricevuta contiene degli errori Quando possibile, grazie.",Commerciale,media,nuovo cliente la fattura ricevuta contiene degli errori quando possibile grazie
+667,Smart working,Devo comunicare il nuovo IBAN per l'accredito stipendio È bloccante per il mio lavoro.,Amministrazione,alta,smart working devo comunicare il nuovo iban per l'accredito stipendio è bloccante per il mio lavoro
+668,Trasferta,"Richiedo un cambio di mansione Emergenza, serve intervento immediato.",Amministrazione,alta,trasferta richiedo un cambio di mansione emergenza serve intervento immediato
+669,Rinnovo abbonamento,Vorrei lasciare un feedback sul servizio ricevuto,Commerciale,media,rinnovo abbonamento vorrei lasciare un feedback sul servizio ricevuto
+670,Server non risponde,"Non riesco a connettermi alla rete aziendale Urgentissimo, il cliente attende.",Tecnico,alta,server non risponde non riesco a connettermi alla rete aziendale urgentissimo il cliente attende
+671,Straordinari non pagati,Devo aggiornare il mio indirizzo di residenza Grazie per l'assistenza.,Amministrazione,media,straordinari non pagati devo aggiornare il mio indirizzo di residenza grazie per l'assistenza
+672,RAM insufficiente,"Non riesco a connettermi alla rete aziendale Situazione critica, sistema bloccato.",Tecnico,alta,ram insufficiente non riesco a connettermi alla rete aziendale situazione critica sistema bloccato
+673,Detrazioni fiscali,"Devo aggiornare il mio indirizzo di residenza È urgente, non riesco a lavorare.",Amministrazione,alta,detrazioni fiscali devo aggiornare il mio indirizzo di residenza è urgente non riesco a lavorare
+674,Pagamento effettuato,Vorrei ricevere il catalogo prodotti completo Fatemi sapere.,Commerciale,media,pagamento effettuato vorrei ricevere il catalogo prodotti completo fatemi sapere
+675,Nuovo cliente,Sono interessato a un upgrade del piano attuale,Commerciale,media,nuovo cliente sono interessato a un upgrade del piano attuale
+676,Schermo nero,"Il backup automatico non viene eseguito Quando possibile, grazie.",Tecnico,media,schermo nero il backup automatico non viene eseguito quando possibile grazie
+677,Assistenza post-vendita,Vorrei informazioni sulla promozione attiva Quando possibile.,Commerciale,bassa,assistenza post-vendita vorrei informazioni sulla promozione attiva quando possibile
+678,Variazione orario,Devo aggiornare il mio indirizzo di residenza Attendo riscontro.,Amministrazione,media,variazione orario devo aggiornare il mio indirizzo di residenza attendo riscontro
+679,Congedo parentale,Vorrei richiedere le ferie per il mese prossimo Ho bisogno di aiuto immediato.,Amministrazione,alta,congedo parentale vorrei richiedere le ferie per il mese prossimo ho bisogno di aiuto immediato
+680,Sollecito pagamento,Devo modificare la quantità dell'ordine effettuato Grazie per l'assistenza.,Commerciale,media,sollecito pagamento devo modificare la quantità dell'ordine effettuato grazie per l'assistenza
+681,Connessione internet assente,Il computer impiega troppo tempo ad avviarsi Cordiali saluti.,Tecnico,media,connessione internet assente il computer impiega troppo tempo ad avviarsi cordiali saluti
+682,Assegni familiari,"Richiedo un permesso per visita medica Sono fermo, non posso procedere.",Amministrazione,alta,assegni familiari richiedo un permesso per visita medica sono fermo non posso procedere
+683,Pagamento effettuato,"La fattura ricevuta contiene degli errori Quando possibile, grazie.",Commerciale,media,pagamento effettuato la fattura ricevuta contiene degli errori quando possibile grazie
+684,Problema cedolino,Richiedo un permesso per visita medica,Amministrazione,media,problema cedolino richiedo un permesso per visita medica
+685,Cambio mansione,Devo aggiornare la richiesta assegni familiari Cordiali saluti.,Amministrazione,media,cambio mansione devo aggiornare la richiesta assegni familiari cordiali saluti
+686,Reclamo prodotto,Siamo interessati a una partnership commerciale Fatemi sapere.,Commerciale,media,reclamo prodotto siamo interessati a una partnership commerciale fatemi sapere
+687,Rimborso spese,"Vorrei richiedere il congedo parentale Non è urgente, quando avete tempo.",Amministrazione,bassa,rimborso spese vorrei richiedere il congedo parentale non è urgente quando avete tempo
+688,Richiesta TFR,Ho bisogno di modificare le detrazioni fiscali Grazie per l'assistenza.,Amministrazione,media,richiesta tfr ho bisogno di modificare le detrazioni fiscali grazie per l'assistenza
+689,Busta paga errata,"Devo richiedere il rimborso delle spese di viaggio Emergenza, serve intervento immediato.",Amministrazione,alta,busta paga errata devo richiedere il rimborso delle spese di viaggio emergenza serve intervento immediato
+690,Anticipo stipendio,Richiedo una variazione dell'orario di lavoro È solo una domanda informativa.,Amministrazione,bassa,anticipo stipendio richiedo una variazione dell'orario di lavoro è solo una domanda informativa
+691,Feedback servizio,È possibile ottenere uno sconto per grandi quantità? Quando possibile.,Commerciale,bassa,feedback servizio è possibile ottenere uno sconto per grandi quantità quando possibile
+692,Nuovo cliente,Invio sollecito per il pagamento della fattura Fatemi sapere.,Commerciale,media,nuovo cliente invio sollecito per il pagamento della fattura fatemi sapere
+693,Richiesta ferie,Ho bisogno di un attestato di servizio Ho bisogno di aiuto immediato.,Amministrazione,alta,richiesta ferie ho bisogno di un attestato di servizio ho bisogno di aiuto immediato
+694,Errore di sistema,Il mouse wireless non risponde Resto in attesa di risposta.,Tecnico,media,errore di sistema il mouse wireless non risponde resto in attesa di risposta
+695,Cambio mansione,Invio la nota spese del mese Non è prioritario.,Amministrazione,bassa,cambio mansione invio la nota spese del mese non è prioritario
+696,Lettera referenze,"Vorrei informazioni sulla liquidazione del TFR Quando possibile, grazie.",Amministrazione,media,lettera referenze vorrei informazioni sulla liquidazione del tfr quando possibile grazie
+697,Configurazione email,La webcam non viene riconosciuta dal sistema Resto in attesa di risposta.,Tecnico,media,configurazione email la webcam non viene riconosciuta dal sistema resto in attesa di risposta
+698,Nuovo cliente,Devo modificare la quantità dell'ordine effettuato Grazie in anticipo.,Commerciale,media,nuovo cliente devo modificare la quantità dell'ordine effettuato grazie in anticipo
+699,Annullamento ordine,Invio sollecito per il pagamento della fattura Attendo riscontro.,Commerciale,media,annullamento ordine invio sollecito per il pagamento della fattura attendo riscontro
+700,Certificato lavoro,"Vorrei informazioni sulla liquidazione del TFR Situazione critica, sistema bloccato.",Amministrazione,alta,certificato lavoro vorrei informazioni sulla liquidazione del tfr situazione critica sistema bloccato
+701,Detrazioni fiscali,Devo aggiornare il mio indirizzo di residenza Solo per curiosità.,Amministrazione,bassa,detrazioni fiscali devo aggiornare il mio indirizzo di residenza solo per curiosità
+702,RAM insufficiente,Ho bisogno di installare un nuovo software Solo per curiosità.,Tecnico,bassa,ram insufficiente ho bisogno di installare un nuovo software solo per curiosità
+703,USB non riconosciuta,"Il monitor presenta sfarfallii continui Non è urgente, quando avete tempo.",Tecnico,bassa,usb non riconosciuta il monitor presenta sfarfallii continui non è urgente quando avete tempo
+704,Mouse non funziona,Il computer impiega troppo tempo ad avviarsi Problema grave che blocca tutto.,Tecnico,alta,mouse non funziona il computer impiega troppo tempo ad avviarsi problema grave che blocca tutto
+705,Virus rilevato,"Non riesco a collegare dispositivi Bluetooth Sono fermo, non posso procedere.",Tecnico,alta,virus rilevato non riesco a collegare dispositivi bluetooth sono fermo non posso procedere
+706,Disco pieno,"Non esce audio dalle casse del computer Urgentissimo, il cliente attende.",Tecnico,alta,disco pieno non esce audio dalle casse del computer urgentissimo il cliente attende
+707,Attestato di servizio,Richiedo un cambio di mansione È solo una domanda informativa.,Amministrazione,bassa,attestato di servizio richiedo un cambio di mansione è solo una domanda informativa
+708,Anticipo stipendio,Vorrei richiedere le ferie per il mese prossimo A vostra comodità.,Amministrazione,bassa,anticipo stipendio vorrei richiedere le ferie per il mese prossimo a vostra comodità
+709,Malattia,Devo comunicare un periodo di malattia Senza fretta.,Amministrazione,bassa,malattia devo comunicare un periodo di malattia senza fretta
+710,Server non risponde,"Il computer impiega troppo tempo ad avviarsi Quando possibile, grazie.",Tecnico,media,server non risponde il computer impiega troppo tempo ad avviarsi quando possibile grazie
+711,Modello 730,Richiedo assistenza per il modello 730 È solo una domanda informativa.,Amministrazione,bassa,modello 730 richiedo assistenza per il modello 730 è solo una domanda informativa
+712,Assistenza post-vendita,Ho bisogno di assistenza post-vendita Resto in attesa di risposta.,Commerciale,media,assistenza post-vendita ho bisogno di assistenza post-vendita resto in attesa di risposta
+713,Audio non funziona,Non riesco a connettermi alla rete aziendale A vostra comodità.,Tecnico,bassa,audio non funziona non riesco a connettermi alla rete aziendale a vostra comodità
+714,Modello 730,I contributi versati risultano errati Resto in attesa di risposta.,Amministrazione,media,modello 730 i contributi versati risultano errati resto in attesa di risposta
+715,Trasferta,Vorrei richiedere le ferie per il mese prossimo È bloccante per il mio lavoro.,Amministrazione,alta,trasferta vorrei richiedere le ferie per il mese prossimo è bloccante per il mio lavoro
+716,Disco pieno,Il file Excel non si apre correttamente Cordiali saluti.,Tecnico,media,disco pieno il file excel non si apre correttamente cordiali saluti
+717,Congedo parentale,"Vorrei presentare le dimissioni È urgente, non riesco a lavorare.",Amministrazione,alta,congedo parentale vorrei presentare le dimissioni è urgente non riesco a lavorare
+718,Email non arrivano,Il disco C: è quasi pieno Quando possibile.,Tecnico,bassa,email non arrivano il disco c è quasi pieno quando possibile
+719,Disponibilità articolo,"È possibile ottenere uno sconto per grandi quantità? Sono fermo, non posso procedere.",Commerciale,alta,disponibilità articolo è possibile ottenere uno sconto per grandi quantità sono fermo non posso procedere
+720,Connessione internet assente,"Il sistema nega l'accesso ai file condivisi Non è urgente, quando avete tempo.",Tecnico,bassa,connessione internet assente il sistema nega l'accesso ai file condivisi non è urgente quando avete tempo
+721,Assistenza post-vendita,"È possibile ricevere dei campioni gratuiti? Non è urgente, quando avete tempo.",Commerciale,bassa,assistenza post-vendita è possibile ricevere dei campioni gratuiti non è urgente quando avete tempo
+722,Server non risponde,Il disco C: è quasi pieno Grazie per l'assistenza.,Tecnico,media,server non risponde il disco c è quasi pieno grazie per l'assistenza
+723,Catalogo prodotti,Vorrei tracciare il mio ordine Grazie in anticipo.,Commerciale,media,catalogo prodotti vorrei tracciare il mio ordine grazie in anticipo
+724,Attestato di servizio,Vorrei informazioni sul prestito aziendale Attendo riscontro.,Amministrazione,media,attestato di servizio vorrei informazioni sul prestito aziendale attendo riscontro
+725,Tastiera bloccata,Impossibile navigare su internet Non è prioritario.,Tecnico,bassa,tastiera bloccata impossibile navigare su internet non è prioritario
+726,Smart working,"Devo comunicare un periodo di malattia Urgentissimo, il cliente attende.",Amministrazione,alta,smart working devo comunicare un periodo di malattia urgentissimo il cliente attende
+727,Rinnovo abbonamento,Ci sono offerte speciali in corso? Solo per curiosità.,Commerciale,bassa,rinnovo abbonamento ci sono offerte speciali in corso solo per curiosità
+728,Driver mancante,La licenza del software è scaduta Senza fretta.,Tecnico,bassa,driver mancante la licenza del software è scaduta senza fretta
+729,Webcam non rilevata,"Impossibile navigare su internet Urgentissimo, il cliente attende.",Tecnico,alta,webcam non rilevata impossibile navigare su internet urgentissimo il cliente attende
+730,Promozione attiva,Vorrei disdire il servizio attivo Solo per curiosità.,Commerciale,bassa,promozione attiva vorrei disdire il servizio attivo solo per curiosità
+731,Promozione attiva,Vorrei tracciare il mio ordine Cordiali saluti.,Commerciale,media,promozione attiva vorrei tracciare il mio ordine cordiali saluti
+732,Spedizione urgente,"Richiedo la sostituzione dell'articolo difettoso È urgente, non riesco a lavorare.",Commerciale,alta,spedizione urgente richiedo la sostituzione dell'articolo difettoso è urgente non riesco a lavorare
+733,Richiesta ferie,"Vorrei informazioni sulla liquidazione del TFR Sono fermo, non posso procedere.",Amministrazione,alta,richiesta ferie vorrei informazioni sulla liquidazione del tfr sono fermo non posso procedere
+734,Smart working,Devo comunicare il nuovo IBAN per l'accredito stipendio Attendo riscontro.,Amministrazione,media,smart working devo comunicare il nuovo iban per l'accredito stipendio attendo riscontro
+735,RAM insufficiente,Il sistema nega l'accesso ai file condivisi Grazie per l'assistenza.,Tecnico,media,ram insufficiente il sistema nega l'accesso ai file condivisi grazie per l'assistenza
+736,Software non funziona,Devo configurare la mia casella email Ho bisogno di aiuto immediato.,Tecnico,alta,software non funziona devo configurare la mia casella email ho bisogno di aiuto immediato
+737,Nota spese,Vorrei richiedere le ferie per il mese prossimo È solo una domanda informativa.,Amministrazione,bassa,nota spese vorrei richiedere le ferie per il mese prossimo è solo una domanda informativa
+738,VPN non funziona,Il mouse wireless non risponde Non è prioritario.,Tecnico,bassa,vpn non funziona il mouse wireless non risponde non è prioritario
+739,Certificato lavoro,"Invio la nota spese del mese Emergenza, serve intervento immediato.",Amministrazione,alta,certificato lavoro invio la nota spese del mese emergenza serve intervento immediato
+740,File corrotto,Il file Excel non si apre correttamente A vostra comodità.,Tecnico,bassa,file corrotto il file excel non si apre correttamente a vostra comodità
+741,Accesso negato,L'antivirus ha rilevato una minaccia Attendo riscontro.,Tecnico,media,accesso negato l'antivirus ha rilevato una minaccia attendo riscontro
+742,Rimborso spese,Ho bisogno di un attestato di servizio Attendo riscontro.,Amministrazione,media,rimborso spese ho bisogno di un attestato di servizio attendo riscontro
+743,Informazioni prodotto,La fattura ricevuta contiene degli errori È bloccante per il mio lavoro.,Commerciale,alta,informazioni prodotto la fattura ricevuta contiene degli errori è bloccante per il mio lavoro
+744,Errore di sistema,L'antivirus ha rilevato una minaccia Non è prioritario.,Tecnico,bassa,errore di sistema l'antivirus ha rilevato una minaccia non è prioritario
+745,Catalogo prodotti,Il mio ordine è in ritardo rispetto alla data prevista Resto in attesa di risposta.,Commerciale,media,catalogo prodotti il mio ordine è in ritardo rispetto alla data prevista resto in attesa di risposta
+746,Tracciamento ordine,"È possibile ottenere uno sconto per grandi quantità? Non è urgente, quando avete tempo.",Commerciale,bassa,tracciamento ordine è possibile ottenere uno sconto per grandi quantità non è urgente quando avete tempo
+747,Congedo parentale,"Richiedo un anticipo sullo stipendio Quando possibile, grazie.",Amministrazione,media,congedo parentale richiedo un anticipo sullo stipendio quando possibile grazie
+748,Driver mancante,Lo schermo rimane nero dopo l'accensione Non è prioritario.,Tecnico,bassa,driver mancante lo schermo rimane nero dopo l'accensione non è prioritario
+749,Computer lento,La licenza del software è scaduta Non è prioritario.,Tecnico,bassa,computer lento la licenza del software è scaduta non è prioritario
+750,Disco pieno,L'aggiornamento del sistema operativo è fallito Grazie per l'assistenza.,Tecnico,media,disco pieno l'aggiornamento del sistema operativo è fallito grazie per l'assistenza
+751,Monitor sfarfalla,Alcuni tasti della tastiera non funzionano È bloccante per il mio lavoro.,Tecnico,alta,monitor sfarfalla alcuni tasti della tastiera non funzionano è bloccante per il mio lavoro
+752,Offerta speciale,Vorrei disdire il servizio attivo Grazie per l'assistenza.,Commerciale,media,offerta speciale vorrei disdire il servizio attivo grazie per l'assistenza
+753,RAM insufficiente,Il monitor presenta sfarfallii continui Quando possibile.,Tecnico,bassa,ram insufficiente il monitor presenta sfarfallii continui quando possibile
+754,Aggiornamento fallito,Devo configurare la mia casella email Senza fretta.,Tecnico,bassa,aggiornamento fallito devo configurare la mia casella email senza fretta
+755,Reclamo prodotto,Vorrei ricevere un preventivo per i vostri servizi Non è prioritario.,Commerciale,bassa,reclamo prodotto vorrei ricevere un preventivo per i vostri servizi non è prioritario
+756,Audio non funziona,Il sistema mostra un errore critico all'avvio Cordiali saluti.,Tecnico,media,audio non funziona il sistema mostra un errore critico all'avvio cordiali saluti
+757,Richiesta campioni,"La fattura ricevuta contiene degli errori Sono fermo, non posso procedere.",Commerciale,alta,richiesta campioni la fattura ricevuta contiene degli errori sono fermo non posso procedere
+758,Errore di sistema,Il file Excel non si apre correttamente Cordiali saluti.,Tecnico,media,errore di sistema il file excel non si apre correttamente cordiali saluti
+759,Backup fallito,"Il backup automatico non viene eseguito Sono fermo, non posso procedere.",Tecnico,alta,backup fallito il backup automatico non viene eseguito sono fermo non posso procedere
+760,Variazione orario,"Ho bisogno di modificare le detrazioni fiscali Quando possibile, grazie.",Amministrazione,media,variazione orario ho bisogno di modificare le detrazioni fiscali quando possibile grazie
+761,Rinnovo abbonamento,Richiedo la sostituzione dell'articolo difettoso Solo per avere informazioni.,Commerciale,bassa,rinnovo abbonamento richiedo la sostituzione dell'articolo difettoso solo per avere informazioni
+762,Licenza scaduta,Non riesco a connettermi alla rete aziendale,Tecnico,media,licenza scaduta non riesco a connettermi alla rete aziendale
+763,Upgrade piano,"Vorrei tracciare il mio ordine Emergenza, serve intervento immediato.",Commerciale,alta,upgrade piano vorrei tracciare il mio ordine emergenza serve intervento immediato
+764,Rinnovo contratto,Devo aggiornare la richiesta assegni familiari A vostra comodità.,Amministrazione,bassa,rinnovo contratto devo aggiornare la richiesta assegni familiari a vostra comodità
+765,Malattia,Devo organizzare una trasferta di lavoro Problema grave che blocca tutto.,Amministrazione,alta,malattia devo organizzare una trasferta di lavoro problema grave che blocca tutto
+766,Bluetooth non funziona,L'applicazione si chiude inaspettatamente Ho bisogno di aiuto immediato.,Tecnico,alta,bluetooth non funziona l'applicazione si chiude inaspettatamente ho bisogno di aiuto immediato
+767,Reclamo prodotto,La fattura ricevuta contiene degli errori Solo per avere informazioni.,Commerciale,bassa,reclamo prodotto la fattura ricevuta contiene degli errori solo per avere informazioni
+768,Rimborso spese,Invio la nota spese del mese A vostra comodità.,Amministrazione,bassa,rimborso spese invio la nota spese del mese a vostra comodità
+769,Promozione attiva,"Vorrei tracciare il mio ordine Sono fermo, non posso procedere.",Commerciale,alta,promozione attiva vorrei tracciare il mio ordine sono fermo non posso procedere
+770,Lettera referenze,Richiedo una variazione dell'orario di lavoro Grazie in anticipo.,Amministrazione,media,lettera referenze richiedo una variazione dell'orario di lavoro grazie in anticipo
+771,Virus rilevato,La stampante non risponde ai comandi di stampa Solo per curiosità.,Tecnico,bassa,virus rilevato la stampante non risponde ai comandi di stampa solo per curiosità
+772,Anticipo stipendio,"Richiedo un anticipo sullo stipendio Sono fermo, non posso procedere.",Amministrazione,alta,anticipo stipendio richiedo un anticipo sullo stipendio sono fermo non posso procedere
+773,Richiesta campioni,Vorrei ricevere il catalogo prodotti completo Attendo riscontro.,Commerciale,media,richiesta campioni vorrei ricevere il catalogo prodotti completo attendo riscontro
+774,Maternità,"Vorrei informazioni sul prestito aziendale Sono fermo, non posso procedere.",Amministrazione,alta,maternità vorrei informazioni sul prestito aziendale sono fermo non posso procedere
+775,Tracciamento ordine,Vorrei lasciare un feedback sul servizio ricevuto,Commerciale,media,tracciamento ordine vorrei lasciare un feedback sul servizio ricevuto
+776,Computer lento,L'antivirus ha rilevato una minaccia Quando possibile.,Tecnico,bassa,computer lento l'antivirus ha rilevato una minaccia quando possibile
+777,Reclamo prodotto,"Richiedo la sostituzione dell'articolo difettoso Urgentissimo, il cliente attende.",Commerciale,alta,reclamo prodotto richiedo la sostituzione dell'articolo difettoso urgentissimo il cliente attende
+778,Contratto fornitura,Confermo di aver effettuato il pagamento Attendo riscontro.,Commerciale,media,contratto fornitura confermo di aver effettuato il pagamento attendo riscontro
+779,Disdetta servizio,Il mio ordine è in ritardo rispetto alla data prevista È bloccante per il mio lavoro.,Commerciale,alta,disdetta servizio il mio ordine è in ritardo rispetto alla data prevista è bloccante per il mio lavoro
+780,Stampante non stampa,Non ricordo la password del mio account Cordiali saluti.,Tecnico,media,stampante non stampa non ricordo la password del mio account cordiali saluti
+781,Certificato lavoro,I contributi versati risultano errati Fatemi sapere.,Amministrazione,media,certificato lavoro i contributi versati risultano errati fatemi sapere
+782,Webcam non rilevata,Il disco C: è quasi pieno Solo per avere informazioni.,Tecnico,bassa,webcam non rilevata il disco c è quasi pieno solo per avere informazioni
+783,Monitor sfarfalla,Il sistema nega l'accesso ai file condivisi Ho bisogno di aiuto immediato.,Tecnico,alta,monitor sfarfalla il sistema nega l'accesso ai file condivisi ho bisogno di aiuto immediato
+784,USB non riconosciuta,La chiavetta USB non viene riconosciuta Fatemi sapere.,Tecnico,media,usb non riconosciuta la chiavetta usb non viene riconosciuta fatemi sapere
+785,Sostituzione articolo,"Il prodotto ricevuto presenta dei difetti Quando possibile, grazie.",Commerciale,media,sostituzione articolo il prodotto ricevuto presenta dei difetti quando possibile grazie
+786,Malattia,Non ho ricevuto la CUD di quest'anno Ho bisogno di aiuto immediato.,Amministrazione,alta,malattia non ho ricevuto la cud di quest'anno ho bisogno di aiuto immediato
+787,Listino prezzi,"La fattura ricevuta contiene degli errori Sono fermo, non posso procedere.",Commerciale,alta,listino prezzi la fattura ricevuta contiene degli errori sono fermo non posso procedere
+788,Audio non funziona,Non ricordo la password del mio account Attendo riscontro.,Tecnico,media,audio non funziona non ricordo la password del mio account attendo riscontro
+789,Reso merce,"Richiedo il listino prezzi aggiornato Quando possibile, grazie.",Commerciale,media,reso merce richiedo il listino prezzi aggiornato quando possibile grazie
+790,Modifica anagrafica,Vorrei attivare lo smart working È solo una domanda informativa.,Amministrazione,bassa,modifica anagrafica vorrei attivare lo smart working è solo una domanda informativa
+791,Smart working,Gli straordinari del mese scorso non sono stati pagati A vostra comodità.,Amministrazione,bassa,smart working gli straordinari del mese scorso non sono stati pagati a vostra comodità
+792,Errore di sistema,"Il sistema nega l'accesso ai file condivisi Sono fermo, non posso procedere.",Tecnico,alta,errore di sistema il sistema nega l'accesso ai file condivisi sono fermo non posso procedere
+793,Aggiornamento fallito,Lo schermo rimane nero dopo l'accensione Problema grave che blocca tutto.,Tecnico,alta,aggiornamento fallito lo schermo rimane nero dopo l'accensione problema grave che blocca tutto
+794,Sostituzione articolo,Ho bisogno di informazioni su un prodotto specifico Attendo riscontro.,Commerciale,media,sostituzione articolo ho bisogno di informazioni su un prodotto specifico attendo riscontro
+795,VPN non funziona,L'antivirus ha rilevato una minaccia Senza fretta.,Tecnico,bassa,vpn non funziona l'antivirus ha rilevato una minaccia senza fretta
+796,Listino prezzi,Devo modificare la quantità dell'ordine effettuato Attendo riscontro.,Commerciale,media,listino prezzi devo modificare la quantità dell'ordine effettuato attendo riscontro
+797,Promozione attiva,Vorrei ricevere il catalogo prodotti completo Grazie in anticipo.,Commerciale,media,promozione attiva vorrei ricevere il catalogo prodotti completo grazie in anticipo
+798,Configurazione email,Ho bisogno di installare un nuovo software Grazie per l'assistenza.,Tecnico,media,configurazione email ho bisogno di installare un nuovo software grazie per l'assistenza
+799,Rimborso spese,Ho bisogno di modificare le detrazioni fiscali Grazie per l'assistenza.,Amministrazione,media,rimborso spese ho bisogno di modificare le detrazioni fiscali grazie per l'assistenza
+800,Attestato di servizio,Devo comunicare il nuovo IBAN per l'accredito stipendio È solo una domanda informativa.,Amministrazione,bassa,attestato di servizio devo comunicare il nuovo iban per l'accredito stipendio è solo una domanda informativa
+801,Contratto fornitura,Sono un nuovo cliente e vorrei registrarmi Grazie in anticipo.,Commerciale,media,contratto fornitura sono un nuovo cliente e vorrei registrarmi grazie in anticipo
+802,Nota spese,"Ho bisogno di una lettera di referenze Situazione critica, sistema bloccato.",Amministrazione,alta,nota spese ho bisogno di una lettera di referenze situazione critica sistema bloccato
+803,Credito cliente,È possibile ottenere uno sconto per grandi quantità? È solo una domanda informativa.,Commerciale,bassa,credito cliente è possibile ottenere uno sconto per grandi quantità è solo una domanda informativa
+804,Schermo nero,L'applicazione si chiude inaspettatamente Cordiali saluti.,Tecnico,media,schermo nero l'applicazione si chiude inaspettatamente cordiali saluti
+805,Congedo parentale,Richiedo un cambio di mansione Grazie in anticipo.,Amministrazione,media,congedo parentale richiedo un cambio di mansione grazie in anticipo
+806,Aggiornamento fallito,Lo schermo rimane nero dopo l'accensione,Tecnico,media,aggiornamento fallito lo schermo rimane nero dopo l'accensione
+807,RAM insufficiente,"L'aggiornamento del sistema operativo è fallito Quando possibile, grazie.",Tecnico,media,ram insufficiente l'aggiornamento del sistema operativo è fallito quando possibile grazie
+808,Accesso negato,"La connessione VPN si disconnette continuamente Urgentissimo, il cliente attende.",Tecnico,alta,accesso negato la connessione vpn si disconnette continuamente urgentissimo il cliente attende
+809,Garanzia prodotto,Il prodotto ricevuto presenta dei difetti Ho bisogno di aiuto immediato.,Commerciale,alta,garanzia prodotto il prodotto ricevuto presenta dei difetti ho bisogno di aiuto immediato
+810,Disdetta servizio,Ho bisogno di informazioni su un prodotto specifico Resto in attesa di risposta.,Commerciale,media,disdetta servizio ho bisogno di informazioni su un prodotto specifico resto in attesa di risposta
+811,Contratto fornitura,Ho bisogno di informazioni su un prodotto specifico Senza fretta.,Commerciale,bassa,contratto fornitura ho bisogno di informazioni su un prodotto specifico senza fretta
+812,PC si spegne da solo,La licenza del software è scaduta Solo per avere informazioni.,Tecnico,bassa,pc si spegne da solo la licenza del software è scaduta solo per avere informazioni
+813,Connessione internet assente,L'antivirus ha rilevato una minaccia Solo per curiosità.,Tecnico,bassa,connessione internet assente l'antivirus ha rilevato una minaccia solo per curiosità
+814,Smart working,Devo richiedere il rimborso delle spese di viaggio Problema grave che blocca tutto.,Amministrazione,alta,smart working devo richiedere il rimborso delle spese di viaggio problema grave che blocca tutto
+815,Lettera referenze,Richiedo informazioni sul congedo di maternità Quando possibile.,Amministrazione,bassa,lettera referenze richiedo informazioni sul congedo di maternità quando possibile
+816,Virus rilevato,Il PC si spegne improvvisamente senza motivo Grazie per l'assistenza.,Tecnico,media,virus rilevato il pc si spegne improvvisamente senza motivo grazie per l'assistenza
+817,Assegni familiari,Devo comunicare un periodo di malattia Grazie in anticipo.,Amministrazione,media,assegni familiari devo comunicare un periodo di malattia grazie in anticipo
+818,Reclamo prodotto,"Vorrei disdire il servizio attivo Sono fermo, non posso procedere.",Commerciale,alta,reclamo prodotto vorrei disdire il servizio attivo sono fermo non posso procedere
+819,File corrotto,Devo configurare la mia casella email Attendo riscontro.,Tecnico,media,file corrotto devo configurare la mia casella email attendo riscontro
+820,Variazione orario,Vorrei richiedere le ferie per il mese prossimo Senza fretta.,Amministrazione,bassa,variazione orario vorrei richiedere le ferie per il mese prossimo senza fretta
+821,Audio non funziona,Non esce audio dalle casse del computer Fatemi sapere.,Tecnico,media,audio non funziona non esce audio dalle casse del computer fatemi sapere
+822,Richiesta ferie,Vorrei richiedere il congedo parentale,Amministrazione,media,richiesta ferie vorrei richiedere il congedo parentale
+823,Reclamo prodotto,Vorrei lasciare un feedback sul servizio ricevuto Cordiali saluti.,Commerciale,media,reclamo prodotto vorrei lasciare un feedback sul servizio ricevuto cordiali saluti
+824,Schermo nero,Il computer impiega troppo tempo ad avviarsi Solo per curiosità.,Tecnico,bassa,schermo nero il computer impiega troppo tempo ad avviarsi solo per curiosità
+825,Email non arrivano,"Il PC si spegne improvvisamente senza motivo Quando possibile, grazie.",Tecnico,media,email non arrivano il pc si spegne improvvisamente senza motivo quando possibile grazie
+826,Tastiera bloccata,Il sistema è molto lento per mancanza di RAM Attendo riscontro.,Tecnico,media,tastiera bloccata il sistema è molto lento per mancanza di ram attendo riscontro
+827,Reso merce,Vorrei verificare il credito residuo Grazie in anticipo.,Commerciale,media,reso merce vorrei verificare il credito residuo grazie in anticipo
+828,Credito cliente,Vorrei lasciare un feedback sul servizio ricevuto Non è prioritario.,Commerciale,bassa,credito cliente vorrei lasciare un feedback sul servizio ricevuto non è prioritario
+829,Contratto fornitura,Vorrei ricevere un preventivo per i vostri servizi Solo per avere informazioni.,Commerciale,bassa,contratto fornitura vorrei ricevere un preventivo per i vostri servizi solo per avere informazioni
+830,Modifica ordine,Richiedo il listino prezzi aggiornato Resto in attesa di risposta.,Commerciale,media,modifica ordine richiedo il listino prezzi aggiornato resto in attesa di risposta
+831,Feedback servizio,"Vorrei lasciare un feedback sul servizio ricevuto Emergenza, serve intervento immediato.",Commerciale,alta,feedback servizio vorrei lasciare un feedback sul servizio ricevuto emergenza serve intervento immediato
+832,Computer lento,L'applicazione si chiude inaspettatamente Resto in attesa di risposta.,Tecnico,media,computer lento l'applicazione si chiude inaspettatamente resto in attesa di risposta
+833,USB non riconosciuta,"Non riesco a connettermi alla rete aziendale È urgente, non riesco a lavorare.",Tecnico,alta,usb non riconosciuta non riesco a connettermi alla rete aziendale è urgente non riesco a lavorare
+834,Congedo parentale,Devo richiedere il rimborso delle spese di viaggio Ho bisogno di aiuto immediato.,Amministrazione,alta,congedo parentale devo richiedere il rimborso delle spese di viaggio ho bisogno di aiuto immediato
+835,Garanzia prodotto,Richiedo il listino prezzi aggiornato Solo per curiosità.,Commerciale,bassa,garanzia prodotto richiedo il listino prezzi aggiornato solo per curiosità
+836,Maternità,Vorrei richiedere il congedo parentale Ho bisogno di aiuto immediato.,Amministrazione,alta,maternità vorrei richiedere il congedo parentale ho bisogno di aiuto immediato
+837,Errore di sistema,Impossibile navigare su internet Quando possibile.,Tecnico,bassa,errore di sistema impossibile navigare su internet quando possibile
+838,Disco pieno,Non riesco a collegare dispositivi Bluetooth Attendo riscontro.,Tecnico,media,disco pieno non riesco a collegare dispositivi bluetooth attendo riscontro
+839,Garanzia prodotto,Vorrei effettuare il reso della merce acquistata,Commerciale,media,garanzia prodotto vorrei effettuare il reso della merce acquistata
+840,Partnership commerciale,Invio sollecito per il pagamento della fattura Attendo riscontro.,Commerciale,media,partnership commerciale invio sollecito per il pagamento della fattura attendo riscontro
+841,Software da installare,Alcuni tasti della tastiera non funzionano Solo per curiosità.,Tecnico,bassa,software da installare alcuni tasti della tastiera non funzionano solo per curiosità
+842,Password dimenticata,"Il mouse wireless non risponde Non è urgente, quando avete tempo.",Tecnico,bassa,password dimenticata il mouse wireless non risponde non è urgente quando avete tempo
+843,Spedizione urgente,Devo rinnovare il mio abbonamento Grazie in anticipo.,Commerciale,media,spedizione urgente devo rinnovare il mio abbonamento grazie in anticipo
+844,Maternità,"Vorrei informazioni sul prestito aziendale Situazione critica, sistema bloccato.",Amministrazione,alta,maternità vorrei informazioni sul prestito aziendale situazione critica sistema bloccato
+845,Ordine in ritardo,Il mio ordine è in ritardo rispetto alla data prevista Solo per avere informazioni.,Commerciale,bassa,ordine in ritardo il mio ordine è in ritardo rispetto alla data prevista solo per avere informazioni
+846,Reclamo prodotto,Invio sollecito per il pagamento della fattura Cordiali saluti.,Commerciale,media,reclamo prodotto invio sollecito per il pagamento della fattura cordiali saluti
+847,Promozione attiva,Il prodotto ricevuto presenta dei difetti,Commerciale,media,promozione attiva il prodotto ricevuto presenta dei difetti
+848,Accesso negato,Il file Excel non si apre correttamente Non è prioritario.,Tecnico,bassa,accesso negato il file excel non si apre correttamente non è prioritario
+849,Straordinari non pagati,Devo comunicare un periodo di malattia Problema grave che blocca tutto.,Amministrazione,alta,straordinari non pagati devo comunicare un periodo di malattia problema grave che blocca tutto
+850,Smart working,Richiedo un cambio di mansione A vostra comodità.,Amministrazione,bassa,smart working richiedo un cambio di mansione a vostra comodità
+851,Trasferta,Vorrei presentare le dimissioni Problema grave che blocca tutto.,Amministrazione,alta,trasferta vorrei presentare le dimissioni problema grave che blocca tutto
+852,Tracciamento ordine,Vorrei ricevere un preventivo per i vostri servizi,Commerciale,media,tracciamento ordine vorrei ricevere un preventivo per i vostri servizi
+853,Contratto fornitura,"Siamo interessati a una partnership commerciale Emergenza, serve intervento immediato.",Commerciale,alta,contratto fornitura siamo interessati a una partnership commerciale emergenza serve intervento immediato
+854,Software non funziona,"Il monitor presenta sfarfallii continui Sono fermo, non posso procedere.",Tecnico,alta,software non funziona il monitor presenta sfarfallii continui sono fermo non posso procedere
+855,Assegni familiari,Devo comunicare un periodo di malattia Grazie per l'assistenza.,Amministrazione,media,assegni familiari devo comunicare un periodo di malattia grazie per l'assistenza
+856,Tastiera bloccata,La connessione VPN si disconnette continuamente Quando possibile.,Tecnico,bassa,tastiera bloccata la connessione vpn si disconnette continuamente quando possibile
+857,Fattura errata,"Siamo interessati a una partnership commerciale Situazione critica, sistema bloccato.",Commerciale,alta,fattura errata siamo interessati a una partnership commerciale situazione critica sistema bloccato
+858,Certificato lavoro,Ho ricevuto il contratto da firmare Problema grave che blocca tutto.,Amministrazione,alta,certificato lavoro ho ricevuto il contratto da firmare problema grave che blocca tutto
+859,Sostituzione articolo,"Vorrei verificare il credito residuo Quando possibile, grazie.",Commerciale,media,sostituzione articolo vorrei verificare il credito residuo quando possibile grazie
+860,Aggiornamento fallito,Ho bisogno di installare un nuovo software Grazie per l'assistenza.,Tecnico,media,aggiornamento fallito ho bisogno di installare un nuovo software grazie per l'assistenza
+861,Offerta speciale,Vorrei disdire il servizio attivo Fatemi sapere.,Commerciale,media,offerta speciale vorrei disdire il servizio attivo fatemi sapere
+862,Server non risponde,La chiavetta USB non viene riconosciuta Grazie in anticipo.,Tecnico,media,server non risponde la chiavetta usb non viene riconosciuta grazie in anticipo
+863,Upgrade piano,Richiedo la sostituzione dell'articolo difettoso È solo una domanda informativa.,Commerciale,bassa,upgrade piano richiedo la sostituzione dell'articolo difettoso è solo una domanda informativa
+864,Trasferta,Il mio contratto è in scadenza Cordiali saluti.,Amministrazione,media,trasferta il mio contratto è in scadenza cordiali saluti
+865,Richiesta preventivo,Devo rinnovare il mio abbonamento Non è prioritario.,Commerciale,bassa,richiesta preventivo devo rinnovare il mio abbonamento non è prioritario
+866,Feedback servizio,"Vorrei discutere un contratto di fornitura Sono fermo, non posso procedere.",Commerciale,alta,feedback servizio vorrei discutere un contratto di fornitura sono fermo non posso procedere
+867,Reclamo prodotto,Devo modificare la quantità dell'ordine effettuato Problema grave che blocca tutto.,Commerciale,alta,reclamo prodotto devo modificare la quantità dell'ordine effettuato problema grave che blocca tutto
+868,Richiesta permesso,"Il mio contratto è in scadenza Urgentissimo, il cliente attende.",Amministrazione,alta,richiesta permesso il mio contratto è in scadenza urgentissimo il cliente attende
+869,Disponibilità articolo,"Vorrei ricevere il catalogo prodotti completo Situazione critica, sistema bloccato.",Commerciale,alta,disponibilità articolo vorrei ricevere il catalogo prodotti completo situazione critica sistema bloccato
+870,Smart working,Devo aggiornare il mio indirizzo di residenza Fatemi sapere.,Amministrazione,media,smart working devo aggiornare il mio indirizzo di residenza fatemi sapere
+871,Contratto da firmare,Il mio contratto è in scadenza Ho bisogno di aiuto immediato.,Amministrazione,alta,contratto da firmare il mio contratto è in scadenza ho bisogno di aiuto immediato
+872,PC si spegne da solo,Il PC si spegne improvvisamente senza motivo A vostra comodità.,Tecnico,bassa,pc si spegne da solo il pc si spegne improvvisamente senza motivo a vostra comodità
+873,Tracciamento ordine,"Il mio ordine è in ritardo rispetto alla data prevista Quando possibile, grazie.",Commerciale,media,tracciamento ordine il mio ordine è in ritardo rispetto alla data prevista quando possibile grazie
+874,Connessione internet assente,Il PC si spegne improvvisamente senza motivo Attendo riscontro.,Tecnico,media,connessione internet assente il pc si spegne improvvisamente senza motivo attendo riscontro
+875,Upgrade piano,Ci sono offerte speciali in corso? Senza fretta.,Commerciale,bassa,upgrade piano ci sono offerte speciali in corso senza fretta
+876,Sconto richiesto,L'articolo che cerco è disponibile in magazzino? È bloccante per il mio lavoro.,Commerciale,alta,sconto richiesto l'articolo che cerco è disponibile in magazzino è bloccante per il mio lavoro
+877,Nuovo cliente,Vorrei verificare il credito residuo Cordiali saluti.,Commerciale,media,nuovo cliente vorrei verificare il credito residuo cordiali saluti
+878,Nuovo cliente,Devo modificare la quantità dell'ordine effettuato Grazie per l'assistenza.,Commerciale,media,nuovo cliente devo modificare la quantità dell'ordine effettuato grazie per l'assistenza
+879,Rinnovo contratto,Vorrei richiedere il congedo parentale Problema grave che blocca tutto.,Amministrazione,alta,rinnovo contratto vorrei richiedere il congedo parentale problema grave che blocca tutto
+880,Reso merce,La fattura ricevuta contiene degli errori Cordiali saluti.,Commerciale,media,reso merce la fattura ricevuta contiene degli errori cordiali saluti
+881,Bluetooth non funziona,Non riesco a collegare dispositivi Bluetooth Solo per avere informazioni.,Tecnico,bassa,bluetooth non funziona non riesco a collegare dispositivi bluetooth solo per avere informazioni
+882,Busta paga errata,"Ho bisogno di un attestato di servizio Sono fermo, non posso procedere.",Amministrazione,alta,busta paga errata ho bisogno di un attestato di servizio sono fermo non posso procedere
+883,Busta paga errata,Vorrei informazioni sul prestito aziendale Problema grave che blocca tutto.,Amministrazione,alta,busta paga errata vorrei informazioni sul prestito aziendale problema grave che blocca tutto
+884,Upgrade piano,L'articolo che cerco è disponibile in magazzino? Grazie per l'assistenza.,Commerciale,media,upgrade piano l'articolo che cerco è disponibile in magazzino grazie per l'assistenza
+885,Monitor sfarfalla,Impossibile navigare su internet Resto in attesa di risposta.,Tecnico,media,monitor sfarfalla impossibile navigare su internet resto in attesa di risposta
+886,RAM insufficiente,La chiavetta USB non viene riconosciuta,Tecnico,media,ram insufficiente la chiavetta usb non viene riconosciuta
+887,Dimissioni,Vorrei informazioni sulla liquidazione del TFR Solo per curiosità.,Amministrazione,bassa,dimissioni vorrei informazioni sulla liquidazione del tfr solo per curiosità
+888,Errore di sistema,Non esce audio dalle casse del computer È solo una domanda informativa.,Tecnico,bassa,errore di sistema non esce audio dalle casse del computer è solo una domanda informativa
+889,Tracciamento ordine,Sono un nuovo cliente e vorrei registrarmi Grazie in anticipo.,Commerciale,media,tracciamento ordine sono un nuovo cliente e vorrei registrarmi grazie in anticipo
+890,Monitor sfarfalla,Il sistema nega l'accesso ai file condivisi Grazie per l'assistenza.,Tecnico,media,monitor sfarfalla il sistema nega l'accesso ai file condivisi grazie per l'assistenza
+891,Rinnovo contratto,"Ho notato un errore nell'importo della busta paga È urgente, non riesco a lavorare.",Amministrazione,alta,rinnovo contratto ho notato un errore nell'importo della busta paga è urgente non riesco a lavorare
+892,Password dimenticata,Il disco C: è quasi pieno Senza fretta.,Tecnico,bassa,password dimenticata il disco c è quasi pieno senza fretta
+893,Software non funziona,"Non riesco a collegare dispositivi Bluetooth È urgente, non riesco a lavorare.",Tecnico,alta,software non funziona non riesco a collegare dispositivi bluetooth è urgente non riesco a lavorare
+894,Lettera referenze,Vorrei presentare le dimissioni Grazie in anticipo.,Amministrazione,media,lettera referenze vorrei presentare le dimissioni grazie in anticipo
+895,Trasferta,Ho notato un errore nell'importo della busta paga Ho bisogno di aiuto immediato.,Amministrazione,alta,trasferta ho notato un errore nell'importo della busta paga ho bisogno di aiuto immediato
+896,Busta paga errata,Invio la nota spese del mese Fatemi sapere.,Amministrazione,media,busta paga errata invio la nota spese del mese fatemi sapere
+897,Disco pieno,Il backup automatico non viene eseguito,Tecnico,media,disco pieno il backup automatico non viene eseguito
+898,Assegni familiari,Richiedo informazioni sul congedo di maternità Problema grave che blocca tutto.,Amministrazione,alta,assegni familiari richiedo informazioni sul congedo di maternità problema grave che blocca tutto
+899,Catalogo prodotti,Vorrei lasciare un feedback sul servizio ricevuto Attendo riscontro.,Commerciale,media,catalogo prodotti vorrei lasciare un feedback sul servizio ricevuto attendo riscontro
+900,Connessione internet assente,"Il monitor presenta sfarfallii continui Quando possibile, grazie.",Tecnico,media,connessione internet assente il monitor presenta sfarfallii continui quando possibile grazie
+901,Cambio IBAN,Richiedo un cambio di mansione Grazie in anticipo.,Amministrazione,media,cambio iban richiedo un cambio di mansione grazie in anticipo
+902,Email non arrivano,Il monitor presenta sfarfallii continui Grazie in anticipo.,Tecnico,media,email non arrivano il monitor presenta sfarfallii continui grazie in anticipo
+903,Server non risponde,"Il disco C: è quasi pieno Emergenza, serve intervento immediato.",Tecnico,alta,server non risponde il disco c è quasi pieno emergenza serve intervento immediato
+904,Dimissioni,I contributi versati risultano errati Fatemi sapere.,Amministrazione,media,dimissioni i contributi versati risultano errati fatemi sapere
+905,Detrazioni fiscali,Devo comunicare un periodo di malattia Fatemi sapere.,Amministrazione,media,detrazioni fiscali devo comunicare un periodo di malattia fatemi sapere
+906,PC si spegne da solo,Alcuni tasti della tastiera non funzionano Problema grave che blocca tutto.,Tecnico,alta,pc si spegne da solo alcuni tasti della tastiera non funzionano problema grave che blocca tutto
+907,Disponibilità articolo,Vorrei tracciare il mio ordine Grazie in anticipo.,Commerciale,media,disponibilità articolo vorrei tracciare il mio ordine grazie in anticipo
+908,Straordinari non pagati,"Non ho ricevuto la CUD di quest'anno È urgente, non riesco a lavorare.",Amministrazione,alta,straordinari non pagati non ho ricevuto la cud di quest'anno è urgente non riesco a lavorare
+909,Audio non funziona,Il PC si spegne improvvisamente senza motivo,Tecnico,media,audio non funziona il pc si spegne improvvisamente senza motivo
+910,Fattura errata,Vorrei ricevere il catalogo prodotti completo,Commerciale,media,fattura errata vorrei ricevere il catalogo prodotti completo
+911,Richiesta permesso,Ho ricevuto il contratto da firmare È bloccante per il mio lavoro.,Amministrazione,alta,richiesta permesso ho ricevuto il contratto da firmare è bloccante per il mio lavoro
+912,Tracciamento ordine,Richiedo il listino prezzi aggiornato Solo per curiosità.,Commerciale,bassa,tracciamento ordine richiedo il listino prezzi aggiornato solo per curiosità
+913,Modifica anagrafica,I contributi versati risultano errati,Amministrazione,media,modifica anagrafica i contributi versati risultano errati
+914,Computer lento,Il disco C: è quasi pieno Senza fretta.,Tecnico,bassa,computer lento il disco c è quasi pieno senza fretta
+915,Sostituzione articolo,Devo rinnovare il mio abbonamento Quando possibile.,Commerciale,bassa,sostituzione articolo devo rinnovare il mio abbonamento quando possibile
+916,Richiesta ferie,"Gli straordinari del mese scorso non sono stati pagati Sono fermo, non posso procedere.",Amministrazione,alta,richiesta ferie gli straordinari del mese scorso non sono stati pagati sono fermo non posso procedere
+917,Maternità,Richiedo informazioni sul congedo di maternità Grazie per l'assistenza.,Amministrazione,media,maternità richiedo informazioni sul congedo di maternità grazie per l'assistenza
+918,Offerta speciale,È possibile ricevere dei campioni gratuiti? È bloccante per il mio lavoro.,Commerciale,alta,offerta speciale è possibile ricevere dei campioni gratuiti è bloccante per il mio lavoro
+919,Errore contributi,Richiedo un anticipo sullo stipendio Solo per avere informazioni.,Amministrazione,bassa,errore contributi richiedo un anticipo sullo stipendio solo per avere informazioni
+920,Driver mancante,Il PC si spegne improvvisamente senza motivo Solo per curiosità.,Tecnico,bassa,driver mancante il pc si spegne improvvisamente senza motivo solo per curiosità
+921,Trasferta,"Richiedo una variazione dell'orario di lavoro Urgentissimo, il cliente attende.",Amministrazione,alta,trasferta richiedo una variazione dell'orario di lavoro urgentissimo il cliente attende
+922,Ordine in ritardo,La fattura ricevuta contiene degli errori È solo una domanda informativa.,Commerciale,bassa,ordine in ritardo la fattura ricevuta contiene degli errori è solo una domanda informativa
+923,Configurazione email,Non riesco a connettermi alla rete aziendale Solo per avere informazioni.,Tecnico,bassa,configurazione email non riesco a connettermi alla rete aziendale solo per avere informazioni
+924,Credito cliente,Vorrei verificare il credito residuo Quando possibile.,Commerciale,bassa,credito cliente vorrei verificare il credito residuo quando possibile
+925,Virus rilevato,"L'aggiornamento del sistema operativo è fallito Situazione critica, sistema bloccato.",Tecnico,alta,virus rilevato l'aggiornamento del sistema operativo è fallito situazione critica sistema bloccato
+926,Software da installare,Il monitor presenta sfarfallii continui Problema grave che blocca tutto.,Tecnico,alta,software da installare il monitor presenta sfarfallii continui problema grave che blocca tutto
+927,VPN non funziona,Lo schermo rimane nero dopo l'accensione Fatemi sapere.,Tecnico,media,vpn non funziona lo schermo rimane nero dopo l'accensione fatemi sapere
+928,Offerta speciale,Vorrei verificare il credito residuo Ho bisogno di aiuto immediato.,Commerciale,alta,offerta speciale vorrei verificare il credito residuo ho bisogno di aiuto immediato
+929,Tastiera bloccata,L'aggiornamento del sistema operativo è fallito Grazie in anticipo.,Tecnico,media,tastiera bloccata l'aggiornamento del sistema operativo è fallito grazie in anticipo
+930,USB non riconosciuta,Il computer impiega troppo tempo ad avviarsi Quando possibile.,Tecnico,bassa,usb non riconosciuta il computer impiega troppo tempo ad avviarsi quando possibile
+931,Partnership commerciale,Vorrei lasciare un feedback sul servizio ricevuto Solo per curiosità.,Commerciale,bassa,partnership commerciale vorrei lasciare un feedback sul servizio ricevuto solo per curiosità
+932,Tracciamento ordine,"È possibile ottenere uno sconto per grandi quantità? È urgente, non riesco a lavorare.",Commerciale,alta,tracciamento ordine è possibile ottenere uno sconto per grandi quantità è urgente non riesco a lavorare
+933,Nota spese,"Il cedolino presenta delle anomalie Sono fermo, non posso procedere.",Amministrazione,alta,nota spese il cedolino presenta delle anomalie sono fermo non posso procedere
+934,Disco pieno,Il sistema è molto lento per mancanza di RAM Senza fretta.,Tecnico,bassa,disco pieno il sistema è molto lento per mancanza di ram senza fretta
+935,Licenza scaduta,Alcuni tasti della tastiera non funzionano Problema grave che blocca tutto.,Tecnico,alta,licenza scaduta alcuni tasti della tastiera non funzionano problema grave che blocca tutto
+936,Problema cedolino,Ho bisogno di una lettera di referenze Ho bisogno di aiuto immediato.,Amministrazione,alta,problema cedolino ho bisogno di una lettera di referenze ho bisogno di aiuto immediato
+937,Monitor sfarfalla,"Non riesco a connettermi alla rete aziendale Urgentissimo, il cliente attende.",Tecnico,alta,monitor sfarfalla non riesco a connettermi alla rete aziendale urgentissimo il cliente attende
+938,Reso merce,Vorrei ricevere il catalogo prodotti completo A vostra comodità.,Commerciale,bassa,reso merce vorrei ricevere il catalogo prodotti completo a vostra comodità
+939,Disdetta servizio,"Siamo interessati a una partnership commerciale Non è urgente, quando avete tempo.",Commerciale,bassa,disdetta servizio siamo interessati a una partnership commerciale non è urgente quando avete tempo
+940,Server non risponde,"Il sistema è molto lento per mancanza di RAM Emergenza, serve intervento immediato.",Tecnico,alta,server non risponde il sistema è molto lento per mancanza di ram emergenza serve intervento immediato
+941,VPN non funziona,Il computer impiega troppo tempo ad avviarsi Non è prioritario.,Tecnico,bassa,vpn non funziona il computer impiega troppo tempo ad avviarsi non è prioritario
+942,Smart working,"Ho bisogno di modificare le detrazioni fiscali Situazione critica, sistema bloccato.",Amministrazione,alta,smart working ho bisogno di modificare le detrazioni fiscali situazione critica sistema bloccato
+943,Cambio IBAN,Invio la nota spese del mese Attendo riscontro.,Amministrazione,media,cambio iban invio la nota spese del mese attendo riscontro
+944,Anticipo stipendio,Non ho ricevuto la CUD di quest'anno È solo una domanda informativa.,Amministrazione,bassa,anticipo stipendio non ho ricevuto la cud di quest'anno è solo una domanda informativa
+945,Nuovo cliente,"Vorrei lasciare un feedback sul servizio ricevuto Non è urgente, quando avete tempo.",Commerciale,bassa,nuovo cliente vorrei lasciare un feedback sul servizio ricevuto non è urgente quando avete tempo
+946,Assistenza post-vendita,Confermo di aver effettuato il pagamento Grazie per l'assistenza.,Commerciale,media,assistenza post-vendita confermo di aver effettuato il pagamento grazie per l'assistenza
+947,Malattia,Devo comunicare un periodo di malattia,Amministrazione,media,malattia devo comunicare un periodo di malattia
+948,Variazione orario,Gli straordinari del mese scorso non sono stati pagati Fatemi sapere.,Amministrazione,media,variazione orario gli straordinari del mese scorso non sono stati pagati fatemi sapere
+949,Connessione internet assente,Non esce audio dalle casse del computer Cordiali saluti.,Tecnico,media,connessione internet assente non esce audio dalle casse del computer cordiali saluti
+950,Aggiornamento fallito,Non esce audio dalle casse del computer Senza fretta.,Tecnico,bassa,aggiornamento fallito non esce audio dalle casse del computer senza fretta
+951,CUD mancante,"Vorrei presentare le dimissioni Situazione critica, sistema bloccato.",Amministrazione,alta,cud mancante vorrei presentare le dimissioni situazione critica sistema bloccato
+952,Assegni familiari,"Vorrei presentare le dimissioni Emergenza, serve intervento immediato.",Amministrazione,alta,assegni familiari vorrei presentare le dimissioni emergenza serve intervento immediato
+953,Pagamento effettuato,Vorrei discutere un contratto di fornitura Cordiali saluti.,Commerciale,media,pagamento effettuato vorrei discutere un contratto di fornitura cordiali saluti
+954,Anticipo stipendio,"Non ho ricevuto la CUD di quest'anno Quando possibile, grazie.",Amministrazione,media,anticipo stipendio non ho ricevuto la cud di quest'anno quando possibile grazie
+955,Tastiera bloccata,La connessione VPN si disconnette continuamente,Tecnico,media,tastiera bloccata la connessione vpn si disconnette continuamente
+956,PC si spegne da solo,La licenza del software è scaduta Senza fretta.,Tecnico,bassa,pc si spegne da solo la licenza del software è scaduta senza fretta
+957,CUD mancante,Devo comunicare un periodo di malattia Cordiali saluti.,Amministrazione,media,cud mancante devo comunicare un periodo di malattia cordiali saluti
+958,Prestito aziendale,"Il mio contratto è in scadenza Urgentissimo, il cliente attende.",Amministrazione,alta,prestito aziendale il mio contratto è in scadenza urgentissimo il cliente attende
+959,Nuovo cliente,Richiedo la sostituzione dell'articolo difettoso Ho bisogno di aiuto immediato.,Commerciale,alta,nuovo cliente richiedo la sostituzione dell'articolo difettoso ho bisogno di aiuto immediato
+960,Partnership commerciale,Il mio ordine è in ritardo rispetto alla data prevista Solo per avere informazioni.,Commerciale,bassa,partnership commerciale il mio ordine è in ritardo rispetto alla data prevista solo per avere informazioni
+961,Richiesta preventivo,Ho bisogno di una spedizione urgente Grazie in anticipo.,Commerciale,media,richiesta preventivo ho bisogno di una spedizione urgente grazie in anticipo
+962,Assegni familiari,Vorrei attivare lo smart working È bloccante per il mio lavoro.,Amministrazione,alta,assegni familiari vorrei attivare lo smart working è bloccante per il mio lavoro
+963,Smart working,Vorrei presentare le dimissioni È solo una domanda informativa.,Amministrazione,bassa,smart working vorrei presentare le dimissioni è solo una domanda informativa
+964,Upgrade piano,Vorrei verificare il credito residuo Grazie per l'assistenza.,Commerciale,media,upgrade piano vorrei verificare il credito residuo grazie per l'assistenza
+965,Assistenza post-vendita,Vorrei lasciare un feedback sul servizio ricevuto,Commerciale,media,assistenza post-vendita vorrei lasciare un feedback sul servizio ricevuto
+966,Password dimenticata,Il computer impiega troppo tempo ad avviarsi Ho bisogno di aiuto immediato.,Tecnico,alta,password dimenticata il computer impiega troppo tempo ad avviarsi ho bisogno di aiuto immediato
+967,Busta paga errata,"Vorrei informazioni sulla liquidazione del TFR Urgentissimo, il cliente attende.",Amministrazione,alta,busta paga errata vorrei informazioni sulla liquidazione del tfr urgentissimo il cliente attende
+968,Malattia,Ho bisogno di un certificato di lavoro per la banca Grazie in anticipo.,Amministrazione,media,malattia ho bisogno di un certificato di lavoro per la banca grazie in anticipo
+969,Contratto da firmare,Richiedo informazioni sul congedo di maternità,Amministrazione,media,contratto da firmare richiedo informazioni sul congedo di maternità
+970,Contratto da firmare,Ho bisogno di un attestato di servizio Resto in attesa di risposta.,Amministrazione,media,contratto da firmare ho bisogno di un attestato di servizio resto in attesa di risposta
+971,Upgrade piano,Vorrei effettuare il reso della merce acquistata Ho bisogno di aiuto immediato.,Commerciale,alta,upgrade piano vorrei effettuare il reso della merce acquistata ho bisogno di aiuto immediato
+972,Errore contributi,Il cedolino presenta delle anomalie Fatemi sapere.,Amministrazione,media,errore contributi il cedolino presenta delle anomalie fatemi sapere
+973,Webcam non rilevata,Il file Excel non si apre correttamente Problema grave che blocca tutto.,Tecnico,alta,webcam non rilevata il file excel non si apre correttamente problema grave che blocca tutto
+974,Problema cedolino,Richiedo assistenza per il modello 730 Resto in attesa di risposta.,Amministrazione,media,problema cedolino richiedo assistenza per il modello 730 resto in attesa di risposta
+975,Reclamo prodotto,Confermo di aver effettuato il pagamento Cordiali saluti.,Commerciale,media,reclamo prodotto confermo di aver effettuato il pagamento cordiali saluti
+976,Assegni familiari,Il mio contratto è in scadenza È solo una domanda informativa.,Amministrazione,bassa,assegni familiari il mio contratto è in scadenza è solo una domanda informativa
+977,Upgrade piano,Richiedo la sostituzione dell'articolo difettoso Grazie in anticipo.,Commerciale,media,upgrade piano richiedo la sostituzione dell'articolo difettoso grazie in anticipo
+978,Sollecito pagamento,Siamo interessati a una partnership commerciale Fatemi sapere.,Commerciale,media,sollecito pagamento siamo interessati a una partnership commerciale fatemi sapere
+979,Sconto richiesto,Vorrei annullare l'ordine numero 12345 Grazie in anticipo.,Commerciale,media,sconto richiesto vorrei annullare l'ordine numero 12345 grazie in anticipo
+980,Webcam non rilevata,Ho bisogno di installare un nuovo software È solo una domanda informativa.,Tecnico,bassa,webcam non rilevata ho bisogno di installare un nuovo software è solo una domanda informativa
+981,Ordine in ritardo,Invio sollecito per il pagamento della fattura Problema grave che blocca tutto.,Commerciale,alta,ordine in ritardo invio sollecito per il pagamento della fattura problema grave che blocca tutto
+982,Straordinari non pagati,"Richiedo informazioni sul congedo di maternità Quando possibile, grazie.",Amministrazione,media,straordinari non pagati richiedo informazioni sul congedo di maternità quando possibile grazie
+983,Aggiornamento fallito,La chiavetta USB non viene riconosciuta Quando possibile.,Tecnico,bassa,aggiornamento fallito la chiavetta usb non viene riconosciuta quando possibile
+984,Pagamento effettuato,"Ci sono offerte speciali in corso? È urgente, non riesco a lavorare.",Commerciale,alta,pagamento effettuato ci sono offerte speciali in corso è urgente non riesco a lavorare
+985,Richiesta campioni,Vorrei lasciare un feedback sul servizio ricevuto Attendo riscontro.,Commerciale,media,richiesta campioni vorrei lasciare un feedback sul servizio ricevuto attendo riscontro
+986,Promozione attiva,Siamo interessati a una partnership commerciale Solo per avere informazioni.,Commerciale,bassa,promozione attiva siamo interessati a una partnership commerciale solo per avere informazioni
+987,Assegni familiari,Ho bisogno di un certificato di lavoro per la banca Quando possibile.,Amministrazione,bassa,assegni familiari ho bisogno di un certificato di lavoro per la banca quando possibile
+988,Contratto fornitura,È possibile ricevere dei campioni gratuiti? Problema grave che blocca tutto.,Commerciale,alta,contratto fornitura è possibile ricevere dei campioni gratuiti problema grave che blocca tutto
+989,Server non risponde,La stampante non risponde ai comandi di stampa Solo per avere informazioni.,Tecnico,bassa,server non risponde la stampante non risponde ai comandi di stampa solo per avere informazioni
+990,Certificato lavoro,Devo organizzare una trasferta di lavoro Senza fretta.,Amministrazione,bassa,certificato lavoro devo organizzare una trasferta di lavoro senza fretta
+991,Upgrade piano,Il mio ordine è in ritardo rispetto alla data prevista Non è prioritario.,Commerciale,bassa,upgrade piano il mio ordine è in ritardo rispetto alla data prevista non è prioritario
+992,Pagamento effettuato,Vorrei discutere un contratto di fornitura Quando possibile.,Commerciale,bassa,pagamento effettuato vorrei discutere un contratto di fornitura quando possibile
+993,Credito cliente,"Ci sono offerte speciali in corso? Sono fermo, non posso procedere.",Commerciale,alta,credito cliente ci sono offerte speciali in corso sono fermo non posso procedere
+994,Catalogo prodotti,Vorrei informazioni sulla promozione attiva È bloccante per il mio lavoro.,Commerciale,alta,catalogo prodotti vorrei informazioni sulla promozione attiva è bloccante per il mio lavoro
+995,Errore di sistema,La webcam non viene riconosciuta dal sistema Cordiali saluti.,Tecnico,media,errore di sistema la webcam non viene riconosciuta dal sistema cordiali saluti
+996,Congedo parentale,"Devo comunicare un periodo di malattia Quando possibile, grazie.",Amministrazione,media,congedo parentale devo comunicare un periodo di malattia quando possibile grazie
+997,Computer lento,"Non esce audio dalle casse del computer Quando possibile, grazie.",Tecnico,media,computer lento non esce audio dalle casse del computer quando possibile grazie
+998,Informazioni prodotto,Richiedo la sostituzione dell'articolo difettoso Senza fretta.,Commerciale,bassa,informazioni prodotto richiedo la sostituzione dell'articolo difettoso senza fretta
+999,Busta paga errata,Ho bisogno di modificare le detrazioni fiscali È bloccante per il mio lavoro.,Amministrazione,alta,busta paga errata ho bisogno di modificare le detrazioni fiscali è bloccante per il mio lavoro
+1000,Cambio mansione,Richiedo un anticipo sullo stipendio Fatemi sapere.,Amministrazione,media,cambio mansione richiedo un anticipo sullo stipendio fatemi sapere

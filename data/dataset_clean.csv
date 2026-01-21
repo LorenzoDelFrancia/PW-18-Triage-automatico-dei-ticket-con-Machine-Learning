@@ -1,0 +1,1001 @@
+id,title,body,category,priority,full_text
+1,urgente,Desidero segnalare che richiesta maternità Grazie per la collaborazione. presentazione tra poco,Amministrazione,alta,urgente desidero segnalare che richiesta maternità grazie per la collaborazione presentazione tra poco
+2,ferie,nota spese da approvare thx era solo un'idea,Amministrazione,bassa,ferie nota spese da approvare thx era solo un'idea
+3,password,"Buongiorno, internet non funziona Grazie per la collaborazione.",Tecnico,media,password buongiorno internet non funziona grazie per la collaborazione
+4,problema pc,schermo sfarfalla,Tecnico,alta,problema pc schermo sfarfalla
+5,richiesta,gli straordinari non sono stati pagati inoltre vi faccio presente che questa situazione va avanti da settimane urgente,Amministrazione,alta,richiesta gli straordinari non sono stati pagati inoltre vi faccio presente che questa situazione va avanti da settimane urgente
+6,urgente,nn riesco ad accedere al portale per vedere la busta paga perché come sapete e già da un po' ke ho questo problema e nn so più cosa fare,Tecnico,media,urgente nn riesco ad accedere al portale per vedere la busta paga perché come sapete e già da un po' ke ho questo problema e nn so più cosa fare
+7,straordinari,voglio dare le  diciamo che  dimissioni o qualcosa del genere,Amministrazione,media,straordinari voglio dare le diciamo che dimissioni o qualcosa del genere
+8,leggere,la password non funziona come dire più ...non ricordo bene devo risolvere oggi,Tecnico,alta,leggere la password non funziona come dire più non ricordo bene devo risolvere oggi
+9,lento,pc non si accende devo partire,Tecnico,alta,lento pc non si accende devo partire
+10,computer,ho perso tutti  non so se mi spiego  i documenti o qualcosa del genere se avete tempo,Tecnico,bassa,computer ho perso tutti non so se mi spiego i documenti o qualcosa del genere se avete tempo
+11,richiesta,salve il pc fa rumori strani è un'emergenza,Tecnico,alta,richiesta salve il pc fa rumori strani è un'emergenza
+12,ferie,nota spese approvare,Amministrazione,bassa,ferie nota spese approvare
+13,cedolino,voglio dare dimissioni,Amministrazione,bassa,cedolino voglio dare dimissioni
+14,malattia,voglio cambiare orario inoltre vi faccio presente che questa situazione va avanti da settimane pensavo che forse,Amministrazione,bassa,malattia voglio cambiare orario inoltre vi faccio presente che questa situazione va avanti da settimane pensavo che forse
+15,help,Buongiorno devo cambiare l'iban,Amministrazione,media,help buongiorno devo cambiare l'iban
+16,virus?,il computer si spegne da kome dire solo (o forse era un'altra cosa?),Tecnico,bassa,virus il computer si spegne da kome dire solo o forse era un'altra cosa
+17,ERRORE,Basta! l'audio non si sente È la terza volta che lo segnalo!!,Tecnico,media,errore basta l'audio non si sente è la terza volta che lo segnalo
+18,non va,ho preso un diciamo che virus boh graize,Tecnico,media,non va ho preso un diciamo che virus boh graize
+19,rimborso,devo scaricare cud ma sito non funziona non riesco a fare niente,Amministrazione,alta,rimborso devo scaricare cud ma sito non funziona non riesco a fare niente
+20,hr,la busta paga è sbagliata magari un giorno,Amministrazione,bassa,hr la busta paga è sbagliata magari un giorno
+21,richiesta,"DESIDERO SEGNALARE CHE DOCUMENTI PER LA BANCA RINGRAZIANDO ANTICIPATAMENTE, PORGO CORDIALI SALUTI. SONO FERMO",Amministrazione,alta,richiesta desidero segnalare che documenti per la banca ringraziando anticipatamente porgo cordiali saluti sono fermo
+22,urgente,Con la presente il pc fa rumori strani Distinti saluti.,Tecnico,bassa,urgente con la presente il pc fa rumori strani distinti saluti
+23,pagamento,Buongiorno verifica credito grazie! solo per sapere,Commerciale,bassa,pagamento buongiorno verifica credito grazie solo per sapere
+24,ticket,ho preso un  insomma  virus o qualcosa del genere presentazione tra poco,Tecnico,alta,ticket ho preso un insomma virus o qualcosa del genere presentazione tra poco
+25,LEGGERE,documenti per la banca fatemi sapere,Amministrazione,media,leggere documenti per la banca fatemi sapere
+26,ferie,INFORMAZIONI SUL TFR PERCHÉ COME SAPETE È GIÀ DA UN PO' CHE HO QUESTO PROBLEMA E NON SO PIÙ CS FARE?!,Amministrazione,bassa,ferie informazioni sul tfr perché come sapete è già da un po' che ho questo problema e non so più cs fare
+27,busta paga,"buongiorno, devo fare il rimborso spese distinti saluti. dobbiamo consegnare",Amministrazione,alta,busta paga buongiorno devo fare il rimborso spese distinti saluti dobbiamo consegnare
+28,730,RICHIESTA MATERNITÀ CURIOSITÀ,Amministrazione,bassa,730 richiesta maternità curiosità
+29,PAGAMENTO,PER L'ENNESIMA VOLTA: IL MIO ORDINE E IN RITARDO INACCETTABILE!!! DEVO RISOLVERE OGGI,Commerciale,alta,pagamento per l'ennesima volta il mio ordine e in ritardo inaccettabile devo risolvere oggi
+30,reclamo,ci sono offerte non riesco a fare niente,Commerciale,alta,reclamo ci sono offerte non riesco a fare niente
+31,reso,Vi scrivo per voglio disdire Resto in attesa di un cortese riscontro. se avete tempo,Commerciale,bassa,reso vi scrivo per voglio disdire resto in attesa di un cortese riscontro se avete tempo
+32,ticket,devo modificare l'ordine (o forse era un'altra cosa?) fatemi sapere una cosina veloce: non riesco più ad accedere a nulla,Commerciale,media,ticket devo modificare l'ordine o forse era un'altra cosa fatemi sapere una cosina veloce non riesco più ad accedere a nulla
+33,contratto,assegni familiari boh,Amministrazione,media,contratto assegni familiari boh
+34,prodotto,Per l'ennesima volta: verifica credito Non è posibile andare avanti così!,Commerciale,media,prodotto per l'ennesima volta verifica credito non è posibile andare avanti così
+35,pc rotto,internet non funziona ...non ricordo bene,Tecnico,media,pc rotto internet non funziona non ricordo bene
+36,rete,excel si chiude da  praticamente  solo ...non ricordo bene,Tecnico,media,rete excel si chiude da praticamente solo non ricordo bene
+37,errore,schermo nero quando accendo comunque sia vi chiedo di intervenire il prima possibile se potete non c'è fretta,Tecnico,bassa,errore schermo nero quando accendo comunque sia vi chiedo di intervenire il prima possibile se potete non c'è fretta
+38,vpn,Non è accettabile che non riesco ad accedere al portale per vedere la busta paga Voglio parlare con un responsabile! siamo in ritardo,Tecnico,alta,vpn non è accettabile che non riesco ad accedere al portale per vedere la busta paga voglio parlare con un responsabile siamo in ritardo
+39,PROBLEMA,avete catalogo serve subito,Commerciale,alta,problema avete catalogo serve subito
+40,errore,Gentilissimi proposta di collaborazione Distinti saluti.,Commerciale,media,errore gentilissimi proposta di collaborazione distinti saluti
+41,schermo nero,il pc non  più o meno  si accende ...non ricordo bene,Tecnico,media,schermo nero il pc non più o meno si accende non ricordo bene
+42,richiesta,voglio dare dimissioni stiamo perdendo tempo,Amministrazione,alta,richiesta voglio dare dimissioni stiamo perdendo tempo
+43,aiuto,Basta! ho bisogno di un permesso Voglio parlare con un responsabile,Amministrazione,alta,aiuto basta ho bisogno di un permesso voglio parlare con un responsabile
+44,ordine,desidero segnalare che spedizione urgente grazie per la collaborazione.,Commerciale,media,ordine desidero segnalare che spedizione urgente grazie per la collaborazione
+45,catalogo,devo modificare l'ordine ciao,Commerciale,media,catalogo devo modificare l'ordine ciao
+46,smart working,Vi scrivo x la fattura del fornitore nn quadra con le mie note spese grz per la collaborazione. devo risolvere oggi,Amministrazione,alta,smart working vi scrivo x la fattura del fornitore nn quadra con le mie note spese grz per la collaborazione devo risolvere oggi
+47,aiuto,mi serve il listino prezzi ciao magari un giorno,Commerciale,bassa,aiuto mi serve il listino prezzi ciao magari un giorno
+48,da risolvere,vorrei preventivo,Commerciale,alta,da risolvere vorrei preventivo
+49,bloccato,backup non parte non posso lavorare,Tecnico,alta,bloccato backup non parte non posso lavorare
+50,reso,devo modificare l'ordine inoltre vi faccio presente che questa situazione va avanti da settimane,Commerciale,media,reso devo modificare l'ordine inoltre vi faccio presente che questa situazione va avanti da settimane
+51,supporto,devo fare una trasferta e aggiungo che un mio collega ha lo stesso identico problema URGENTE,Amministrazione,alta,supporto devo fare una trasferta e aggiungo che un mio collega ha lo stesso identico problema urgente
+52,non funziona,devo fare un reso comunque sia vi chiedo di intervenire il prima possibile se potete aspetto risposta,Commerciale,media,non funziona devo fare un reso comunque sia vi chiedo di intervenire il prima possibile se potete aspetto risposta
+53,non va,schermo sfarfalla il capo chiede,Tecnico,alta,non va schermo sfarfalla il capo chiede
+54,prodotto,Ma e' possibile ke feedback sul servizio È la terza volta che lo segnalo!!,Commerciale,media,prodotto ma e' possibile ke feedback sul servizio è la terza volta che lo segnalo
+55,domanda,non è accettabile che schermo nero quando accendo non è possibile andare avanti così! niente di che ma il sistema è completamente bloccato,Tecnico,media,domanda non è accettabile che schermo nero quando accendo non è possibile andare avanti così niente di che ma il sistema è completamente bloccato
+56,rotto,"Spett.le ufficio, la mail per le note spese non parte, come faccio Resto in attesa di un cortese riscontro. riunione importante",Amministrazione,alta,rotto spett le ufficio la mail per le note spese non parte come faccio resto in attesa di un cortese riscontro riunione importante
+57,Fwd:,la fattura è sbagliata comunque sia vi chiedo di intervenire il prima possibile se potete dobbiamo consegnare,Commerciale,alta,fwd la fattura è sbagliata comunque sia vi chiedo di intervenire il prima possibile se potete dobbiamo consegnare
+58,help,devo scaricare cud ma sito non funziona,Amministrazione,bassa,help devo scaricare cud ma sito non funziona
+59,guasto,upgrade del piano perché come sapete è già da un po' che ho questo problema e non so più cosa fare fatemi sapere,Commerciale,media,guasto upgrade del piano perché come sapete è già da un po' che ho questo problema e non so più cosa fare fatemi sapere
+60,help,EXCEL SI CHIUDE DA  NON SO SE MI SPIEGO  SOLO (O FORSE ERA UN'ALTRA COSA?),Tecnico,media,help excel si chiude da non so se mi spiego solo o forse era un'altra cosa
+61,help,"buongiorno, la fattura del fornitore non quadra con le mie note spese ringraziando anticipatamente, porgo cordiali saluti.",Amministrazione,media,help buongiorno la fattura del fornitore non quadra con le mie note spese ringraziando anticipatamente porgo cordiali saluti
+62,non va,"ciao, internet non funziona ciao aspetto risposta",Tecnico,media,non va ciao internet non funziona ciao aspetto risposta
+63,permesso,assegni familiari ...non ricordo bene,Amministrazione,bassa,permesso assegni familiari non ricordo bene
+64,URGENTE,"BASTA! LA MAIL PER LE NOTE SPESE NON PARTE, COME FACCIO NON È POSSIBILE ANDARE AVANTI COSÌ!",Amministrazione,media,urgente basta la mail per le note spese non parte come faccio non è possibile andare avanti così
+65,pagamento,Con la presente il prodotto è difettoso Resto in attesa di un cortese riscontro.,Commerciale,media,pagamento con la presente il prodotto è difettoso resto in attesa di un cortese riscontro
+66,CATALOGO,NON E ACCETTABILE CHE CONTRATTO DI FORNITURA PRETENDO UNA RISPOSTA OGGI! DEVO RISOLVERE OGGI,Commerciale,alta,catalogo non e accettabile che contratto di fornitura pretendo una risposta oggi devo risolvere oggi
+67,disponibilità,sollecito pagamento devo partire,Commerciale,alta,disponibilità sollecito pagamento devo partire
+68,guasto,devo firmare  insomma  il contratto o qualcosa del genere fatemi sapere,Amministrazione,media,guasto devo firmare insomma il contratto o qualcosa del genere fatemi sapere
+69,vpn,la password non funziona più thx,Tecnico,media,vpn la password non funziona più thx
+70,disponibilità,"non riesco come dire a fare l'ordine online, il sito da errore (o forse era un'altra cosa?)",Commerciale,media,disponibilità non riesco come dire a fare l'ordine online il sito da errore o forse era un'altra cosa
+71,virus?,il mouse non risponde inoltre vi faccio presente ch questa situazione va avanti da settimane dobbiamo consegnare,Tecnico,alta,virus il mouse non risponde inoltre vi faccio presente ch questa situazione va avanti da settimane dobbiamo consegnare
+72,richiesta,devo fare come dire una trasferta o qualcosa del genere devo partire,Amministrazione,alta,richiesta devo fare come dire una trasferta o qualcosa del genere devo partire
+73,cliente,sollecito pagamento e volevo anche dire che ho già provato di tutto ma non funziona niente con calma,Commerciale,bassa,cliente sollecito pagamento e volevo anche dire che ho già provato di tutto ma non funziona niente con calma
+74,ticket,Ehi la stampante non stampa ciao non posso lavorare,Tecnico,alta,ticket ehi la stampante non stampa ciao non posso lavorare
+75,assistenza,cambio mansione inoltre vi faccio presente ke questa situazione va avanti da settimane quando potete,Amministrazione,media,assistenza cambio mansione inoltre vi faccio presente ke questa situazione va avanti da settimane quando potete
+76,importante,la webcam  come dire  non funziona ...non ricordo bene era solo un'idea,Tecnico,bassa,importante la webcam come dire non funziona non ricordo bene era solo un'idea
+77,non funziona,Gentilissimi cambio mansione Ringraziando anticipatamente porgo cordiali saluti. non c'è fretta,Amministrazione,bassa,non funziona gentilissimi cambio mansione ringraziando anticipatamente porgo cordiali saluti non c'è fretta
+78,ordine,feedback sul servizio ...non ricordo bene,Commerciale,media,ordine feedback sul servizio non ricordo bene
+79,prodotto,spedizione urgente,Commerciale,media,prodotto spedizione urgente
+80,(NESSUN OGGETTO),la webcam non nsl senso funziona o qualcosa del genere è un'emergenza,Tecnico,alta,nessun oggetto la webcam non nsl senso funziona o qualcosa del genere è un'emergenza
+81,CATALOGO,BASTA! VORREI UN PREVENTIVO INACCETTABILE!!! DOBBIAMO CONSEGNARE,Commerciale,alta,catalogo basta vorrei un preventivo inaccettabile dobbiamo consegnare
+82,Re: Re:,Desidero segnalare che il computer si spegne da solo Distinti saluti. è un'emergenza,Tecnico,alta,re re desidero segnalare che il computer si spegne da solo distinti saluti è un'emergenza
+83,assistenza,non vedo le cartelle  come dire  condivise (o forse era un'altra cosa?),Tecnico,media,assistenza non vedo le cartelle come dire condivise o forse era un'altra cosa
+84,permesso,devo parlare con hr inoltre vi faccio presente che questa situazione va avanti da settimane n è urgente,Amministrazione,bassa,permesso devo parlare con hr inoltre vi faccio presente che questa situazione va avanti da settimane n è urgente
+85,mail,non ho più spazio sul disco xché come sapete è già da un po' che ho qsto problema e non so più cosa fare,Tecnico,bassa,mail non ho più spazio sul disco xché come sapete è già da un po' che ho qsto problema e non so più cosa fare
+86,reclamo,DESIDERO SEGNALARE CHE FEEDBACK SUL SERVIZIO RESTO IN ATTESA DI UN CORTESE RISCONTRO. SERVE SUBITO,Commerciale,alta,reclamo desidero segnalare che feedback sul servizio resto in attesa di un cortese riscontro serve subito
+87,straordinari,"Vi scrivo per vorrei chiedere le ferie Ringraziando anticipatamente, porgo cordiali saluti. aspetto risposta",Amministrazione,media,straordinari vi scrivo per vorrei chiedere le ferie ringraziando anticipatamente porgo cordiali saluti aspetto risposta
+88,ERRORE,ANCORA?? IL WIFI NON PRENDE INACCETTABILE!!!,Tecnico,media,errore ancora il wifi non prende inaccettabile
+89,catalogo,prodotto é difettoso,Commerciale,media,catalogo prodotto é difettoso
+90,BUSTA PAGA,ANCORA?? MI SERVE LA CUD NON È POSSIBILE ANDARE AVANTI COSÌ! RIUNIONE IMPORTANTE,Amministrazione,alta,busta paga ancora mi serve la cud non è possibile andare avanti così riunione importante
+91,importante,Non è accettabile che ci sono offerte Non è possibile andare avanti così! era solo un'idea,Commerciale,bassa,importante non è accettabile che ci sono offerte non è possibile andare avanti così era solo un'idea
+92,730,"Vi scrivo per congedo parentale Ringraziando anticipatamente, porgo cordiali saluti.",Amministrazione,media,730 vi scrivo per congedo parentale ringraziando anticipatamente porgo cordiali saluti
+93,pagamento,ci sono offerte e volevo anche dire che ho già provato di tutto ma non funziona niente devo risolvere oggi,Commerciale,alta,pagamento ci sono offerte e volevo anche dire che ho già provato di tutto ma non funziona niente devo risolvere oggi
+94,pc rotto,non mi cioè fa entrare nel sistema o qualcosa del genere presentazione tra poco,Tecnico,alta,pc rotto non mi cioè fa entrare nel sistema o qualcosa del genere presentazione tra poco
+95,documento,documenti per la  non so se mi spiego  banca mah se avete tempo,Amministrazione,bassa,documento documenti per la non so se mi spiego banca mah se avete tempo
+96,Fwd:,mi serve cud serve subito,Amministrazione,alta,fwd mi serve cud serve subito
+97,malattia,cambio mansione inoltre vi faccio presente che questa situazione va avanti da settimane pensavo che forse,Amministrazione,bassa,malattia cambio mansione inoltre vi faccio presente che questa situazione va avanti da settimane pensavo che forse
+98,ordine,"ciao, spedizione urgente ciao",Commerciale,media,ordine ciao spedizione urgente ciao
+99,ufficio personale,Buongiorno congedo parentale grz era solo un'idea,Amministrazione,bassa,ufficio personale buongiorno congedo parentale grz era solo un'idea
+100,vpn,il computer si spegne da  più o meno  solo mah,Tecnico,media,vpn il computer si spegne da più o meno solo mah
+101,supporto,Ancora?? aiuto con il 730 Non è possibile andare avanti così! dobbiamo consegnare,Amministrazione,alta,supporto ancora aiuto con il 730 non è possibile andare avanti così dobbiamo consegnare
+102,cliente,Salve dov'è il mio ordine,Commerciale,media,cliente salve dov'è il mio ordine
+103,(nessun oggetto),Per l'ennesima volta: il monitor non si accende È la terza volta che lo segnalo!!,Tecnico,media,nessun oggetto per l'ennesima volta il monitor non si accende è la terza volta che lo segnalo
+104,cedolino,documenti banca con calma,Amministrazione,bassa,cedolino documenti banca con calma
+105,RICHIESTA,n é accettabile che cambio mansione Pretendo una risposta OGGI!!!,Amministrazione,media,richiesta n é accettabile che cambio mansione pretendo una risposta oggi
+106,internet,"Desidero segnalare che lo schermo sfarfalla In attesa di bs. risposta, cordialmente. grazie",Tecnico,media,internet desidero segnalare che lo schermo sfarfalla in attesa di bs risposta cordialmente grazie
+107,DISPONIBILITÀ,MA É POSSIBILE CHE DEVO FARE UN ORDINE MA HO BISOGNO DELL'APPROVAZIONE DEL BUDGET PRETENDO UNA RISOPSTA OGGI!,Commerciale,bassa,disponibilità ma é possibile che devo fare un ordine ma ho bisogno dell'approvazione del budget pretendo una risopsta oggi
+108,stampa,outlook n si apre,Tecnico,bassa,stampa outlook n si apre
+109,password,"Spett.le ufficio, il gestionale fatture si blocca sempre quando apro le fatture Distinti saluti. dobbiamo consegnare",Tecnico,alta,password spett le ufficio il gestionale fatture si blocca sempre quando apro le fatture distinti saluti dobbiamo consegnare
+110,cedolino,"Con la presente anticipo stipendio In attesa di Vs. risposta, cordialmente. il cliente aspetta",Amministrazione,alta,cedolino con la presente anticipo stipendio in attesa di vs risposta cordialmente il cliente aspetta
+111,ufficio personale,congedo parentale boh fatemi sapere,Amministrazione,media,ufficio personale congedo parentale boh fatemi sapere
+112,smart working,"Gentilissimi, la fattura del fornitore non quadra con le mie note spese Ringraziando anticipatamente, porgo cordiali saluti.",Amministrazione,bassa,smart working gentilissimi la fattura del fornitore non quadra con le mie note spese ringraziando anticipatamente porgo cordiali saluti
+113,bloccato,"Buongiorno, non riesco a stampare Distinti saluti.",Tecnico,alta,bloccato buongiorno non riesco a stampare distinti saluti
+114,errore sistema,"Con la presente la password non funziona più Ringraziando anticipatamente, porgo cordiali saluti. presentazione tra poco",Tecnico,alta,errore sistema con la presente la password non funziona più ringraziando anticipatamente porgo cordiali saluti presentazione tra poco
+115,busta paga,contratto scade urgentissimo,Amministrazione,alta,busta paga contratto scade urgentissimo
+116,internet,Ancora?? word n salva i file È la terza volta che lo segnalo!! pensavo ke forse,Tecnico,bassa,internet ancora word n salva i file è la terza volta che lo segnalo pensavo ke forse
+117,ferie,richiesta smart working ...non ricordo bene,Amministrazione,media,ferie richiesta smart working non ricordo bene
+118,fattura,Buongiorno sono un nuovo cliente ok?,Commerciale,media,fattura buongiorno sono un nuovo cliente ok
+119,ERRORE SISTEMA,pc è lentissimo grazie,Tecnico,media,errore sistema pc è lentissimo grazie
+120,permesso,contratto scade bloccato completamente,Amministrazione,alta,permesso contratto scade bloccato completamente
+121,ufficio personale,Ehi devo fare il rimborso spese grz devo risolvere oggi,Amministrazione,alta,ufficio personale ehi devo fare il rimborso spese grz devo risolvere oggi
+122,sconto,upgrade del piano e aggiungo che un mio collega ha lo stesso identico problema,Commerciale,bassa,sconto upgrade del piano e aggiungo che un mio collega ha lo stesso identico problema
+123,ufficio personale,Salve devo scaricare la cud ma il sito non funziona ok? quando potete,Amministrazione,bassa,ufficio personale salve devo scaricare la cud ma il sito non funziona ok quando potete
+124,password,"Ciao, il programma si blocca sempre thx solo per sapere",Tecnico,bassa,password ciao il programma si blocca sempre thx solo per sapere
+125,ordine,NON E ACCETTABILE CHE IL PRODOTTO È DIFETTOSO É LA TERZA VOLTA KE LO SEGNALO!! QND POTETE,Commerciale,media,ordine non e accettabile che il prodotto è difettoso é la terza volta ke lo segnalo qnd potete
+126,DOCUMENTO,"Gentilissimi, info sul tfr Ringraziando anticipatamente, porgo cordiali saluti. quando potete",Amministrazione,bassa,documento gentilissimi info sul tfr ringraziando anticipatamente porgo cordiali saluti quando potete
+127,ferie,Buongiorno lettera di referenze grazie! quando potete,Amministrazione,media,ferie buongiorno lettera di referenze grazie quando potete
+128,offerta,"Gentilissimi, assistenza post vendita graz per la collaborazione. serve subito",Commerciale,alta,offerta gentilissimi assistenza post vendita graz per la collaborazione serve subito
+129,rimborso,vorrei chiedere ferie,Amministrazione,bassa,rimborso vorrei chiedere ferie
+130,supporto,non riesco ad accedere al portale vedere busta paga,Tecnico,bassa,supporto non riesco ad accedere al portale vedere busta paga
+131,pc rotto,"Spett.le ufficio, l'audio non si sente Resto in attesa di un cortese riscontro.",Tecnico,media,pc rotto spett le ufficio l'audio non si sente resto in attesa di un cortese riscontro
+132,730,VORREI CHIEDERE LE FERIE INOLTRE VI FACCIO PRESENTE CHE QUESTA SITUAZIONE VA AVANTI DA SETTIMANE NON C'È FRETTA,Amministrazione,bassa,730 vorrei chiedere le ferie inoltre vi faccio presente che questa situazione va avanti da settimane non c'è fretta
+133,non funziona,devo scaricare la cud ma il sito non funziona ok?,Amministrazione,media,non funziona devo scaricare la cud ma il sito non funziona ok
+134,SPEDIZIONE,voglio annullare l'ordine i clienti chiamano,Commerciale,alta,spedizione voglio annullare l'ordine i clienti chiamano
+135,straordinari,devo fare una trasferta comunque sia vi chiedo di intervenire il prima possibile se potete devo partire,Amministrazione,alta,straordinari devo fare una trasferta comunque sia vi chiedo di intervenire il prima possibile se potete devo partire
+136,documento,DOCUMENTI PER LA  NON SO SE MI SPIEGO  BANCA BOH,Amministrazione,media,documento documenti per la non so se mi spiego banca boh
+137,stampa,excel si chiude da solo thx,Tecnico,media,stampa excel si chiude da solo thx
+138,NON VA,ho preso un  nel senso  virus ...non ricordo bene,Tecnico,media,non va ho preso un nel senso virus non ricordo bene
+139,supporto,Vi scrivo per devo parlare con hr Resto in attesa di un cortese riscontro. già che ci siete,Amministrazione,bassa,supporto vi scrivo per devo parlare con hr resto in attesa di un cortese riscontro già che ci siete
+140,guasto,upgrade del piano e volevo anche dire che ho già provato di tutto ma non funziona niente è urgenete,Commerciale,alta,guasto upgrade del piano e volevo anche dire che ho già provato di tutto ma non funziona niente è urgenete
+141,rete,Ehi nn ho più spazio sul disco ciao,Tecnico,alta,rete ehi nn ho più spazio sul disco ciao
+142,malattia,informazioni sul tfr perché come sapete è già da un po' che ho questo problema e non so più cosa fare il cliente aspetta,Amministrazione,alta,malattia informazioni sul tfr perché come sapete è già da un po' che ho questo problema e non so più cosa fare il cliente aspetta
+143,malattia,"Desidero segnalare che vorrei chiedere le ferie In attesa di Vs. risposta, cordialmente. stiamo perdendo tempo",Amministrazione,alta,malattia desidero segnalare che vorrei chiedere le ferie in attesa di vs risposta cordialmente stiamo perdendo tempo
+144,reclamo,fattura e' sbagliata,Commerciale,media,reclamo fattura e' sbagliata
+145,virus?,"non mi arrivano le mail dei clienti, controllate grazie! devo risolvere oggi",Tecnico,alta,virus non mi arrivano le mail dei clienti controllate grazie devo risolvere oggi
+146,importante,devo fare trasferta non è urgenete,Amministrazione,bassa,importante devo fare trasferta non è urgenete
+147,fattura,voglio annullare l'ordine o qualcosa del genere,Commerciale,media,fattura voglio annullare l'ordine o qualcosa del genere
+148,errore,la stampante insomma non stampa o qualcosa del genere???,Tecnico,media,errore la stampante insomma non stampa o qualcosa del genere
+149,hr,assegni familiari riunione importante,Amministrazione,alta,hr assegni familiari riunione importante
+150,aiuto,Ehi non riesco a stampare ciao???,Tecnico,media,aiuto ehi non riesco a stampare ciao
+151,reso,il prodotto è difettoso inoltre vi faccio presente che questa situazione va avanti da settimane quando potete,Commerciale,bassa,reso il prodotto è difettoso inoltre vi faccio presente che questa situazione va avanti da settimane quando potete
+152,bloccato,il monitor n si diciamo che accende mah deadline domani,Tecnico,alta,bloccato il monitor n si diciamo che accende mah deadline domani
+153,730,devo comunicare  praticamente  la malattia (o forse era un'altra cosa?),Amministrazione,media,730 devo comunicare praticamente la malattia o forse era un'altra cosa
+154,Re: Re:,Ancora?? la webcam non funziona Voglio parlrae con un responsabile! solo x sapere,Tecnico,bassa,re re ancora la webcam non funziona voglio parlrae con un responsabile solo x sapere
+155,non funziona,sono un nuovo cliente comunque sia vi chiedo di intervenire il pprima possibilr se potete siamo in ritardo,Commerciale,alta,non funziona sono un nuovo cliente comunque sia vi chiedo di intervenire il pprima possibilr se potete siamo in ritardo
+156,leggere,mi serve certificato lavoro,Amministrazione,media,leggere mi serve certificato lavoro
+157,SCONTO,"MA É POSIBILE CHE NN RIESCO A FARE L'ORDINE ONLINE, IL SITO DA ERRORE N E' POSSIBILIE ANDARE AVANTI COSÌ",Commerciale,media,sconto ma é posibile che nn riesco a fare l'ordine online il sito da errore n e' possibilie andare avanti così
+158,permesso,PER L'ENNESIMA VOLTA: CONGEDO PARENTALE INACCETTABILE!!!,Amministrazione,media,permesso per l'ennesima volta congedo parentale inaccettabile
+159,smart working,mi serve un certificato di lavoro grazie! una cosina veloce: non riesco più ad accedere a nulla,Amministrazione,media,smart working mi serve un certificato di lavoro grazie una cosina veloce non riesco più ad accedere a nulla
+160,guasto,"Buongiorno non mi arrivano le mail dei clienti, controllate grz!!!",Tecnico,bassa,guasto buongiorno non mi arrivano le mail dei clienti controllate grz
+161,rotto,pc è lentissimo,Tecnico,media,rotto pc è lentissimo
+162,hr,contributi sono sbagliati grazie,Amministrazione,media,hr contributi sono sbagliati grazie
+163,non funziona,Non è accettabile che non vedo le cartelle condivise Pretendo una risposta OGGI! RIUNIONE IMPORTANTE,Tecnico,alta,non funziona non è accettabile che non vedo le cartelle condivise pretendo una risposta oggi riunione importante
+164,reso,NON È ACCETTABILE CHE ASSISTENZA POST VENDITA INACCETTABILE!!! SERVE SUBITO,Commerciale,alta,reso non è accettabile che assistenza post vendita inaccettabile serve subito
+165,ASSISTENZA,Non è accettabile che devo fare un ordine ma ho bisogno dell'approvazione del budget Npn è possibile andare avanti così,Commerciale,media,assistenza non è accettabile che devo fare un ordine ma ho bisogno dell'approvazione del budget npn è possibile andare avanti così
+166,ROTTO,Desidero segnalare che il wifi non prende Grazie per la collaborazione. aspetto risposta,Tecnico,media,rotto desidero segnalare che il wifi non prende grazie per la collaborazione aspetto risposta
+167,Re: Re:,"Vi scrivo per devo fare il rimborso spese In attesa di Vs. risposta, cordialmente. devo partire",Amministrazione,alta,re re vi scrivo per devo fare il rimborso spese in attesa di vs risposta cordialmente devo partire
+168,computer,mail non parte grazie,Tecnico,media,computer mail non parte grazie
+169,offerta,"Spett.le ufficio, feedback sul servizio Grazie per la collaborazione. con calma",Commerciale,bassa,offerta spett le ufficio feedback sul servizio grazie per la collaborazione con calma
+170,guasto,Vi scrivo per il pc non funziona e n riesco a mandare l'ordine né a timbrare le ferie Grazie per la collaborazione.,Tecnico,bassa,guasto vi scrivo per il pc non funziona e n riesco a mandare l'ordine né a timbrare le ferie grazie per la collaborazione
+171,LEGGERE,devo fare una praticamente trasferta (o forse era un'altra cosa?) già che ci siete,Amministrazione,bassa,leggere devo fare una praticamente trasferta o forse era un'altra cosa già che ci siete
+172,ticket,PER L'ENNESIMA VOLTA: IL PRODOTTO È IN GARANZIA? NON È POSSIBILE ANDARE AVANTI COSÌ!,Commerciale,media,ticket per l'ennesima volta il prodotto è in garanzia non è possibile andare avanti così
+173,permesso,voglio dare dimissioni,Amministrazione,bassa,permesso voglio dare dimissioni
+174,permesso,fattura del fornitore non quadra mie note spese,Amministrazione,bassa,permesso fattura del fornitore non quadra mie note spese
+175,cliente,mi serve il listino prezzi e aggiungo che un mio collega ha lo stesso identico problema bloccato completamente,Commerciale,alta,cliente mi serve il listino prezzi e aggiungo che un mio collega ha lo stesso identico problema bloccato completamente
+176,ufficio personale,Ehi i contributi sono sbagliati ciao serve subito,Amministrazione,alta,ufficio personale ehi i contributi sono sbagliati ciao serve subito
+177,richiesta,richiesta smart working thx,Amministrazione,bassa,richiesta richiesta smart working thx
+178,ticket,anticipo stipendio aspetto risposta,Amministrazione,media,ticket anticipo stipendio aspetto risposta
+179,disponibilità,"Gentilissimi, il prodotto è difettoso Resto in attesa di un cortese riscontro. niente di grave",Commerciale,bassa,disponibilità gentilissimi il prodotto è difettoso resto in attesa di un cortese riscontro niente di grave
+180,rimborso,Salve cambio mansione ciao niente di grave,Amministrazione,bassa,rimborso salve cambio mansione ciao niente di grave
+181,richiesta,"Gentilissimi, mi serve la cud Distinti saluti. non c'è fretta",Amministrazione,bassa,richiesta gentilissimi mi serve la cud distinti saluti non c'è fretta
+182,RICHIESTA,"Gentilissimi, il programma si blocca sempre Ringraziando anticipatamente, porgo cordiali saluti. il cliente aspetta",Tecnico,alta,richiesta gentilissimi il programma si blocca sempre ringraziando anticipatamente porgo cordiali saluti il cliente aspetta
+183,computer,schermo sfarfalla era solo un'idea,Tecnico,bassa,computer schermo sfarfalla era solo un'idea
+184,Re: Re:,richiesta maternità mah è un'emergenza,Amministrazione,alta,re re richiesta maternità mah è un'emergenza
+185,richiesta,ANCORA?? CONGEDO PARENTALE VOGLIO PARLARE CON UN RESPONSABILE! TUTTP BLOCCATO,Amministrazione,alta,richiesta ancora congedo parentale voglio parlare con un responsabile tuttp bloccato
+186,stampa,MA È POSSIBILE CHE HO PERSO TUTTI I DOCUMENTI È LA TERZA VOLTA CHE LO SEGNALO!!,Tecnico,bassa,stampa ma è possibile che ho perso tutti i documenti è la terza volta che lo segnalo
+187,730,mi serve certificato lavoro è un'emergenza,Amministrazione,alta,730 mi serve certificato lavoro è un'emergenza
+188,ufficio personale,devo cambiare l'iban perché come sapete è già da un po' che ho questo problema e non so più cosa fare il cliente aspetta,Amministrazione,alta,ufficio personale devo cambiare l'iban perché come sapete è già da un po' che ho questo problema e non so più cosa fare il cliente aspetta
+189,computer,Gentilissimi sn in smart working ma il vpn non va e devo fare le note spese e un ordine Grazie per la collaborazione. devo partire,Tecnico,alta,computer gentilissimi sn in smart working ma il vpn non va e devo fare le note spese e un ordine grazie per la collaborazione devo partire
+190,disponibilità,"ciao, il mio ordine è in ritardo ciao una cosina veloce: non riesco più ad accedere a nulla???",Commerciale,media,disponibilità ciao il mio ordine è in ritardo ciao una cosina veloce non riesco più ad accedere a nulla
+191,hr,aiuto con il  praticamente  730 o qualcosa del genere bloccato completamente,Amministrazione,alta,hr aiuto con il praticamente 730 o qualcosa del genere bloccato completamente
+192,urgente,vpn non si connette e volevo ank dire ch ho già provato di tutto ma non funziona niente,Tecnico,media,urgente vpn non si connette e volevo ank dire ch ho già provato di tutto ma non funziona niente
+193,cedolino,voglio dare le dimissioni perché come sapete è già da un po' che ho questo problema e non so più cosa fare,Amministrazione,bassa,cedolino voglio dare le dimissioni perché come sapete è già da un po' che ho questo problema e non so più cosa fare
+194,problema pc,il mouse non risponde e volevo anche dire che ho già provato di tutto ma non funziona niente non so se si può,Tecnico,bassa,problema pc il mouse non risponde e volevo anche dire che ho già provato di tutto ma non funziona niente non so se si può
+195,Fwd:,Non è accettabile che assegni familiari Inaccettabile!!! DEVO RISOLVERE OGGI,Amministrazione,alta,fwd non è accettabile che assegni familiari inaccettabile devo risolvere oggi
+196,smart working,devo scaricare la cud ma  insomma  il sito non funziona ...non ricordo bene,Amministrazione,alta,smart working devo scaricare la cud ma insomma il sito non funziona non ricordo bene
+197,AIUTO,Basta! word non salva i file Voglio parlare con un responsabile!,Tecnico,bassa,aiuto basta word non salva i file voglio parlare con un responsabile
+198,disponibilità,sollecito pagamento thx,Commerciale,media,disponibilità sollecito pagamento thx
+199,reclamo,proposta di collaborazione ...non ricordo bene deadline domani,Commerciale,alta,reclamo proposta di collaborazione non ricordo bene deadline domani
+200,preventivo,non riseco a fare l'ordine online il sito da insomma errore o qualcosa del genere aspetto risposta,Commerciale,media,preventivo non riseco a fare l'ordine online il sito da insomma errore o qualcosa del genere aspetto risposta
+201,bloccato,buongiorno sono in smart working ma il vpn non va e devo fare le note spese e un ordine thx bloccato completamente,Tecnico,alta,bloccato buongiorno sono in smart working ma il vpn non va e devo fare le note spese e un ordine thx bloccato completamente
+202,aiuto,i contributi come dire sono sbagliati ...non ricordo bene i clienti chiamano,Amministrazione,alta,aiuto i contributi come dire sono sbagliati non ricordo bene i clienti chiamano
+203,permesso,cambio mansione ok,Amministrazione,bassa,permesso cambio mansione ok
+204,assistenza,il cedolino ha un errore comunque sia vi chiedo di intervenire il prima possibile se potete con calma,Amministrazione,bassa,assistenza il cedolino ha un errore comunque sia vi chiedo di intervenire il prima possibile se potete con calma
+205,stampa,ho preso diciamo che un virus ...non ricordo bene,Tecnico,bassa,stampa ho preso diciamo che un virus non ricordo bene
+206,segnalazione,LA FATTURA DEL FORNITORE NON QUADRA CON  INSOMMA  LE MIE NOTE SPESE ...NON RICORDO BENE GRAZIE,Amministrazione,media,segnalazione la fattura del fornitore non quadra con insomma le mie note spese non ricordo bene grazie
+207,Fwd:,Basta! il computer si spegne da solo Voglio parlare con un responsabile!,Tecnico,media,fwd basta il computer si spegne da solo voglio parlare con un responsabile
+208,ordine,"Buongiorno, sollecito pagamento Ringraziando anticipatamente, porgo cordiali saluti. è un'emergenza",Commerciale,alta,ordine buongiorno sollecito pagamento ringraziando anticipatamente porgo cordiali saluti è un'emergenza
+209,cedolino,contratto scade,Amministrazione,media,cedolino contratto scade
+210,malattia,mi serve un certificato cm dire di lavoro may,Amministrazione,media,malattia mi serve un certificato cm dire di lavoro may
+211,rete,la password non funziona  più o meno  più boh,Tecnico,alta,rete la password non funziona più o meno più boh
+212,cliente,feedback sul servizio se avete tempo,Commerciale,bassa,cliente feedback sul servizio se avete tempo
+213,hr,vorrei chiedere  diciamo che  le ferie boh,Amministrazione,media,hr vorrei chiedere diciamo che le ferie boh
+214,contratto,informazioni prestito aziendale mah,Amministrazione,bassa,contratto informazioni prestito aziendale mah
+215,LEGGERE,detrazioni fiscali perché come sapete è già da un po' che ho questo problema e non so più cosa fare,Amministrazione,media,leggere detrazioni fiscali perché come sapete è già da un po' che ho questo problema e non so più cosa fare
+216,permesso,Buongiorno devo fare una trasferta ok?,Amministrazione,media,permesso buongiorno devo fare una trasferta ok
+217,VPN,Basta! ho preso un virus È la terza volta che lo segnalo!! stiamo perdendo tempo,Tecnico,alta,vpn basta ho preso un virus è la terza volta che lo segnalo stiamo perdendo tempo
+218,INFO,internet non funzina,Tecnico,media,info internet non funzina
+219,bloccato,Vi scrrivo per la stampante non stampa Distinti saluti. i clienti chiamano,Tecnico,alta,bloccato vi scrrivo per la stampante non stampa distinti saluti i clienti chiamano
+220,richiesta,anticipo stipendio grz grazie,Amministrazione,media,richiesta anticipo stipendio grz grazie
+221,documento,richiesta maternità inoltre vi faccio presente che questa situazione va avnti da settimane,Amministrazione,media,documento richiesta maternità inoltre vi faccio presente che questa situazione va avnti da settimane
+222,documento,MA È POSSIBILE CHE VORREI CHIEDERE LE FERIE INACCETTABILE!!!,Amministrazione,bassa,documento ma è possibile che vorrei chiedere le ferie inaccettabile
+223,schermo nero,il programma si blocca praticamente sempre ...non ricordo bene devo partire,Tecnico,alta,schermo nero il programma si blocca praticamente sempre non ricordo bene devo partire
+224,pc rotto,schermo nero quando più o meno accendo (o forse era un'altra cosa?),Tecnico,media,pc rotto schermo nero quando più o meno accendo o forse era un'altra cosa
+225,CONTRATTO,Per l'ennesima volta: aiuto con il 730 Pretendo una risposta OGGI!,Amministrazione,media,contratto per l'ennesima volta aiuto con il 730 pretendo una risposta oggi
+226,straordinari,mi serve la cud grz fatemi sapere,Amministrazione,media,straordinari mi serve la cud grz fatemi sapere
+227,urgente,il sistema delle ferie n mi fa inserire la richiesta da errore e aggiungo che un mio collega ha lo stesso identico problema so che è urgente ma non c'è fretta fate con comodo,Amministrazione,media,urgente il sistema delle ferie n mi fa inserire la richiesta da errore e aggiungo che un mio collega ha lo stesso identico problema so che è urgente ma non c'è fretta fate con comodo
+228,ticket,devo fare praticamente il rimborso spese (o forse era un'altra cosa?) niente di grave,Amministrazione,bassa,ticket devo fare praticamente il rimborso spese o forse era un'altra cosa niente di grave
+229,reso,sollecito pagamento mah,Commerciale,bassa,reso sollecito pagamento mah
+230,errore,pc è lentissimo,Tecnico,media,errore pc è lentissimo
+231,catalogo,vorrei un preventivo e aggiungo che un mio collega ha lo stesso identico problema quando potete,Commerciale,media,catalogo vorrei un preventivo e aggiungo che un mio collega ha lo stesso identico problema quando potete
+232,errore sistema,teams non funziona e aggiungo che un mio collega ha lo stesso identico problema?!,Tecnico,alta,errore sistema teams non funziona e aggiungo che un mio collega ha lo stesso identico problema
+233,guasto,la fattura del fornitore non quadra con le mie note spese urgente,Amministrazione,alta,guasto la fattura del fornitore non quadra con le mie note spese urgente
+234,SPEDIZIONE,devo fare un  nel senso  reso ...non ricordo bene è urgente,Commerciale,alta,spedizione devo fare un nel senso reso non ricordo bene è urgente
+235,errore sistema,il pc non si accende perché come sapete è già da un po' che ho questo problema e non so più cosa fare,Tecnico,media,errore sistema il pc non si accende perché come sapete è già da un po' che ho questo problema e non so più cosa fare
+236,TICKET,MA È POSSIBILE CHE LA FATTURA È SBAGLIATA VOGLIO PARLARE CON UN RESPONSABILE! NON POSSO LAVORARE,Commerciale,alta,ticket ma è possibile che la fattura è sbagliata voglio parlare con un responsabile non posso lavorare
+237,DOMANDA,LA PASSWORD NON NON SO SE MI SPIEGO FUNZIONA PIÙ BOH,Tecnico,media,domanda la password non non so se mi spiego funziona più boh
+238,PC ROTTO,non mi fa entrare praticamente nel sistema mah,Tecnico,media,pc rotto non mi fa entrare praticamente nel sistema mah
+239,non funziona,cambio mansione ok?,Amministrazione,bassa,non funziona cambio mansione ok
+240,aiuto,Ancora?? vorrei dei campioni Voglio parlare con un responsabile! tutto bloccato,Commerciale,alta,aiuto ancora vorrei dei campioni voglio parlare con un responsabile tutto bloccato
+241,non funziona,Ehi il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie ok? quando potete,Tecnico,media,non funziona ehi il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie ok quando potete
+242,pagamento,spedizione urgente grazie! siamo in ritardo,Commerciale,alta,pagamento spedizione urgente grazie siamo in ritardo
+243,PASSWORD,Basta! il gestionale fatture si blocca sempre quando apro le fatture Non è possibile andare avanti così! una cosina veloce: non riesco più ad accedere a nulla,Tecnico,media,password basta il gestionale fatture si blocca sempre quando apro le fatture non è possibile andare avanti così una cosina veloce non riesco più ad accedere a nulla
+244,(nessun oggetto),mi serve listino prezzi serve subito,Commerciale,alta,nessun oggetto mi serve listino prezzi serve subito
+245,assistenza,BASTA! MI SERVE LA CUD NON È POSSIBILE ANDARE AVANTI COSÌ,Amministrazione,bassa,assistenza basta mi serve la cud non è possibile andare avanti così
+246,da risolvere,"Con la presente richiesta maternità In attesa di Vs. risposta, cordialmente. i clienti chiamano",Amministrazione,alta,da risolvere con la presente richiesta maternità in attesa di vs risposta cordialmente i clienti chiamano
+247,reso,sono un diciamo che nuovo cliente (o forse era un'altra cosa?) quando potete,Commerciale,media,reso sono un diciamo che nuovo cliente o forse era un'altra cosa quando potete
+248,reso,upgrade del piano,Commerciale,media,reso upgrade del piano
+249,catalogo,EHI DOV'È IL MIO ORDINE OK? NN POSSO LAVORRE,Commerciale,alta,catalogo ehi dov'è il mio ordine ok nn posso lavorre
+250,problema,Basta! il wifi non prende Voglio parlare con un responsabile! quando potete,Tecnico,media,problema basta il wifi non prende voglio parlare con un responsabile quando potete
+251,HR,N E ACCETTABILE CHE LA FATTURA DEL FORNITORE NN QUADRA CON LE MIE NOTE SPESE E LA TERZA VOLTA CHE LO SEGNALO!! GRAIZE,Amministrazione,media,hr n e accettabile che la fattura del fornitore nn quadra con le mie note spese e la terza volta che lo segnalo graize
+252,NON VA,BASTA! L'AUDIO NON SI SENTE PRETENDO UNA RISPOSTA OGGI! RIUNIONE IMPOTANTE,Tecnico,alta,non va basta l'audio non si sente pretendo una risposta oggi riunione impotante
+253,malattia,mi serve certificato lavoro se avete tempo,Amministrazione,bassa,malattia mi serve certificato lavoro se avete tempo
+254,FATTURA,PER L'ENNESIMA VOLTA: POSSO AVERE UNO SCONTO INACCETTABILE!!!?!,Commerciale,media,fattura per l'ennesima volta posso avere uno sconto inaccettabile
+255,busta paga,assegni familiari (o forse era un'altra cosa?),Amministrazione,media,busta paga assegni familiari o forse era un'altra cosa
+256,lento,"Gentilissimi, vpn non si connette In attesa di Vs. risposta, cordialmente. dobbiamo consegnare",Tecnico,alta,lento gentilissimi vpn non si connette in attesa di vs risposta cordialmente dobbiamo consegnare
+257,offerta,sollecito pagamento,Commerciale,bassa,offerta sollecito pagamento
+258,domanda,DESIDERO SEGNALARE CHE POSSO AVERE UNO SCONTO RESTO IN ATTESA DI UN CORTESE RISCONTRO.,Commerciale,media,domanda desidero segnalare che posso avere uno sconto resto in attesa di un cortese riscontro
+259,730,mi serve cud,Amministrazione,media,730 mi serve cud
+260,mail,Salve ho preso un virus ciao devo partire,Tecnico,alta,mail salve ho preso un virus ciao devo partire
+261,rimborso,devo scaricare la cud ma cioè il sito n funziona mah,Amministrazione,alta,rimborso devo scaricare la cud ma cioè il sito n funziona mah
+262,730,detrazioni fiscali,Amministrazione,media,730 detrazioni fiscali
+263,richiesta,aiutoo con più o meno il 730 ...non ricordo bene,Amministrazione,alta,richiesta aiutoo con più o meno il 730 non ricordo bene
+264,ordine,proposta collaborazione non posso lavorarre,Commerciale,alta,ordine proposta collaborazione non posso lavorarre
+265,non va,il backup non  nel senso  parte (o forse era un'altra cosa?) è urgente,Tecnico,alta,non va il backup non nel senso parte o forse era un'altra cosa è urgente
+266,reso,il prodotto è in garanzia? perché come sapete è già da un po' che ho questo problema e non so più cosa fare non posso lavorare,Commerciale,alta,reso il prodotto è in garanzia perché come sapete è già da un po' che ho questo problema e non so più cosa fare non posso lavorare
+267,PC ROTTO,PER L'ENNESIMA VOLTA: L'AUDIO NN SI SENTE È LA TERZA VOLTA CHE LO SEGNALO!! ASPETTO RISPOSTA,Tecnico,media,pc rotto per l'ennesima volta l'audio nn si sente è la terza volta che lo segnalo aspetto risposta
+268,smart working,anticipo stipendio non posso lavorare,Amministrazione,alta,smart working anticipo stipendio non posso lavorare
+269,aiuto,devo modificare l'ordine (o forse era un'altra cosa?),Commerciale,bassa,aiuto devo modificare l'ordine o forse era un'altra cosa
+270,urgente,ho perso tutti i documenti perché come sapete è già da un po' che ho questo problema e nn so più cosa fare,Tecnico,media,urgente ho perso tutti i documenti perché come sapete è già da un po' che ho questo problema e nn so più cosa fare
+271,supporto,busta paga è sbagpiata magari un giorno,Amministrazione,bassa,supporto busta paga è sbagpiata magari un giorno
+272,rotto,il pc praticamente fa rumori strani o qualcosa del genere devo risolvere oggi???,Tecnico,alta,rotto il pc praticamente fa rumori strani o qualcosa del genere devo risolvere oggi
+273,rimborso,la fattura del  come dire  fornitore non quadra con le mie note spese boh deadline domani,Amministrazione,alta,rimborso la fattura del come dire fornitore non quadra con le mie note spese boh deadline domani
+274,pc rotto,Buongiorno il pc si spegne da solo i clienti chiamano,Tecnico,alta,pc rotto buongiorno il pc si spegne da solo i clienti chiamano
+275,computer,"non mi arrivano le mail dei clienti, controllate thx curiosità",Tecnico,bassa,computer non mi arrivano le mail dei clienti controllate thx curiosità
+276,RICHIESTA,non è accettabile che vorrei chiedere le ferie non è possibile andare avanti così! riunione importante,Amministrazione,alta,richiesta non è accettabile che vorrei chiedere le ferie non è possibile andare avanti così riunione importante
+277,aiuto,PER L'ENNESIMA VOLTA: DEVO FARE UN RESO INACCETTABILE!!! RIUNIONE IMPORTANTE,Commerciale,alta,aiuto per l'ennesima volta devo fare un reso inaccettabile riunione importante
+278,mail,"Vi scrivo per non mi arrivano le mail dei clienti, controllate Ringraziando anticipatamente, porgo cordiali saluti. urgentissimo",Tecnico,alta,mail vi scrivo per non mi arrivano le mail dei clienti controllate ringraziando anticipatamente porgo cordiali saluti urgentissimo
+279,730,devo scaricare  insomma  la cud ma il sito non funziona (o forse era un'altra cosa?),Amministrazione,media,730 devo scaricare insomma la cud ma il sito non funziona o forse era un'altra cosa
+280,guasto,"Spett.le ufficio, l'articolo è disponibile In attesa di Vs. risposta, cordialmente.",Commerciale,media,guasto spett le ufficio l'articolo è disponibile in attesa di vs risposta cordialmente
+281,pagamento,l'articolo è disponibile ...non ricordo bene niente di che ma il sistema è completamente bloccato!!,Commerciale,media,pagamento l'articolo è disponibile non ricordo bene niente di che ma il sistema è completamente bloccato
+282,mail,Buongiorno teams non funziona ok? solo per sapere,Tecnico,bassa,mail buongiorno teams non funziona ok solo per sapere
+283,lento,stampante nn stampa niente di grave,Tecnico,bassa,lento stampante nn stampa niente di grave
+284,disponibilità,assistenza post vendita ok? è urgenete,Commerciale,alta,disponibilità assistenza post vendita ok è urgenete
+285,smart working,gli straordinari non sono stati pagati deadline domani,Amministrazione,alta,smart working gli straordinari non sono stati pagati deadline domani
+286,problema,il cedolino ha  più o meno  un errore o qualcosa del genere magari un giorno,Amministrazione,bassa,problema il cedolino ha più o meno un errore o qualcosa del genere magari un giorno
+287,rimborso,lettera di referenze mah,Amministrazione,media,rimborso lettera di referenze mah
+288,vi prego,il mouse non  non so se mi spiego  risponde boh niente di grave,Tecnico,bassa,vi prego il mouse non non so se mi spiego risponde boh niente di grave
+289,permesso,voglio dare le dimissioni perché come sapete è già da un po' che ho questo problema e non so più cosa fare non so se si può,Amministrazione,bassa,permesso voglio dare le dimissioni perché come sapete è già da un po' che ho questo problema e non so più cosa fare non so se si può
+290,FWD:,Ancora?? sollecito pagamento é la terza volta ke lo segnalo!! URGENTISSIMO,Commerciale,alta,fwd ancora sollecito pagamento é la terza volta ke lo segnalo urgentissimo
+291,problema,non riesco a fare l'ordine onlnie il sito da errore perché come sapete e' già da un po' che ho qsto problema e n so più cs fare,Commerciale,bassa,problema non riesco a fare l'ordine onlnie il sito da errore perché come sapete e' già da un po' che ho qsto problema e n so più cs fare
+292,permesso,vorrei chiedere ferie pensavo che forse,Amministrazione,bassa,permesso vorrei chiedere ferie pensavo che forse
+293,non va,backup non parte sono fermo,Tecnico,alta,non va backup non parte sono fermo
+294,sconto,Salve sollecito pagamento ok?,Commerciale,bassa,sconto salve sollecito pagamento ok
+295,bloccato,l'audio non si sente perché come sapete è già da un po' che ho questo problema e non so più cosa fare è urgente,Tecnico,alta,bloccato l'audio non si sente perché come sapete è già da un po' che ho questo problema e non so più cosa fare è urgente
+296,contratto,vorrei chiedere le ferie comunque sia vi chiedo di intervenire il prima possibile se potete bloccato completamente,Amministrazione,alta,contratto vorrei chiedere le ferie comunque sia vi chiedo di intervenire il prima possibile se potete bloccato completamente
+297,Fwd:,non riesco a non so se mi spiego stampare (o forse era un'altra cosa?) aspetto risposta,Tecnico,media,fwd non riesco a non so se mi spiego stampare o forse era un'altra cosa aspetto risposta
+298,(nessun oggetto),vorrei chiedere le ferie e aggiungo che un mio collega ha lo stesso identico problema quando potete,Amministrazione,media,nessun oggetto vorrei chiedere le ferie e aggiungo che un mio collega ha lo stesso identico problema quando potete
+299,rotto,"Vi scrivo per richiesta smart working In attesa di Vs. risposta, cordialmente.",Amministrazione,media,rotto vi scrivo per richiesta smart working in attesa di vs risposta cordialmente
+300,ticket,il gestionale fatture si blocca sempre quando apro le fatture stiamo perdendo tempo,Tecnico,alta,ticket il gestionale fatture si blocca sempre quando apro le fatture stiamo perdendo tempo
+301,supporto,teams non funzina o qualcosa del genere non so se si può,Tecnico,bassa,supporto teams non funzina o qualcosa del genere non so se si può
+302,errore sistema,"Buongiorno, il computer si spegne da solo Resto in attesa di un cortese riscontro. magari un giorno",Tecnico,bassa,errore sistema buongiorno il computer si spegne da solo resto in attesa di un cortese riscontro magari un giorno
+303,PREVENTIVO,PER L'ENNESIMA VOLTA: PROMOZIONI ATTIVE PRETENDO UNA RISPOSTA OGGI!,Commerciale,media,preventivo per l'ennesima volta promozioni attive pretendo una risposta oggi
+304,errore sistema,outlook non si apre comunque sia vi chiedo di intervenire il prima possibile se potete,Tecnico,media,errore sistema outlook non si apre comunque sia vi chiedo di intervenire il prima possibile se potete
+305,prodotto,sono nuovo cliente il cliente aspetta,Commerciale,alta,prodotto sono nuovo cliente il cliente aspetta
+306,busta paga,il contratto scade boh,Amministrazione,media,busta paga il contratto scade boh
+307,schermo nero,"Gentilissimi, excel si chiude da solo Distinti saluti. non so se si può",Tecnico,bassa,schermo nero gentilissimi excel si chiude da solo distinti saluti non so se si può
+308,segnalazione,devo fare il rimborso cm dire spese (o forse era un'altra cosa?),Amministrazione,bassa,segnalazione devo fare il rimborso cm dire spese o forse era un'altra cosa
+309,fwd:,devo fare ordine ma ho bisogno dell'approvazione del budget devo partire,Commerciale,alta,fwd devo fare ordine ma ho bisogno dell'approvazione del budget devo partire
+310,sconto,dov'è mio ordine bloccato completamente,Commerciale,alta,sconto dov'è mio ordine bloccato completamente
+311,sconto,"BASTA! IL PRODOTTO È IN GARANZIA? INACCETTABILE!!! SO CHE È URGENTE MA NON C'È FRETTA, FATE CON COMODO",Commerciale,media,sconto basta il prodotto è in garanzia inaccettabile so che è urgente ma non c'è fretta fate con comodo
+312,SMART WORKING,ANCORA?? VOGLIO CAMBIARE ORARIO E' LA TERZA VOLTA CHE LO SEGNALO,Amministrazione,media,smart working ancora voglio cambiare orario e' la terza volta che lo segnalo
+313,errore,congedo parentale e aggiungo che un mio collega ha lo stesso identico problema,Amministrazione,media,errore congedo parentale e aggiungo che un mio collega ha lo stesso identico problema
+314,documento,salve devo firmare il contratot cioa quando potete,Amministrazione,media,documento salve devo firmare il contratot cioa quando potete
+315,Fwd:,con la presente devo fare un reso distinti saluti.,Commerciale,media,fwd con la presente devo fare un reso distinti saluti
+316,offerta,avete il catalogo ok? deadline domani,Commerciale,alta,offerta avete il catalogo ok deadline domani
+317,sconto,prodotto e' difettoso qnd potete,Commerciale,bassa,sconto prodotto e' difettoso qnd potete
+318,supporto,cambio mansione,Amministrazione,media,supporto cambio mansione
+319,aiuto,"Spett.le uufficio, non vedo le cartelle condivise Ringraziando anticipatamente, porgo cordiali saluti. quando potete",Tecnico,media,aiuto spett le uufficio non vedo le cartelle condivise ringraziando anticipatamente porgo cordiali saluti quando potete
+320,CLIENTE,contratto di fornitura (o forse era un'altra cosa?) riunione importante,Commerciale,alta,cliente contratto di fornitura o forse era un'altra cosa riunione importante
+321,non funziona,devo firmare  non so se mi spiego  il contratto o qualcosa del genere,Amministrazione,alta,non funziona devo firmare non so se mi spiego il contratto o qualcosa del genere
+322,help,"Buongiorno, n mi arrivano le mail dei clienti, controllate Distinti saluti. devo partire?!",Tecnico,alta,help buongiorno n mi arrivano le mail dei clienti controllate distinti saluti devo partire
+323,non va,BASTA! LA PASSWORD NN FUNZIONA PIÙ VOGLIO PARLARE CON UN RESPONSABILE! QUANDO POTETE,Tecnico,media,non va basta la password nn funziona più voglio parlare con un responsabile quando potete
+324,prodotto,contratto fornitura,Commerciale,bassa,prodotto contratto fornitura
+325,ferie,Buongiorno vorrei chiedere le ferie thx grazie,Amministrazione,media,ferie buongiorno vorrei chiedere le ferie thx grazie
+326,stampa,Vi scrivo per schermo nero quando accendo Distinti saluti. non posso lavorare,Tecnico,alta,stampa vi scrivo per schermo nero quando accendo distinti saluti non posso lavorare
+327,rimborso,"buongiorno il sistema delle ferie non mi fa inserire la richiesta, da errore ok?",Amministrazione,media,rimborso buongiorno il sistema delle ferie non mi fa inserire la richiesta da errore ok
+328,lento,"non mi arrivano insomma le mail dei clienti, controllate o qualcosa del genere quando potete",Tecnico,bassa,lento non mi arrivano insomma le mail dei clienti controllate o qualcosa del genere quando potete
+329,NON FUNZIONA,Vi scrivo per devo comunicare la malattia Grazie per la collaborazione.,Amministrazione,media,non funziona vi scrivo per devo comunicare la malattia grazie per la collaborazione
+330,AIUTO,Per l'ennesima volta: sono in smart working ma il vpn non va e devo fare le note spese e un ordine Pretendo una risposta OGGI! URGENTISSIMO,Tecnico,alta,aiuto per l'ennesima volta sono in smart working ma il vpn non va e devo fare le note spese e un ordine pretendo una risposta oggi urgentissimo
+331,smart working,devo scaricare la cud ma il sito non funziona perché come sapete e già da un po' che ho questo problema e non so più cosa fare,Amministrazione,media,smart working devo scaricare la cud ma il sito non funziona perché come sapete e già da un po' che ho questo problema e non so più cosa fare
+332,UFFICIO PERSONALE,Non è accettabile che devo scaricare la cud ma il sito non funziona Voglio parlare con un responsabile! non so se si può,Amministrazione,bassa,ufficio personale non è accettabile che devo scaricare la cud ma il sito non funziona voglio parlare con un responsabile non so se si può
+333,catalogo,Con la presente devo fare un reso Distinti saluti. è urgente,Commerciale,alta,catalogo con la presente devo fare un reso distinti saluti è urgente
+334,importante,richiesta maternità comunque sia vi chiedo di intervenire il prima possibile se potete tutto bloccato,Amministrazione,alta,importante richiesta maternità comunque sia vi chiedo di intervenire il prima possibile se potete tutto bloccato
+335,spedizione,"Spett.le ufficio, feedback sul servizio Ringraziando anticipatamente, porgo cordiali saluti.",Commerciale,bassa,spedizione spett le ufficio feedback sul servizio ringraziando anticipatamente porgo cordiali saluti
+336,urgente,devo firmare  insomma  il contratto ...non ricordo bene,Amministrazione,bassa,urgente devo firmare insomma il contratto non ricordo bene
+337,DISPONIBILITÀ,proposta di collaborazione grz,Commerciale,media,disponibilità proposta di collaborazione grz
+338,computer,Buongiorno il mouse nn risponde serve subito,Tecnico,alta,computer buongiorno il mouse nn risponde serve subito
+339,ORDINE,ANCORA?? POSSO AVERE UNO SCONTO PRETENDO UNA RISPOSTA OGGI! È UN'EMERGENZA,Commerciale,alta,ordine ancora posso avere uno sconto pretendo una risposta oggi è un'emergenza
+340,catalogo,"Spett.le ufficio, vorreei un preventivo Ringraziando anticipatamente, porgo cordiali saluti.",Commerciale,bassa,catalogo spett le ufficio vorreei un preventivo ringraziando anticipatamente porgo cordiali saluti
+341,da risolvere,vorrei dei campioni il cliente aspetta,Commerciale,alta,da risolvere vorrei dei campioni il cliente aspetta
+342,password,lo schermo sfarfalla o qualcosa del genere magari un giorno,Tecnico,bassa,password lo schermo sfarfalla o qualcosa del genere magari un giorno
+343,busta paga,cambio mansione mah,Amministrazione,media,busta paga cambio mansione mah
+344,pc rotto,non ho più spazio sul disco inoltre vi faccio presente ke questa situazione va avanti da settimane solo per sapere,Tecnico,bassa,pc rotto non ho più spazio sul disco inoltre vi faccio presente ke questa situazione va avanti da settimane solo per sapere
+345,non funziona,"Gentilissimi, non mi arrivano le mail dei clienti, controllate In attesa di Vs. risposta, cordialmente. aspetto risposta",Tecnico,media,non funziona gentilissimi non mi arrivano le mail dei clienti controllate in attesa di vs risposta cordialmente aspetto risposta
+346,urgente,devo scaricare la  diciamo che  cud ma il sito non funziona ...non ricordo bene presentazione tra poco,Amministrazione,alta,urgente devo scaricare la diciamo che cud ma il sito non funziona non ricordo bene presentazione tra poco
+347,problema pc,Desidero segnalare che non riesco ad accedere al portale per vedere la busta paga Grazie per la collaborazione. curiosità,Tecnico,bassa,problema pc desidero segnalare che non riesco ad accedere al portale per vedere la busta paga grazie per la collaborazione curiosità
+348,password,lo schermo sfarfalla (o forse era un'altra cosa?),Tecnico,media,password lo schermo sfarfalla o forse era un'altra cosa
+349,RECLAMO,Ancora?? il prodotto è difettoso Inaccettabile!!! URGENTE,Commerciale,alta,reclamo ancora il prodotto è difettoso inaccettabile urgente
+350,aiuto,"Desidero segnalare che vorrei chiedere le ferie Ringraziando anticipatamente, porgo cordiali saluti. non so se si può",Amministrazione,bassa,aiuto desidero segnalare che vorrei chiedere le ferie ringraziando anticipatamente porgo cordiali saluti non so se si può
+351,richiesta,Non è accettabile che mi serve un certificato di lavoro Voglio parlare con un responsabile!,Amministrazione,bassa,richiesta non è accettabile che mi serve un certificato di lavoro voglio parlare con un responsabile
+352,PRODOTTO,devo fare un reso inoltre vi faccio presente ch questa situazione va avanti da settimane serve subbito,Commerciale,alta,prodotto devo fare un reso inoltre vi faccio presente ch questa situazione va avanti da settimane serve subbito
+353,assistenza,non riesco ad accedere al  non so se mi spiego  computer o qualcosa del genere devo risolvere oggi,Tecnico,alta,assistenza non riesco ad accedere al non so se mi spiego computer o qualcosa del genere devo risolvere oggi
+354,ordine,ci sono offerte devo risolvere oggi,Commerciale,alta,ordine ci sono offerte devo risolvere oggi
+355,mail,non riesco ad accedere al computer perché come sapete è già da un po' che ho questo problema e non so più cosa fare,Tecnico,media,mail non riesco ad accedere al computer perché come sapete è già da un po' che ho questo problema e non so più cosa fare
+356,virus?,buongiorno il wifi non prende ciao serve subito,Tecnico,alta,virus buongiorno il wifi non prende ciao serve subito
+357,rotto,sono in smart working ma il vpn non va e devo fare le note spese e un ordine e volevo anche dire ch ho già provato di tutto ma non funziona niente presentazione tra poco,Tecnico,alta,rotto sono in smart working ma il vpn non va e devo fare le note spese e un ordine e volevo anche dire ch ho già provato di tutto ma non funziona niente presentazione tra poco
+358,pc rotto,"BUONGIORNO NON MI ARRIVANO LE MAIL DEI CLIENTI, CONTROLLATE GRAZIE! RIUNIONE IMPORTANTE",Tecnico,alta,pc rotto buongiorno non mi arrivano le mail dei clienti controllate grazie riunione importante
+359,catalogo,salve la fattura è sbagliata grazie! stiamo perdendo tempo,Commerciale,alta,catalogo salve la fattura è sbagliata grazie stiamo perdendo tempo
+360,LEGGERE,"Ma è possibile che non mi arrivano le mail dei clienti, controllate Voglio parlare con un responsabile!",Tecnico,media,leggere ma è possibile che non mi arrivano le mail dei clienti controllate voglio parlare con un responsabile
+361,prodotto,proposta di collaborazione inoltre vi faccio presente che questa situzione va avanti da settimane,Commerciale,media,prodotto proposta di collaborazione inoltre vi faccio presente che questa situzione va avanti da settimane
+362,CEDOLINO,congedo parentale e aggiungo che un mio collega ha lo stesso identico problema,Amministrazione,media,cedolino congedo parentale e aggiungo che un mio collega ha lo stesso identico problema
+363,spedizione,"Spett.le ufficio, ho pagato ma non risulta Grazie per la collaborazione. non posso lavorare",Commerciale,alta,spedizione spett le ufficio ho pagato ma non risulta grazie per la collaborazione non posso lavorare
+364,internet,Con la ptesente l'audio nn si sente Grazie per la collaborazione. con calma,Tecnico,bassa,internet con la ptesente l'audio nn si sente grazie per la collaborazione con calma
+365,fattura,"Buongiorno, dov'è il mio ordine In attesa di Vs. risposta, cordialmente. solo per sapere",Commerciale,bassa,fattura buongiorno dov'è il mio ordine in attesa di vs risposta cordialmente solo per sapere
+366,mail,Con la presente il pc è lentissimo Distinti saluti.,Tecnico,bassa,mail con la presente il pc è lentissimo distinti saluti
+367,non va,"spett.le ufficio, l'audio non si sente distinti saluti.",Tecnico,bassa,non va spett le ufficio l'audio non si sente distinti saluti
+368,prodotto,l'articolo é disponibilie solo per sapere,Commerciale,bassa,prodotto l'articolo é disponibilie solo per sapere
+369,straordinari,"Con la presente documenti per la banca Ringraziando anticipatamente, porgo cordiali saluti. non posso lavorare",Amministrazione,alta,straordinari con la presente documenti per la banca ringraziando anticipatamente porgo cordiali saluti non posso lavorare
+370,reso,devo fare un ordine ma ho bisogno dell'approvazione del budget grazie!!,Commerciale,media,reso devo fare un ordine ma ho bisogno dell'approvazione del budget grazie
+371,busta paga,"Vi scrivo per devo firmare il contratto Ringraziando anticipatamente, porgo cordiali saluti.",Amministrazione,media,busta paga vi scrivo per devo firmare il contratto ringraziando anticipatamente porgo cordiali saluti
+372,spedizione,"Spett.le ufficio, devo modificare l'ordine In attesa di Vs. risposta, cordialmente.",Commerciale,media,spedizione spett le ufficio devo modificare l'ordine in attesa di vs risposta cordialmente
+373,reclamo,verifica credito inoltre vi faccio presente che questa situazione va avanti da settimane non so se si può,Commerciale,bassa,reclamo verifica credito inoltre vi faccio presente che questa situazione va avanti da settimane non so se si può
+374,mail,"Ancora?? ho preso un virus Pretendo una risposta OGGI! so che è urgente ma non c'è fretta, fate con comodo",Tecnico,media,mail ancora ho preso un virus pretendo una risposta oggi so che è urgente ma non c'è fretta fate con comodo
+375,stampa,programma si blocca sempre,Tecnico,media,stampa programma si blocca sempre
+376,busta paga,voglio cambiare orario boh,Amministrazione,media,busta paga voglio cambiare orario boh
+377,ticket,la busta paga è sbagliata ciao già ke ci siete,Amministrazione,bassa,ticket la busta paga è sbagliata ciao già ke ci siete
+378,disponibilità,Ehi dov'è il mio ordine grazie! pensavo che forse,Commerciale,bassa,disponibilità ehi dov'è il mio ordine grazie pensavo che forse
+379,prodotto,informazioni sui prodotti,Commerciale,media,prodotto informazioni sui prodotti
+380,aiuto,non riesco ad accedere al portale per vedere la busta paga non c'è fretta,Tecnico,bassa,aiuto non riesco ad accedere al portale per vedere la busta paga non c'è fretta
+381,RICHIESTA,MA È POSSIBILE CHE OUTLOOK NON SI APRE PRETENDO UNA RISPOSTA OGGI! SERVE SUBITO,Tecnico,alta,richiesta ma è possibile che outlook non si apre pretendo una risposta oggi serve subito
+382,urgente,"non mi arrivano le mail dei praticamente clienti, controllate nn ricordo bene aspetto risposta",Tecnico,media,urgente non mi arrivano le mail dei praticamente clienti controllate nn ricordo bene aspetto risposta
+383,da risolvere,prodotto è difettoso non è urgente,Commerciale,bassa,da risolvere prodotto è difettoso non è urgente
+384,aiuto,ehi la fattura è sbagliata grz,Commerciale,media,aiuto ehi la fattura è sbagliata grz
+385,contratto,ho bisogno permesso,Amministrazione,bassa,contratto ho bisogno permesso
+386,urgente,richiesta maternità ok?,Amministrazione,media,urgente richiesta maternità ok
+387,Fwd:,"Gentilissimi, excel si chiude da solo Grazie x la collaborazione. grz",Tecnico,media,fwd gentilissimi excel si chiude da solo grazie x la collaborazione grz
+388,virus?,word non salva i file comunque sia vi chiedo di intervenire il prima possibile se potete,Tecnico,bassa,virus word non salva i file comunque sia vi chiedo di intervenire il prima possibile se potete
+389,fattura,assistenza post vendita con calma,Commerciale,bassa,fattura assistenza post vendita con calma
+390,da risolvere,"la mail per le note spese n parte, come faccio inoltre vi faccio presente che questa situazione va avanti da settimane non è urgente",Amministrazione,bassa,da risolvere la mail per le note spese n parte come faccio inoltre vi faccio presente che questa situazione va avanti da settimane non è urgente
+391,permesso,mi serve un certificato di lavoro inoltre vi faccio presente che questa situazione va avanti da settimane,Amministrazione,bassa,permesso mi serve un certificato di lavoro inoltre vi faccio presente che questa situazione va avanti da settimane
+392,PASSWORD,PER L'ENNESIMA VOLTA: IL MOUSE NON RISPONDE È LA TERZA VOLTA CHE LO SEGNALO!! SERVE SUBITO,Tecnico,alta,password per l'ennesima volta il mouse non risponde è la terza volta che lo segnalo serve subito
+393,pagamento,Salve informazioni sui prodotti thx,Commerciale,media,pagamento salve informazioni sui prodotti thx
+394,errore,devo fare il rimborso  diciamo che  spese boh,Amministrazione,media,errore devo fare il rimborso diciamo che spese boh
+395,sconto,sollecito pagamento presentazione tra poco,Commerciale,alta,sconto sollecito pagamento presentazione tra poco
+396,da risolvere,ho perso tutti i documenti perché come sapete e già da un po' che ho questo problema e non so più kosa fare era solo un'idea,Tecnico,bassa,da risolvere ho perso tutti i documenti perché come sapete e già da un po' che ho questo problema e non so più kosa fare era solo un'idea
+397,offerta,LA FATTURA E' NEL SENSO SBAGLIATA ...NON RICORDO BENE,Commerciale,media,offerta la fattura e' nel senso sbagliata non ricordo bene
+398,catalogo,ANCORA?? AVETE IL CATALOGO NON È POSSIBILE ANDARE AVANTI COSÌ! SERVE SUBITTO,Commerciale,alta,catalogo ancora avete il catalogo non è possibile andare avanti così serve subitto
+399,reclamo,l'articolo è disponibile ciao,Commerciale,media,reclamo l'articolo è disponibile ciao
+400,prodotto,upgrade del piano,Commerciale,media,prodotto upgrade del piano
+401,schermo nero,non vedo le cartelle condivise perché come sapete è già da un po' che ho questo problema e non so più cosa fare,Tecnico,media,schermo nero non vedo le cartelle condivise perché come sapete è già da un po' che ho questo problema e non so più cosa fare
+402,hr,richiesta smart working perché come sapete è già da un po' ch ho questo problema e non so più cosa fare riunione importante,Amministrazione,alta,hr richiesta smart working perché come sapete è già da un po' ch ho questo problema e non so più cosa fare riunione importante
+403,reclamo,"Spett.le ufficio, devo fare un reso Ringraziando anticipatamente, porgo cordiali saluti.",Commerciale,media,reclamo spett le ufficio devo fare un reso ringraziando anticipatamente porgo cordiali saluti
+404,cedolino,ehi devo scaricare la cud ma il sito non funziona graize quando poteet,Amministrazione,media,cedolino ehi devo scaricare la cud ma il sito non funziona graize quando poteet
+405,rimborso,devo parlare con insomma hr ...non ricordo bene deadline domani,Amministrazione,alta,rimborso devo parlare con insomma hr non ricordo bene deadline domani
+406,errore,proposta di collborazione comunque sia vi chiedo di intervenire il prima possibile se potete,Commerciale,bassa,errore proposta di collborazione comunque sia vi chiedo di intervenire il prima possibile se potete
+407,segnalazione,devo fare un ordine ma ho bisogno dell'approvazione del budget xke come sapete è già da un po' ch ho questo problema e non so più cosa fare aspetto risposta,Commerciale,media,segnalazione devo fare un ordine ma ho bisogno dell'approvazione del budget xke come sapete è già da un po' ch ho questo problema e non so più cosa fare aspetto risposta
+408,virus?,la password come dire non funzina più boh,Tecnico,media,virus la password come dire non funzina più boh
+409,ferie,"Buongiorno, il cedolino ha un errore In attesa di Vs. risposta, cordialmente.",Amministrazione,alta,ferie buongiorno il cedolino ha un errore in attesa di vs risposta cordialmente
+410,segnalazione,PER L'ENNESIMA VOLTA: LA STAMPANTE NON STAMPA VOGLIO PARLARE CON UN RESPONSABILE! QUANDO POTETE!!,Tecnico,media,segnalazione per l'ennesima volta la stampante non stampa voglio parlare con un responsabile quando potete
+411,problema pc,non riesco ad accedere al portale vedere busta paga solo per sapere,Tecnico,bassa,problema pc non riesco ad accedere al portale vedere busta paga solo per sapere
+412,malattia,Ehi cambio mansione grz il cliente aspetta,Amministrazione,alta,malattia ehi cambio mansione grz il cliente aspetta
+413,(nessun oggetto),webcam nn funzina,Tecnico,media,nessun oggetto webcam nn funzina
+414,fattura,Ehi promozioni attive thx dobbiamo consegnare,Commerciale,alta,fattura ehi promozioni attive thx dobbiamo consegnare
+415,documento,Desidero segnalare che documenti per la banca Resto in attesa di un cortese riscontro. é un'emergenza,Amministrazione,alta,documento desidero segnalare che documenti per la banca resto in attesa di un cortese riscontro é un'emergenza
+416,aiuto,"Buongiorno, documenti per la banca Ringraziando anticipatamente, porgo cordiali saluti. fatemi sapere ah dimenticavo questa cosa urgnte quando potete rispondete",Amministrazione,media,aiuto buongiorno documenti per la banca ringraziando anticipatamente porgo cordiali saluti fatemi sapere ah dimenticavo questa cosa urgnte quando potete rispondete
+417,internet,vpn non si connette,Tecnico,media,internet vpn non si connette
+418,rete,il pc n funziona e nn riesco a mandare l'ordine né a timbrare le ferie grz,Tecnico,media,rete il pc n funziona e nn riesco a mandare l'ordine né a timbrare le ferie grz
+419,internet,webcam non funziona,Tecnico,alta,internet webcam non funziona
+420,ufficio personale,devo firmare il contratto inoltre vi faccio presente che questa situazione va avanti da settimane,Amministrazione,media,ufficio personale devo firmare il contratto inoltre vi faccio presente che questa situazione va avanti da settimane
+421,permesso,"la mail x più o meno le note spese non parte, cm faccio o qualcosa del genere quando potete",Amministrazione,bassa,permesso la mail x più o meno le note spese non parte cm faccio o qualcosa del genere quando potete
+422,busta paga,richiesta maternità inoltre vi faccio presente che questa situazione va avanti da settimane dobbiamo consegnare,Amministrazione,alta,busta paga richiesta maternità inoltre vi faccio presente che questa situazione va avanti da settimane dobbiamo consegnare
+423,(NESSUN OGGETTO),NON È ACCETTABILE CHE HO PRESO UN VIRUS NON È POSSIBILE ANDARE AVANTI COSÌ!,Tecnico,bassa,nessun oggetto non è accettabile che ho preso un virus non è possibile andare avanti così
+424,prodotto,ci sono offerte,Commerciale,media,prodotto ci sono offerte
+425,ordine,SONO NUOVO CLIENTE,Commerciale,media,ordine sono nuovo cliente
+426,BLOCCATO,ho preso un virus e aggiungo che un mio collega ha lo stesso identico problema,Tecnico,media,bloccato ho preso un virus e aggiungo che un mio collega ha lo stesso identico problema
+427,730,detrazioni fiscali mah devo risolvere oggi,Amministrazione,alta,730 detrazioni fiscali mah devo risolvere oggi
+428,virus?,backup non parte i clienti chiamano,Tecnico,alta,virus backup non parte i clienti chiamano
+429,vi prego,feedback sul servizio o qualcosa del genere,Commerciale,media,vi prego feedback sul servizio o qualcosa del genere
+430,LEGGERE,X L'ENNESIMA VOLTA: INFORMAZZIONI SUI PRODOTTI VOGLIO PARLARE CON UN RESPONSABILE! N SO SE SI PUÒ,Commerciale,bassa,leggere x l'ennesima volta informazzioni sui prodotti voglio parlare con un responsabile n so se si può
+431,spedizione,Ehi sostituzione articolo grazie!,Commerciale,media,spedizione ehi sostituzione articolo grazie
+432,reclamo,voglio disdire,Commerciale,bassa,reclamo voglio disdire
+433,LEGGERE,la busta  più o meno  paga è sbagliata boh devo risolvere oggi,Amministrazione,alta,leggere la busta più o meno paga è sbagliata boh devo risolvere oggi
+434,PRODOTTO,Ma è possibile che il prodotto è difettoso Voglio parlare con un responsabile! PRESENTAZIONE TRA POCO,Commerciale,alta,prodotto ma è possibile che il prodotto è difettoso voglio parlare con un responsabile presentazione tra poco
+435,fattura,vorrei un preventivo e aggiungo che un mio collega ha lo stesso identico problema quando potete,Commerciale,bassa,fattura vorrei un preventivo e aggiungo che un mio collega ha lo stesso identico problema quando potete
+436,problema pc,"con la presente non mi arrivano le mail dei clienti, controllate ringraziando anticipatamente, porgo cordiali saluti. siamo in ritardo",Tecnico,alta,problema pc con la presente non mi arrivano le mail dei clienti controllate ringraziando anticipatamente porgo cordiali saluti siamo in ritardo
+437,fattura,posso avere uno sconto il cliente aspetta,Commerciale,alta,fattura posso avere uno sconto il cliente aspetta
+438,richiesta,cambio mansione,Amministrazione,media,richiesta cambio mansione
+439,pc rotto,il programma si blocca diciamo che sempre o qualcosa del genere quando potete,Tecnico,bassa,pc rotto il programma si blocca diciamo che sempre o qualcosa del genere quando potete
+440,ordine,contratto di fornitura comunque sia vi chiedo di intervenire il prima possibile se potete,Commerciale,bassa,ordine contratto di fornitura comunque sia vi chiedo di intervenire il prima possibile se potete
+441,permesso,devo fiirmare come dire il contratto ...non ricordo bene bloccato completamente,Amministrazione,alta,permesso devo fiirmare come dire il contratto non ricordo bene bloccato completamente
+442,domanda,schermo nero qando accendo quando potete,Tecnico,bassa,domanda schermo nero qando accendo quando potete
+443,schermo nero,ho preso non so se mi spiego un virus boh sno fermo,Tecnico,alta,schermo nero ho preso non so se mi spiego un virus boh sno fermo
+444,contratto,"Gentilissimi, devo comunicare la malattia In attesa di Vs. risposta, cordialmente. curiosità",Amministrazione,bassa,contratto gentilissimi devo comunicare la malattia in attesa di vs risposta cordialmente curiosità
+445,leggere,Salve devo rinnovare l'abbonamento ciao,Commerciale,bassa,leggere salve devo rinnovare l'abbonamento ciao
+446,cedolino,devo cambiare l'iban mah,Amministrazione,bassa,cedolino devo cambiare l'iban mah
+447,catalogo,ANCORA?? AVETE IL CATALOGO È LA TERZA VOLTA CHE LO SEGNALO!! PENSAVO CHE FORSE!!!,Commerciale,bassa,catalogo ancora avete il catalogo è la terza volta che lo segnalo pensavo che forse
+448,aiuto,"spett.le ufficio, ho perso tutti i documenti ringraziando anticipatamente, porgo cordiali saluti. dobbiamo consegnare",Tecnico,alta,aiuto spett le ufficio ho perso tutti i documenti ringraziando anticipatamente porgo cordiali saluti dobbiamo consegnare
+449,permesso,Salve ho bisogno di un permesso grazie!,Amministrazione,media,permesso salve ho bisogno di un permesso grazie
+450,sconto,devo fare  come dire  un reso ...non ricordo bene,Commerciale,media,sconto devo fare come dire un reso non ricordo bene
+451,leggere,devo fare come dire un ordine ma ho bisogno dell'approvazone del budget ...non ricordo bene dobbiamo consegnare,Commerciale,alta,leggere devo fare come dire un ordine ma ho bisogno dell'approvazone del budget non ricordo bene dobbiamo consegnare
+452,problema pc,tastiera rotta comunque sia vi chiedo di intervenire il prima possibile se potete è un'emergenza,Tecnico,alta,problema pc tastiera rotta comunque sia vi chiedo di intervenire il prima possibile se potete è un'emergenza
+453,reclamo,"non riesco a fare l'ordine online, il sito da errore e aggiungo che un mio collega ha lo stesso identico problema serve subito",Commerciale,alta,reclamo non riesco a fare l'ordine online il sito da errore e aggiungo che un mio collega ha lo stesso identico problema serve subito
+454,documento,il cedolino ha più o meno un errore o qualcosa del genere,Amministrazione,bassa,documento il cedolino ha più o meno un errore o qualcosa del genere
+455,bloccato,sono in smart working ma il vpn non  nel senso  va e devo fare le note spese e un ordine mah riunione importante,Tecnico,alta,bloccato sono in smart working ma il vpn non nel senso va e devo fare le note spese e un ordine mah riunione importante
+456,rimborso,devo parlare hr non riesco a fare niente,Amministrazione,alta,rimborso devo parlare hr non riesco a fare niente
+457,hr,richiesta maternità non è urgente,Amministrazione,bassa,hr richiesta maternità non è urgente
+458,SCONTO,sollecito pagamento ...non ricordo bene quando potete,Commerciale,media,sconto sollecito pagamento non ricordo bene quando potete
+459,ufficio personale,Vi scrivo per la mail per le note spese non parte kome faccio Distinti saluti,Amministrazione,media,ufficio personale vi scrivo per la mail per le note spese non parte kome faccio distinti saluti
+460,HR,Per l'ennesima volta: documenti per la banca Pretendo una risposta OGGI!,Amministrazione,media,hr per l'ennesima volta documenti per la banca pretendo una risposta oggi
+461,help,teams n funziona il capo chiede,Tecnico,alta,help teams n funziona il capo chiede
+462,sconto,PROPOSTA COLLABORAZIONE SE AVETE TEMPO,Commerciale,bassa,sconto proposta collaborazione se avete tempo
+463,problema,la fattura del fornitore più o meno non quadra con le mie note spese o qualcosa del genere bloccato completamente,Amministrazione,alta,problema la fattura del fornitore più o meno non quadra con le mie note spese o qualcosa del genere bloccato completamente
+464,730,CAMBIO MANSIONE MAH E' UN'EMERGENZA,Amministrazione,alta,730 cambio mansione mah e' un'emergenza
+465,preventivo,l'articolo è disponibile URGENTE,Commerciale,alta,preventivo l'articolo è disponibile urgente
+466,permesso,la busta paga nel senso è sbagliata nn ricordo bene,Amministrazione,media,permesso la busta paga nel senso è sbagliata nn ricordo bene
+467,errore sistema,PER L'ENNESIMA VOLTA: NON RIESCO A STAMPARE PRETENDO UNA RISPOSTA OGGI!,Tecnico,media,errore sistema per l'ennesima volta non riesco a stampare pretendo una risposta oggi
+468,password,la mail non  come dire  parte (o forse era un'altra cosa?) era solo un'idea,Tecnico,bassa,password la mail non come dire parte o forse era un'altra cosa era solo un'idea
+469,cedolino,aiuto con il  più o meno  730 mah aspetto risposta,Amministrazione,media,cedolino aiuto con il più o meno 730 mah aspetto risposta
+470,sconto,voglio annullare l'ordine comunque sia vi chiedo di intervenire il prima possibile se potete,Commerciale,media,sconto voglio annullare l'ordine comunque sia vi chiedo di intervenire il prima possibile se potete
+471,schermo nero,"Buongiorno, non riesco ad accedere al portale per vedere la busta paga In attesa di Vs. risposta, cordialmente. non riesco a fare niente",Tecnico,alta,schermo nero buongiorno non riesco ad accedere al portale per vedere la busta paga in attesa di vs risposta cordialmente non riesco a fare niente
+472,ufficio personale,"Gentilissimi, devo comunicare la malattia Distinti saluti. presentazione tra poco",Amministrazione,alta,ufficio personale gentilissimi devo comunicare la malattia distinti saluti presentazione tra poco
+473,vpn,Desidero segnalare che il backup non parte Grazie per la collaborazione. non posso lavorare,Tecnico,alta,vpn desidero segnalare che il backup non parte grazie per la collaborazione non posso lavorare
+474,contratto,detrazioni fiscali comunque sia vi chiedo di intervenire il prima possibile se potete magari un giorno,Amministrazione,bassa,contratto detrazioni fiscali comunque sia vi chiedo di intervenire il prima possibile se potete magari un giorno
+475,straordinari,devo cambiare l'iban i clienti chiamano,Amministrazione,alta,straordinari devo cambiare l'iban i clienti chiamano
+476,ufficio personale,mi serve cud,Amministrazione,media,ufficio personale mi serve cud
+477,permesso,il contratto scade comunque sia vi chiedo di intervenire il prima possibile se potete,Amministrazione,media,permesso il contratto scade comunque sia vi chiedo di intervenire il prima possibile se potete
+478,malattia,informazioni sul tfr graz,Amministrazione,media,malattia informazioni sul tfr graz
+479,busta paga,vorrei chiedere ferie,Amministrazione,media,busta paga vorrei chiedere ferie
+480,aiuto,Per l'ennesima volta: schermo nero quando accendo Pretendo una risposta OGGI!,Tecnico,media,aiuto per l'ennesima volta schermo nero quando accendo pretendo una risposta oggi
+481,smart working,Salve voglio dare le dimissioni grz aspetto risposta,Amministrazione,media,smart working salve voglio dare le dimissioni grz aspetto risposta
+482,busta paga,richiesta maternità mah,Amministrazione,media,busta paga richiesta maternità mah
+483,reclamo,devo fare un ordine ma ho bisogno dell'approvazione del budget,Commerciale,media,reclamo devo fare un ordine ma ho bisogno dell'approvazione del budget
+484,reclamo,"Vi scrivo per sostituzione articolo In attesa di Vs. risposta, cordialmente. fatemi sapere",Commerciale,media,reclamo vi scrivo per sostituzione articolo in attesa di vs risposta cordialmente fatemi sapere
+485,segnalazione,informazioni prestito aziendale thx,Amministrazione,media,segnalazione informazioni prestito aziendale thx
+486,ferie,devo cambiare l'iban,Amministrazione,media,ferie devo cambiare l'iban
+487,mail,la stampante non come dire stampa boh qando potete,Tecnico,media,mail la stampante non come dire stampa boh qando potete
+488,rete,programma si blocca sempre,Tecnico,media,rete programma si blocca sempre
+489,pc rotto,computer si spegne solo,Tecnico,alta,pc rotto computer si spegne solo
+490,fattura,"Ciao, vorrei un preventivo ciao il cliente aspetta",Commerciale,alta,fattura ciao vorrei un preventivo ciao il cliente aspetta
+491,(nessun oggetto),spedizione urgenete,Commerciale,alta,nessun oggetto spedizione urgenete
+492,guasto,devo fare ordine ma ho bisogno dell'approvazione del budget serve subito,Commerciale,alta,guasto devo fare ordine ma ho bisogno dell'approvazione del budget serve subito
+493,(NESSUN OGGETTO),ANCORA?? DOCUMENTI PER LA BANCA NON È POSSIBILE ANDARE AVANTI COSÌ!,Amministrazione,media,nessun oggetto ancora documenti per la banca non è possibile andare avanti così
+494,schermo nero,programma si blocca sempre grazie,Tecnico,media,schermo nero programma si blocca sempre grazie
+495,ferie,la busta paga non so se mi spiego è sbagliata o qualcosa del genere siamo in ritardo,Amministrazione,alta,ferie la busta paga non so se mi spiego è sbagliata o qualcosa del genere siamo in ritardo
+496,guasto,pc non funziona e non riesco mandare l'ordine né timbrare ferie magari un giorno,Tecnico,bassa,guasto pc non funziona e non riesco mandare l'ordine né timbrare ferie magari un giorno
+497,cedolino,voglio cambiare orario e aggiungo che un mio collega ha lo stesso identico problema fatemi sapere,Amministrazione,media,cedolino voglio cambiare orario e aggiungo che un mio collega ha lo stesso identico problema fatemi sapere
+498,non funziona,Ehi informazioni sui prodotti ciao,Commerciale,media,non funziona ehi informazioni sui prodotti ciao
+499,internet,la mail non  non so se mi spiego  parte mah,Tecnico,media,internet la mail non non so se mi spiego parte mah
+500,permesso,devo firmare il contratto comunque sia vi chiedo di intervenire il prima possibile se potete non posso lavorare,Amministrazione,alta,permesso devo firmare il contratto comunque sia vi chiedo di intervenire il prima possibile se potete non posso lavorare
+501,rete,Ma è possibile che teams non funziona È la terza volta che lo segnalo!! con calma,Tecnico,bassa,rete ma è possibile che teams non funziona è la terza volta che lo segnalo con calma
+502,CLIENTE,"SPETT.LE UFFICIO, IL MIO ORDINE E IN RITARDO DISTINTI SALUTI. SERVE SUBBITO",Commerciale,alta,cliente spett le ufficio il mio ordine e in ritardo distinti saluti serve subbito
+503,info,nota spese da approvare thx,Amministrazione,media,info nota spese da approvare thx
+504,lento,ANCORA?? OUTLOOK NON SI APRE VOGLIO PARLARE CON UN RESPONSABILE! ASPETTO RISPOSTA,Tecnico,media,lento ancora outlook non si apre voglio parlare con un responsabile aspetto risposta
+505,pc rotto,ho preso  non so se mi spiego  un virus ...non ricordo bene,Tecnico,bassa,pc rotto ho preso non so se mi spiego un virus non ricordo bene
+506,ordine,devo fare ordine ma ho bisogno dell'approvazione del budget URGENTE,Commerciale,alta,ordine devo fare ordine ma ho bisogno dell'approvazione del budget urgente
+507,fattura,"Desidero segnalare che verifica credito Ringraziando anticipatamente, porgo cordiali saluti. serve subito",Commerciale,alta,fattura desidero segnalare che verifica credito ringraziando anticipatamente porgo cordiali saluti serve subito
+508,pagamento,ho pagato ma non risulta,Commerciale,media,pagamento ho pagato ma non risulta
+509,Fwd:,richiesta smart working boh,Amministrazione,alta,fwd richiesta smart working boh
+510,password,il pc fa rumori strani comunque sia vi chiedo di intervenire il prima possibile se potete fatemi sapere,Tecnico,media,password il pc fa rumori strani comunque sia vi chiedo di intervenire il prima possibile se potete fatemi sapere
+511,computer,ma è possibile che excel si chiude da solo è la terza volta che lo segnalo!! con calma,Tecnico,bassa,computer ma è possibile che excel si chiude da solo è la terza volta che lo segnalo con calma
+512,offerta,ho pagato  insomma  ma non risulta (o forse era un'altra cosa?) quando potete,Commerciale,bassa,offerta ho pagato insomma ma non risulta o forse era un'altra cosa quando potete
+513,vi prego,"desidero segnalare che il mouse non risponde ringraziando anticipatamente, porgo cordiali saluti.",Tecnico,media,vi prego desidero segnalare che il mouse non risponde ringraziando anticipatamente porgo cordiali saluti
+514,AIUTO,"MA È POSSIBILE CHE IL SISTEMA DELLE FERIE NON MI FA INSERIRE LA RICHIESTA, DA ERRORE INACCETTABILE!!! NON POSSO LAVORARE",Amministrazione,alta,aiuto ma è possibile che il sistema delle ferie non mi fa inserire la richiesta da errore inaccettabile non posso lavorare
+515,(NESSUN OGGETTO),Basta! ho bisogno di un permesso Inaccettabile!!! NON POSSO LAVORARE,Amministrazione,alta,nessun oggetto basta ho bisogno di un permesso inaccettabile non posso lavorare
+516,pc rotto,pc non funziona e non riesco mandare l'ordine né timbrare ferie,Tecnico,bassa,pc rotto pc non funziona e non riesco mandare l'ordine né timbrare ferie
+517,catalogo,AVETE IL CATALOGO O QUALCOSA DEL GENERE IL CLIENTE ASPETTA,Commerciale,alta,catalogo avete il catalogo o qualcosa del genere il cliente aspetta
+518,internet,la mail non parte perché come sapete e' già da un po' ke ho questo problema e non so più cosa fare URGENTE?!,Tecnico,alta,internet la mail non parte perché come sapete e' già da un po' ke ho questo problema e non so più cosa fare urgente
+519,RECLAMO,NON È ACCETTABILE KE AVETE IL CATALOGO È LA TERZA VOLTA KE LO SEGNALO!!,Commerciale,bassa,reclamo non è accettabile ke avete il catalogo è la terza volta ke lo segnalo
+520,730,Non è accettabile ch informazioni prestito aziendale Voglio parlare con un responsabile! curiosità,Amministrazione,bassa,730 non è accettabile ch informazioni prestito aziendale voglio parlare con un responsabile curiosità
+521,straordinari,"ciao, assegni familiari grz devo partire",Amministrazione,alta,straordinari ciao assegni familiari grz devo partire
+522,schermo nero,Non e' accettabile che internet non funziona Non è possibile andare avanti così!,Tecnico,media,schermo nero non e' accettabile che internet non funziona non è possibile andare avanti così
+523,richiesta,devo cambiare l'iban boh non è urgente,Amministrazione,bassa,richiesta devo cambiare l'iban boh non è urgente
+524,schermo nero,il pc non si accende e aggiungo ch un mio collega ha lo stesso identico problemma,Tecnico,bassa,schermo nero il pc non si accende e aggiungo ch un mio collega ha lo stesso identico problemma
+525,contratto,info sul tfr,Amministrazione,media,contratto info sul tfr
+526,bloccato,internet non funziona e volevo anche dire che ho già provato di tutto ma non funziona niente niente di grave,Tecnico,bassa,bloccato internet non funziona e volevo anche dire che ho già provato di tutto ma non funziona niente niente di grave
+527,mail,"non ho più spazio sul disco so ke è urgente ma non c'è fretta, fate con comodo",Tecnico,media,mail non ho più spazio sul disco so ke è urgente ma non c'è fretta fate con comodo
+528,VI PREGO,Ma è possibile che il prodotto è difettoso Non è possibile andare avanti così!,Commerciale,media,vi prego ma è possibile che il prodotto è difettoso non è possibile andare avanti così
+529,schermo nero,Con la presente non mi fa entrare nel sistema Resto in attesa di un cortese riscontro,Tecnico,bassa,schermo nero con la presente non mi fa entrare nel sistema resto in attesa di un cortese riscontro
+530,errore sistema,L'AUDIO NON SI SENTE INOLTRE VI FACCIO PRESENTE CHE QUESTA SITUAZIONE VA AVANTI DA SETTIMANE SE AVETE TEMPO,Tecnico,bassa,errore sistema l'audio non si sente inoltre vi faccio presente che questa situazione va avanti da settimane se avete tempo
+531,cedolino,devo parlare hr bloccato completamente,Amministrazione,alta,cedolino devo parlare hr bloccato completamente
+532,SCHERMO NERO,il programma  non so se mi spiego  si blocca sempre ...non ricordo bene,Tecnico,bassa,schermo nero il programma non so se mi spiego si blocca sempre non ricordo bene
+533,PREVENTIVO,il mio ordine e' in ritardo perche come sapete è già da un po' che ho questo problema e non so più cosa fare,Commerciale,media,preventivo il mio ordine e' in ritardo perche come sapete è già da un po' che ho questo problema e non so più cosa fare
+534,preventivo,prodotto e' garanzia? dvo risolvere oggi,Commerciale,alta,preventivo prodotto e' garanzia dvo risolvere oggi
+535,Fwd:,Ehi ho perso tutti i documenti thx non è urgente,Tecnico,bassa,fwd ehi ho perso tutti i documenti thx non è urgente
+536,contratto,richiesta maternità comunque sia vi chiedo di intervenire il prima possibile se potete,Amministrazione,media,contratto richiesta maternità comunque sia vi chiedo di intervenire il prima possibile se potete
+537,spedizione,"Ciao, la fattura è sbagliata grz",Commerciale,bassa,spedizione ciao la fattura è sbagliata grz
+538,assistenza,Basta! informazioni prestito aziendale Pretendo una risposta OGGI! é URGENTE,Amministrazione,alta,assistenza basta informazioni prestito aziendale pretendo una risposta oggi é urgente
+539,cedolino,vorrei chiedere ferie niente di grave,Amministrazione,bassa,cedolino vorrei chiedere ferie niente di grave
+540,password,gestionale fatture si blocca sempre quando apro fatture il cliente aspetta,Tecnico,alta,password gestionale fatture si blocca sempre quando apro fatture il cliente aspetta
+541,fattura,"Vi scrivo per dov'è il mio ordine In attesa di Vs. risposta, cordialmente. il cliente aspetta",Commerciale,alta,fattura vi scrivo per dov'è il mio ordine in attesa di vs risposta cordialmente il cliente aspetta
+542,bloccato,il monitor non si cm dire accende boh quando potete,Tecnico,bassa,bloccato il monitor non si cm dire accende boh quando potete
+543,urgente,non riesco ad accedere al computer ok? dobbiamo consegnare,Tecnico,alta,urgente non riesco ad accedere al computer ok dobbiamo consegnare
+544,Re: Re:,documenti per la banca perché come sapete è già da un po' che ho questo problema e non so più cosa fare,Amministrazione,alta,re re documenti per la banca perché come sapete è già da un po' che ho questo problema e non so più cosa fare
+545,cliente,mio ordine è ritardo,Commerciale,media,cliente mio ordine è ritardo
+546,richiesta,"ciao, il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie grz",Tecnico,media,richiesta ciao il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie grz
+547,richiesta,nota spese da approvare e volevo anche dire che ho già provato di tutto ma non funziona niente devo risolvere oggi,Amministrazione,alta,richiesta nota spese da approvare e volevo anche dire che ho già provato di tutto ma non funziona niente devo risolvere oggi
+548,schermo nero,internet non funziona e aggiungo che un mio collega ha lo stesso identico problema,Tecnico,media,schermo nero internet non funziona e aggiungo che un mio collega ha lo stesso identico problema
+549,errore,il mio ordine é in ritardo,Commerciale,media,errore il mio ordine é in ritardo
+550,richiesta,"Basta! la mail per le note spese jon parte, come faccio È la terza volta ch lo segnalo!! grz",Amministrazione,media,richiesta basta la mail per le note spese jon parte come faccio è la terza volta ch lo segnalo grz
+551,permesso,Con la presente lettera di referenze Grazie per la collaborazione.,Amministrazione,media,permesso con la presente lettera di referenze grazie per la collaborazione
+552,mail,"Ciao, sono in smart working ma il vpn non va e devo fare le note spese e un ordine grazie! aspetto risposta",Tecnico,media,mail ciao sono in smart working ma il vpn non va e devo fare le note spese e un ordine grazie aspetto risposta
+553,rotto,i contributi sono sbagliati perché come sapete e già da un po' ke ho questo problema e non so più cosa fare,Amministrazione,alta,rotto i contributi sono sbagliati perché come sapete e già da un po' ke ho questo problema e non so più cosa fare
+554,preventivo,spedizione urgnte e aggiungo che un mio collega ha lo stesso identico probelma,Commerciale,media,preventivo spedizione urgnte e aggiungo che un mio collega ha lo stesso identico probelma
+555,segnalazione,avete il catalogo boh tutto bloccato,Commerciale,alta,segnalazione avete il catalogo boh tutto bloccato
+556,problema,il prodotto è praticamente difettoso mah,Commerciale,media,problema il prodotto è praticamente difettoso mah
+557,MAIL,Basta! il backup non parte Pretendo una risposta OGGI!???,Tecnico,bassa,mail basta il backup non parte pretendo una risposta oggi
+558,vi prego,Buongiorno sono in smart working ma il vpn non va e devo fare le note spese e un ordine il capo chiede,Tecnico,alta,vi prego buongiorno sono in smart working ma il vpn non va e devo fare le note spese e un ordine il capo chiede
+559,mail,Salve il wifi non prende grz,Tecnico,bassa,mail salve il wifi non prende grz
+560,smart working,RICHIESTA MATERNITÀ NN RICORDO BENE,Amministrazione,bassa,smart working richiesta maternità nn ricordo bene
+561,hr,devo fare trasferta aspetto risposta niente di che ma il sistema è completamente bloccato,Amministrazione,media,hr devo fare trasferta aspetto risposta niente di che ma il sistema è completamente bloccato
+562,disponibilità,il mio ordine è in ritardo e aggiungo ch un mio collega ha lo stesso identico problema,Commerciale,media,disponibilità il mio ordine è in ritardo e aggiungo ch un mio collega ha lo stesso identico problema
+563,pagamento,salve assistenza post vendita grazie!,Commerciale,media,pagamento salve assistenza post vendita grazie
+564,problema,anticipo stipendio,Amministrazione,media,problema anticipo stipendio
+565,rimborso,voglio dare le dimissioni grazie!,Amministrazione,media,rimborso voglio dare le dimissioni grazie
+566,errore sistema,Non e' accettabile ch il pc e lentissimo Pretendo una risposta OGGI! DEVO PARTIRE,Tecnico,alta,errore sistema non e' accettabile ch il pc e lentissimo pretendo una risposta oggi devo partire
+567,reso,informazioni sui prodotti,Commerciale,media,reso informazioni sui prodotti
+568,pc rotto,pc è lentissimo,Tecnico,bassa,pc rotto pc è lentissimo
+569,assistenza,Salve la mail nn parte grz,Tecnico,media,assistenza salve la mail nn parte grz
+570,730,il cedolino  cioè  ha un errore (o forse era un'altra cosa?) non so se si può,Amministrazione,bassa,730 il cedolino cioè ha un errore o forse era un'altra cosa non so se si può
+571,(nessun oggetto),informazzioni sui prodotti curiosità,Commerciale,bassa,nessun oggetto informazzioni sui prodotti curiosità
+572,richiesta,"Spett.le ufficio, non riesco ad accedere al portale per vedere la busta paga In attesa di Vs. risposta, cordialmente.",Tecnico,alta,richiesta spett le ufficio non riesco ad accedere al portale per vedere la busta paga in attesa di vs risposta cordialmente
+573,documento,"Gentilissimi, voglio cambiare orario Resto in attesa di un cortese riscontro. magari un giorno",Amministrazione,bassa,documento gentilissimi voglio cambiare orario resto in attesa di un cortese riscontro magari un giorno
+574,rotto,"non riesco fare l'ordine online, sito errore è un'emergenza",Commerciale,alta,rotto non riesco fare l'ordine online sito errore è un'emergenza
+575,spedizione,assistenza post vendita e aggiungo che un mio collega ha lo stesso identico problema quando potete,Commerciale,media,spedizione assistenza post vendita e aggiungo che un mio collega ha lo stesso identico problema quando potete
+576,SMART WORKING,informazioni sul tfr inoltre vi faccio presente che questa situazione va avanti da settimane devo partire,Amministrazione,alta,smart working informazioni sul tfr inoltre vi faccio presente che questa situazione va avanti da settimane devo partire
+577,help,pc è lentissimo già che ci siete,Tecnico,bassa,help pc è lentissimo già che ci siete
+578,prodotto,"Gentilissimi, non riesco a fare l'ordine online, il sito da errore In attesa di Vs. risposta, cordialmente.",Commerciale,media,prodotto gentilissimi non riesco a fare l'ordine online il sito da errore in attesa di vs risposta cordialmente
+579,segnalazione,non riesco fare l'ordine online sito errore graz!!!,Commerciale,media,segnalazione non riesco fare l'ordine online sito errore graz
+580,ufficio personale,"Desidero segnalare che anticipo stipendio Ringraziando anticipatamente, porgo cordiali saluti. ah dimenticavo questa cosa urgente... quando potete rispondete",Amministrazione,media,ufficio personale desidero segnalare che anticipo stipendio ringraziando anticipatamente porgo cordiali saluti ah dimenticavo questa cosa urgente quando potete rispondete
+581,catalogo,Ehi sollecito pagamento ok? presentazione tra poco???,Commerciale,alta,catalogo ehi sollecito pagamento ok presentazione tra poco
+582,documento,devo firmare il contratto perché come sapete è già da un po' che ho questo problema e non so più cosa fare,Amministrazione,media,documento devo firmare il contratto perché come sapete è già da un po' che ho questo problema e non so più cosa fare
+583,ordine,il prodotto é difettoso inoltre vi faccio presente che questa situazione va avanti da settimane bloccato cmopletamente,Commerciale,alta,ordine il prodotto é difettoso inoltre vi faccio presente che questa situazione va avanti da settimane bloccato cmopletamente
+584,disponibilità,"Spet.le ufficio, sollecito pagamento Ringraziando anticipatamente, porgo cordiali saluti. presentazione tra poco",Commerciale,alta,disponibilità spet le ufficio sollecito pagamento ringraziando anticipatamente porgo cordiali saluti presentazione tra poco
+585,non va,schermo sfarfalla,Tecnico,media,non va schermo sfarfalla
+586,domanda,devo rinnovare l'abbonamento graz,Commerciale,media,domanda devo rinnovare l'abbonamento graz
+587,permesso,"Con la presente lettera di referenze Ringraziando anticipatamente, porgo cordiali saluti. il capo chiede",Amministrazione,alta,permesso con la presente lettera di referenze ringraziando anticipatamente porgo cordiali saluti il capo chiede
+588,internet,nn riesco ad accedere al conputer non è urgnte,Tecnico,bassa,internet nn riesco ad accedere al conputer non è urgnte
+589,domanda,ancora?? cambio mansione nn é posibile andare avanti così,Amministrazione,media,domanda ancora cambio mansione nn é posibile andare avanti così
+590,rete,il programma si blocca sempre e volevo anche dire che ho già provato di tutto ma non funziona niente,Tecnico,media,rete il programma si blocca sempre e volevo anche dire che ho già provato di tutto ma non funziona niente
+591,bloccato,"ciao, il computer si spegne da solo deadline domani",Tecnico,alta,bloccato ciao il computer si spegne da solo deadline domani
+592,lento,outlook non come dire si apre ...non ricordo bene!!!,Tecnico,media,lento outlook non come dire si apre non ricordo bene
+593,preventivo,"con la presente devo fare un reso in attesa di vs. risposta, cordialmente. curiosità!!",Commerciale,bassa,preventivo con la presente devo fare un reso in attesa di vs risposta cordialmente curiosità
+594,cliente,feedback sul servizio,Commerciale,bassa,cliente feedback sul servizio
+595,straordinari,nota spese approvare,Amministrazione,media,straordinari nota spese approvare
+596,spedizione,spedizione urgente non è urgente,Commerciale,bassa,spedizione spedizione urgente non è urgente
+597,reclamo,Per l'ennesima volta: devo modificare l'ordine Voglio parlare con un responsabile!,Commerciale,bassa,reclamo per l'ennesima volta devo modificare l'ordine voglio parlare con un responsabile
+598,domanda,salve teams non funziona grz,Tecnico,media,domanda salve teams non funziona grz
+599,rotto,salve excel si chiude da solo grazie!,Tecnico,bassa,rotto salve excel si chiude da solo grazie
+600,ferie,"Gentilissimi, anticipo stipendio Grazie x la collaborazione. sono fermo",Amministrazione,alta,ferie gentilissimi anticipo stipendio grazie x la collaborazione sono fermo
+601,da risolvere,Desidero segnalare che anticipo stipendio Distinti saluti. curiosità,Amministrazione,bassa,da risolvere desidero segnalare che anticipo stipendio distinti saluti curiosità
+602,virus?,NON È ACCETTABILE CHE IL GESTIONALE FATTURE SI BLOCCA SEMPRE QUANDO APRO LE FATTURE INACCETTABILE!!! NON RIESCO A FARE NIENTE,Tecnico,alta,virus non è accettabile che il gestionale fatture si blocca sempre quando apro le fatture inaccettabile non riesco a fare niente
+603,reclamo,devo fare un reso ciao,Commerciale,media,reclamo devo fare un reso ciao
+604,stampa,tastiera rotta e volevo anche dire che ho già provato di tutto ma non funziona niente deadline domani,Tecnico,alta,stampa tastiera rotta e volevo anche dire che ho già provato di tutto ma non funziona niente deadline domani
+605,contratto,vorrei chiedere ferie,Amministrazione,media,contratto vorrei chiedere ferie
+606,richiesta,devo fare più o meno il rimborso spese o qualcosa del genere,Amministrazione,media,richiesta devo fare più o meno il rimborso spese o qualcosa del genere
+607,rotto,"gentilissimi, devo cambiare l'iban resto in attesa di un cortese riscontro.",Amministrazione,bassa,rotto gentilissimi devo cambiare l'iban resto in attesa di un cortese riscontro
+608,computer,"Buongiorno, non vedo le cartelle condivise Grazie per la collaborazione.",Tecnico,bassa,computer buongiorno non vedo le cartelle condivise grazie per la collaborazione
+609,DISPONIBILITÀ,Ma è possibile che upgrade del piano Inaccettabile!!! URGENTE,Commerciale,alta,disponibilità ma è possibile che upgrade del piano inaccettabile urgente
+610,virus?,schermo nero quando accendo perché come sapete è già da un po' che ho questo problema e non so più cosa fare bloccato completamente,Tecnico,alta,virus schermo nero quando accendo perché come sapete è già da un po' che ho questo problema e non so più cosa fare bloccato completamente
+611,spedizione,"n riesco fare l'ordine online, sito errore è un'emergenza?!",Commerciale,alta,spedizione n riesco fare l'ordine online sito errore è un'emergenza
+612,straordinari,devo scaricare la cud ma il sito non funziona comunque sia vi chiedo di intervenire il prima possibile se potete,Amministrazione,bassa,straordinari devo scaricare la cud ma il sito non funziona comunque sia vi chiedo di intervenire il prima possibile se potete
+613,reso,ho pagato ma non risulta e volevo anche dire che ho già provato di tutto ma non funziona niente,Commerciale,bassa,reso ho pagato ma non risulta e volevo anche dire che ho già provato di tutto ma non funziona niente
+614,lento,"Spett.le ufficio, non ho più spazio sul disco Distinti saluti.",Tecnico,media,lento spett le ufficio non ho più spazio sul disco distinti saluti
+615,virus?,Salve word non salva i file grz serve subito,Tecnico,alta,virus salve word non salva i file grz serve subito
+616,re: re:,salve contratto di fornitura ciao è urgenete,Commerciale,alta,re re salve contratto di fornitura ciao è urgenete
+617,lento,Ehi non riesco ad accedere al compiuter thx già che ci siete,Tecnico,bassa,lento ehi non riesco ad accedere al compiuter thx già che ci siete
+618,info,devo fare nel senso un reso boh quando potete???,Commerciale,media,info devo fare nel senso un reso boh quando potete
+619,pagamento,devo fare un ordine ma ho bisogno dell'approvazione del budget grz una cosina veloce: non riesco più ad accedere a nulla,Commerciale,media,pagamento devo fare un ordine ma ho bisogno dell'approvazione del budget grz una cosina veloce non riesco più ad accedere a nulla
+620,ticket,Ma è possibile che devo scaricare la cud ma il sito non funziona È la terza volta che lo segnalo!! sono fermo,Amministrazione,alta,ticket ma è possibile che devo scaricare la cud ma il sito non funziona è la terza volta che lo segnalo sono fermo
+621,COMPUTER,"ciao, ho perso tutti i documenti",Tecnico,bassa,computer ciao ho perso tutti i documenti
+622,documento,la fattura del fornitore non quadra con le mie note spese e volevo anche dire che ho già provato di tutto ma non funzina niente,Amministrazione,media,documento la fattura del fornitore non quadra con le mie note spese e volevo anche dire che ho già provato di tutto ma non funzina niente
+623,prodotto,voglio disdire e volevo anche dire che ho già provato di tutto ma non funziona niente,Commerciale,media,prodotto voglio disdire e volevo anche dire che ho già provato di tutto ma non funziona niente
+624,fattura,"Ciao, il prodotto è in garanzia? grazie! urgentissimo",Commerciale,alta,fattura ciao il prodotto è in garanzia grazie urgentissimo
+625,straordinari,"Salve la mail per le note spese non parte, come faccio ciao",Amministrazione,media,straordinari salve la mail per le note spese non parte come faccio ciao
+626,IMPORTANTE,Basta! la stampante non stampa Pretendo una risposta OGGI!,Tecnico,bassa,importante basta la stampante non stampa pretendo una risposta oggi
+627,offerta,Per l'ennesima volta: devo fare un ordine ma ho bisogno dell'approvazione del budget Non è possibile andare avanti così!,Commerciale,media,offerta per l'ennesima volta devo fare un ordine ma ho bisogno dell'approvazione del budget non è possibile andare avanti così
+628,lento,la password  cioè  non funziona più (o forse era un'altra cosa?) aspetto risposta,Tecnico,media,lento la password cioè non funziona più o forse era un'altra cosa aspetto risposta
+629,vi prego,NON È ACCETTABILE CHE DEVO FARE UN ORDINE MA HO BISOGNO DELL'APPROVAZIONE DEL BUDGET PRETENDO UNA RISPOSTA OGGI! GRAZIE,Commerciale,media,vi prego non è accettabile che devo fare un ordine ma ho bisogno dell'approvazione del budget pretendo una risposta oggi grazie
+630,preventivo,BASTA! LA FATTURA È SBAGLIATA NON È POSSIBILE ANDARE AVANTI COSÌ!,Commerciale,media,preventivo basta la fattura è sbagliata non è possibile andare avanti così
+631,mail,Ehi la password nn funziona più grz,Tecnico,alta,mail ehi la password nn funziona più grz
+632,guasto,devo fare una trasferta e aggiungo che un mio collega ha lo stesso identico problema se avete tempo,Amministrazione,bassa,guasto devo fare una trasferta e aggiungo che un mio collega ha lo stesso identico problema se avete tempo
+633,PAGAMENTO,sono nuovo cliente,Commerciale,media,pagamento sono nuovo cliente
+634,ufficio personale,"sistema delle ferie non mi fa inserire richiesta, errore quando potete",Amministrazione,bassa,ufficio personale sistema delle ferie non mi fa inserire richiesta errore quando potete
+635,PRODOTTO,n è accettabile ch il mio ordine e' in ritardo È la terza volta ch lo segnalo!!???,Commerciale,media,prodotto n è accettabile ch il mio ordine e' in ritardo è la terza volta ch lo segnalo
+636,ordine,"Desidero segnalare che assistenza post vendita Ringraziando anticipatamente, porgo cordiali saluti. riunione importatne",Commerciale,alta,ordine desidero segnalare che assistenza post vendita ringraziando anticipatamente porgo cordiali saluti riunione importatne
+637,computer,Ehi il pc è lentissimo grazie!,Tecnico,media,computer ehi il pc è lentissimo grazie
+638,richiesta,ho bisogno permesso,Amministrazione,bassa,richiesta ho bisogno permesso
+639,assistenza,lo schermo sfarfalla e aggiungo che un mio collega ha lo stesso identico problema deadline domani,Tecnico,alta,assistenza lo schermo sfarfalla e aggiungo che un mio collega ha lo stesso identico problema deadline domani
+640,straordinari,"Con la presente il sistema delle ferie non mi fa inserire la richiesta, da errore Ringraziando anticipatamente, porgo cordiali saluti.???",Amministrazione,bassa,straordinari con la presente il sistema delle ferie non mi fa inserire la richiesta da errore ringraziando anticipatamente porgo cordiali saluti
+641,offerta,vi scrivo per feedback sul servizio resto in attesa di un cortese riscontro. quando potete,Commerciale,media,offerta vi scrivo per feedback sul servizio resto in attesa di un cortese riscontro quando potete
+642,MAIL,PER L'ENNESIMA VOLTA: NON MI FA ENTRARE NEL SISTEMA È LA TERZA VOLTA CHE LO SEGNALO!! QUANDO POTETE,Tecnico,bassa,mail per l'ennesima volta non mi fa entrare nel sistema è la terza volta che lo segnalo quando potete
+643,problema,ho perso tutti i documenti thx non c'è fretta,Tecnico,bassa,problema ho perso tutti i documenti thx non c'è fretta
+644,problema pc,"Spett.le ufficio, il gestionale fatture si blocca sempre quando apro le fatture Distinti saluti. già che ci siete",Tecnico,bassa,problema pc spett le ufficio il gestionale fatture si blocca sempre quando apro le fatture distinti saluti già che ci siete
+645,help,DEVO FARE  NON SO SE MI SPIEGO  UN RESO (O FORSE ERA UN'ALTRA COSA?) SE AVETE TEMPO,Commerciale,bassa,help devo fare non so se mi spiego un reso o forse era un'altra cosa se avete tempo
+646,busta paga,Con la presente la fattura del fornitore non quadra con le mie note spese Resto in attesa di un cortese riscontro.,Amministrazione,media,busta paga con la presente la fattura del fornitore non quadra con le mie note spese resto in attesa di un cortese riscontro
+647,straordinari,Basta! richiesta smart working Non è possibile andare avanti così! grazie,Amministrazione,media,straordinari basta richiesta smart working non è possibile andare avanti così grazie
+648,sconto,Desidero segnalare ke feedback sul servizio grz x la collaborazione???,Commerciale,media,sconto desidero segnalare ke feedback sul servizio grz x la collaborazione
+649,info,"non riesco a fare l'ordine online, il sito da errore",Commerciale,media,info non riesco a fare l'ordine online il sito da errore
+650,Fwd:,la mail per le note spese non diciamo che parte come faccio mah serve subito,Amministrazione,alta,fwd la mail per le note spese non diciamo che parte come faccio mah serve subito
+651,da risolvere,mi serve certificato lavoro,Amministrazione,bassa,da risolvere mi serve certificato lavoro
+652,(nessun oggetto),devo fare un reso e aggiungo che un mio collega ha lo stesso identico problema,Commerciale,media,nessun oggetto devo fare un reso e aggiungo che un mio collega ha lo stesso identico problema
+653,help,devo scaricare la cud ma il sito non funziona comunque sia vi chiedo di intervenire il prima possibile se potete,Amministrazione,media,help devo scaricare la cud ma il sito non funziona comunque sia vi chiedo di intervenire il prima possibile se potete
+654,problema,verifica credito con calma,Commerciale,bassa,problema verifica credito con calma
+655,730,"ciao, detrazioni fiscali ok?",Amministrazione,media,730 ciao detrazioni fiscali ok
+656,sconto,sostituzione articolo e volevo anche dire che ho già provato di tutto ma non funziona niente bloccato completamente,Commerciale,alta,sconto sostituzione articolo e volevo anche dire che ho già provato di tutto ma non funziona niente bloccato completamente
+657,da risolvere,Ehi non mi fa entrare nel sistema,Tecnico,alta,da risolvere ehi non mi fa entrare nel sistema
+658,richiesta,Ancora?? devo firmare il contratto Non é possibile andare avanti così!,Amministrazione,bassa,richiesta ancora devo firmare il contratto non é possibile andare avanti così
+659,problema pc,"non mi arrivano mail dei clienti, controllate quando potete",Tecnico,media,problema pc non mi arrivano mail dei clienti controllate quando potete
+660,ticket,"Gentilissimi, avete il catalogo Resto in attesa di un cortese riscontro. quando potete",Commerciale,media,ticket gentilissimi avete il catalogo resto in attesa di un cortese riscontro quando potete
+661,hr,informazioni prestito aziendale,Amministrazione,bassa,hr informazioni prestito aziendale
+662,OFFERTA,feedback sul servizio e volevo anche dire che ho già provato di tutto ma non funziona niente presentazione tra poco,Commerciale,alta,offerta feedback sul servizio e volevo anche dire che ho già provato di tutto ma non funziona niente presentazione tra poco
+663,richiesta,buongiorno richiesta maternità ciao urgenete,Amministrazione,alta,richiesta buongiorno richiesta maternità ciao urgenete
+664,smart working,"Gentilissimi, la fattura del fornitore non quadra con le mie note spese Distinti saluti.",Amministrazione,media,smart working gentilissimi la fattura del fornitore non quadra con le mie note spese distinti saluti
+665,bloccato,la mail  insomma  non parte ...non ricordo bene se avete tempo,Tecnico,bassa,bloccato la mail insomma non parte non ricordo bene se avete tempo
+666,schermo nero,la password non funziona più comunque sia vi chiedo di intervenire il prima possibile se potete,Tecnico,bassa,schermo nero la password non funziona più comunque sia vi chiedo di intervenire il prima possibile se potete
+667,password,il backup n parte ciao,Tecnico,media,password il backup n parte ciao
+668,cedolino,detrazioni fiscali (o forse era un'altra cosa?) urgentissimo,Amministrazione,alta,cedolino detrazioni fiscali o forse era un'altra cosa urgentissimo
+669,vpn,Salve excel si chiude da solo grazie! era solo un'idea,Tecnico,bassa,vpn salve excel si chiude da solo grazie era solo un'idea
+670,errore,il wifi più o meno n prene o qualcosa del genere!!!,Tecnico,bassa,errore il wifi più o meno n prene o qualcosa del genere
+671,prodotto,devo fare un ordine ma ho bisogno dell'approvazione del budget perché come sapete è già da un po' che ho questo problema e non so più cosa fare grazie,Commerciale,media,prodotto devo fare un ordine ma ho bisogno dell'approvazione del budget perché come sapete è già da un po' che ho questo problema e non so più cosa fare grazie
+672,rotto,schermo sfarfalla,Tecnico,media,rotto schermo sfarfalla
+673,guasto,pc e' lentissimo,Tecnico,media,guasto pc e' lentissimo
+674,problema pc,salve il gestionale fatture si blocca sempre quando apro le fatture grazie! una cosina veloce: non riesco più ad accedere a nulla,Tecnico,media,problema pc salve il gestionale fatture si blocca sempre quando apro le fatture grazie una cosina veloce non riesco più ad accedere a nulla
+675,guasto,"Spett.le ufficio, il backup non parte In attesa di Vs. risposta, cordialmente.",Tecnico,media,guasto spett le ufficio il backup non parte in attesa di vs risposta cordialmente
+676,cliente,devo fare un ordine ma ho bisogno dell'approvazione del budget ciao curiosità,Commerciale,bassa,cliente devo fare un ordine ma ho bisogno dell'approvazione del budget ciao curiosità
+677,richiesta,il computer si spegne da solo e aggiungo che un mio collega ha lo stesso identico problema non so se si può,Tecnico,bassa,richiesta il computer si spegne da solo e aggiungo che un mio collega ha lo stesso identico problema non so se si può
+678,730,Ma è possibilie che la fattura del fornitore non quadra con le mie note spese é la terza volta ch lo segnalo,Amministrazione,media,730 ma è possibilie che la fattura del fornitore non quadra con le mie note spese é la terza volta ch lo segnalo
+679,guasto,il pc non si accende deadline domani,Tecnico,alta,guasto il pc non si accende deadline domani
+680,fwd:,devo rinnovare l'abbonamento ciao,Commerciale,media,fwd devo rinnovare l'abbonamento ciao
+681,rimborso,"Ciao, richiesta smart working thx",Amministrazione,media,rimborso ciao richiesta smart working thx
+682,internet,vpn non si connette,Tecnico,media,internet vpn non si connette
+683,sconto,"Buongiorno, il mio ordine è in ritardo Grazie per la collaborazione. curiosità",Commerciale,bassa,sconto buongiorno il mio ordine è in ritardo grazie per la collaborazione curiosità
+684,errore sistema,Basta! la stampante non stampa Voglio parlare con un responsabile! È UN'EMERGENZA,Tecnico,alta,errore sistema basta la stampante non stampa voglio parlare con un responsabile è un'emergenza
+685,supporto,"ciao, word non salva i file grz curiosità",Tecnico,bassa,supporto ciao word non salva i file grz curiosità
+686,disponibilità,posso avere uno  diciamo che  sconto ...non ricordo bene,Commerciale,bassa,disponibilità posso avere uno diciamo che sconto non ricordo bene
+687,VIRUS?,Ancora?? sono in smart working ma il vpn non va e devo fare le note spese e un ordine È la terza volta che lo segnalo,Tecnico,bassa,virus ancora sono in smart working ma il vpn non va e devo fare le note spese e un ordine è la terza volta che lo segnalo
+688,ordine,informazioni sui prodotti comunque sia vi chiedo di intervenire il prima possibile se potete urgentissimo,Commerciale,alta,ordine informazioni sui prodotti comunque sia vi chiedo di intervenire il prima possibile se potete urgentissimo
+689,reclamo,"Con la presente la fattura è sbagliata In attesa di Vs. risposta, cordialmente.",Commerciale,media,reclamo con la presente la fattura è sbagliata in attesa di vs risposta cordialmente
+690,(nessun oggetto),"Buongiorno, excel si chiude da solo Distinti saluti. quando potete",Tecnico,media,nessun oggetto buongiorno excel si chiude da solo distinti saluti quando potete
+691,straordinari,Desidero segnalare che i contributi sono sbagliati Ringraziando anticipatamente porgo cordiali saluti. quando potete,Amministrazione,bassa,straordinari desidero segnalare che i contributi sono sbagliati ringraziando anticipatamente porgo cordiali saluti quando potete
+692,catalogo,"nn riesco a fare l'ordine online, il sito da errore inoltre vi faccio presente che questa situazione va avanti da settimane sn fermo",Commerciale,alta,catalogo nn riesco a fare l'ordine online il sito da errore inoltre vi faccio presente che questa situazione va avanti da settimane sn fermo
+693,info,voglio dare le dimissioni ok?,Amministrazione,bassa,info voglio dare le dimissioni ok
+694,catalogo,Buongiorno sostituzione articolo ok? già che ci siete,Commerciale,bassa,catalogo buongiorno sostituzione articolo ok già che ci siete
+695,ERRORE SISTEMA,ANCORA?? IL PROGRAMMA SI BLOCCA SEMPRE INACCETTABILE!!! GRAZIE,Tecnico,media,errore sistema ancora il programma si blocca sempre inaccettabile grazie
+696,documento,assegni familiari ok? bloccato completamente,Amministrazione,alta,documento assegni familiari ok bloccato completamente
+697,problema,informazioni sul tfr mah n posso lavorare,Amministrazione,alta,problema informazioni sul tfr mah n posso lavorare
+698,segnalazione,devo rinnovare l'abbonamento ...non ricordo bene,Commerciale,alta,segnalazione devo rinnovare l'abbonamento non ricordo bene
+699,HELP,ANCORA?? SONO UN NUOVO CLIENTE PRETENDO UNA RISPOSTA OGGI! È URGENTE,Commerciale,alta,help ancora sono un nuovo cliente pretendo una risposta oggi è urgente
+700,bloccato,word non salva file,Tecnico,media,bloccato word non salva file
+701,730,devo scaricare la cud ma il sito non funziona ok? già che ci siete,Amministrazione,bassa,730 devo scaricare la cud ma il sito non funziona ok già che ci siete
+702,smart working,i contributi nel senso sono sbagliati (o forse era un'altra cosa?) bloccato completamente,Amministrazione,alta,smart working i contributi nel senso sono sbagliati o forse era un'altra cosa bloccato completamente
+703,stampa,vpn non si connette e aggiungo chee un mio collega ha lo stesso identico problema,Tecnico,bassa,stampa vpn non si connette e aggiungo chee un mio collega ha lo stesso identico problema
+704,bloccato,ho perso tutti documenti devo risolvere oggi!!,Tecnico,alta,bloccato ho perso tutti documenti devo risolvere oggi
+705,richiesta,NON È ACCETTABILE CHE IL PC FA RUMORI STRANI VOGLIO PARLARE CON UN RESPONSABILE!,Tecnico,media,richiesta non è accettabile che il pc fa rumori strani voglio parlare con un responsabile
+706,Re: Re:,il backup praticamente non parte mah devo partire,Tecnico,alta,re re il backup praticamente non parte mah devo partire
+707,URGENTE,"vi scrivo per non riesco a stampare ringraziando anticipatamente, porgo cordiali saluti.",Tecnico,bassa,urgente vi scrivo per non riesco a stampare ringraziando anticipatamente porgo cordiali saluti
+708,lento,teams non funzionaa grazie,Tecnico,alta,lento teams non funzionaa grazie
+709,virus?,"Spett.le ufficio, ho perso tutti i documenti Grazie per la collaborazione. non so se si può",Tecnico,bassa,virus spett le ufficio ho perso tutti i documenti grazie per la collaborazione non so se si può
+710,problema pc,lo schermi sfarfalla n ricordo bene,Tecnico,media,problema pc lo schermi sfarfalla n ricordo bene
+711,cedolino,nota spese da  insomma  approvare o qualcosa del genere,Amministrazione,bassa,cedolino nota spese da insomma approvare o qualcosa del genere
+712,VPN,la webcam non n so se mi spiego funziona mah serve subito,Tecnico,alta,vpn la webcam non n so se mi spiego funziona mah serve subito
+713,bloccato,il pc fa  più o meno  rumori strani boh,Tecnico,media,bloccato il pc fa più o meno rumori strani boh
+714,sconto,Vi scrivo per feedback sul servizio Distinti saluti.,Commerciale,media,sconto vi scrivo per feedback sul servizio distinti saluti
+715,disponibilità,promozioni attive inoltre vi faccio presente che questa situazione va avanti da settimane,Commerciale,bassa,disponibilità promozioni attive inoltre vi faccio presente che questa situazione va avanti da settimane
+716,straordinari,VI SCRIVO PER VORREI CHIEDERE LE FERIE DISTINTI SALUTI.,Amministrazione,media,straordinari vi scrivo per vorrei chiedere le ferie distinti saluti
+717,lento,il computer si spegne da solo perché come sapete è già da un po' ke ho questo problema e non so più cosa fare,Tecnico,media,lento il computer si spegne da solo perché come sapete è già da un po' ke ho questo problema e non so più cosa fare
+718,busta paga,MA È POSSIBILE CH DEVO FIRMARE IL CONTRATTO PRETENDO UNA RISPOSA OGGI!,Amministrazione,media,busta paga ma è possibile ch devo firmare il contratto pretendo una risposa oggi
+719,VIRUS?,"CIAO, IL MOUSE NON RISPONDE GRZ",Tecnico,media,virus ciao il mouse non risponde grz
+720,LEGGERE,"ANCORA?? NON MI ARRIVANO LE MAIL DEI DLIENTI, CONTROLLATE VOGLIO PARLARE CON UN RESPONSABILE! BLOCCATO COMPLETAMENTE",Tecnico,alta,leggere ancora non mi arrivano le mail dei dlienti controllate voglio parlare con un responsabile bloccato completamente
+721,segnalazione,"Con la presente vorrei un preventivo Ringraziando anticipatamente, porgo cordiali saluti",Commerciale,bassa,segnalazione con la presente vorrei un preventivo ringraziando anticipatamente porgo cordiali saluti
+722,fattura,mi serve il listino praticamente prezzi mah grazie,Commerciale,media,fattura mi serve il listino praticamente prezzi mah grazie
+723,LEGGERE,il mio  insomma  ordine è in ritardo ...non ricordo bene grazie,Commerciale,media,leggere il mio insomma ordine è in ritardo non ricordo bene grazie
+724,documento,devo parlare con hr inoltre vi faccio presente che questa situazione va avanti da settimane,Amministrazione,media,documento devo parlare con hr inoltre vi faccio presente che questa situazione va avanti da settimane
+725,schermo nero,non vedo le come dire cartelle condivise o qualcosa del genere pensavo che forse,Tecnico,bassa,schermo nero non vedo le come dire cartelle condivise o qualcosa del genere pensavo che forse
+726,ferie,"Vi scrivo per richiesta maternità Ringraziando anticipatamente, porgo cordiali saluti.",Amministrazione,media,ferie vi scrivo per richiesta maternità ringraziando anticipatamente porgo cordiali saluti
+727,spedizione,ho pagato ma non risulta devo risolvere oggi,Commerciale,alta,spedizione ho pagato ma non risulta devo risolvere oggi
+728,password,il gestionale fatture si blocca sempre quando apro le fatture inoltre vi faccio presente che questa situazione va avanti da settimane magari un giorno,Tecnico,bassa,password il gestionale fatture si blocca sempre quando apro le fatture inoltre vi faccio presente che questa situazione va avanti da settimane magari un giorno
+729,sconto,devo fare un ordine ma ho bisogno dell'approvazione del budget e aggiungo che un mio collega ha lo stesso identico problema,Commerciale,media,sconto devo fare un ordine ma ho bisogno dell'approvazione del budget e aggiungo che un mio collega ha lo stesso identico problema
+730,password,ehi sono in smart working ma il vpn non va e devo fare le note spese e un ordine grz urgentissimo,Tecnico,alta,password ehi sono in smart working ma il vpn non va e devo fare le note spese e un ordine grz urgentissimo
+731,bloccato,tastiera rotta ok?,Tecnico,media,bloccato tastiera rotta ok
+732,fattura,"Buongiorno, informazioni sui prodotti Resto in attesa di un cortese riscontro. quando potete",Commerciale,bassa,fattura buongiorno informazioni sui prodotti resto in attesa di un cortese riscontro quando potete
+733,vi prego,il prodotto è in garanzia? ok? dobbiamo consegnare,Commerciale,alta,vi prego il prodotto è in garanzia ok dobbiamo consegnare
+734,vi prego,ANCORA?? DEVO COMUNICARE LA MALATTIA PRETENDO UNA RISPOSTA OGGI! MAGARI UN GIORNO,Amministrazione,bassa,vi prego ancora devo comunicare la malattia pretendo una risposta oggi magari un giorno
+735,internet,"Buongiorno, schermo nero quando accendo Resto in attesa di un cortese riscontro",Tecnico,bassa,internet buongiorno schermo nero quando accendo resto in attesa di un cortese riscontro
+736,offerta,Basta! assistenza post vendita Non è possibile andare avanti così! È URGENTE,Commerciale,alta,offerta basta assistenza post vendita non è possibile andare avanti così è urgente
+737,sconto,spedizione urgente ah dimenticavo questa kosa urgnte qando potete rispondete,Commerciale,media,sconto spedizione urgente ah dimenticavo questa kosa urgnte qando potete rispondete
+738,SPEDIZIONE,MA È POSSIBILE CHE SPEDIZIONE URGENTE NON È POSSIBILE ANDARE AVANTI COSÌ!,Commerciale,alta,spedizione ma è possibile che spedizione urgente non è possibile andare avanti così
+739,straordinari,devo fare una trasferta perché come sapete è già da un po' che ho questo problema e non so più cosa fare,Amministrazione,media,straordinari devo fare una trasferta perché come sapete è già da un po' che ho questo problema e non so più cosa fare
+740,cliente,devo rinnovare l'abbonamento mah aspetto risposta,Commerciale,media,cliente devo rinnovare l'abbonamento mah aspetto risposta
+741,rimborso,devo comunicare la malattia e volevo anche dire che ho già provato di tutto ma non funziona niente,Amministrazione,media,rimborso devo comunicare la malattia e volevo anche dire che ho già provato di tutto ma non funziona niente
+742,schermo nero,"CIAO, TEAMS NON FUNZIONA GRAZIE! NON POSSO LAVORARE",Tecnico,alta,schermo nero ciao teams non funziona grazie non posso lavorare
+743,schermo nero,vppn non si connette,Tecnico,media,schermo nero vppn non si connette
+744,cedolino,cambio mansione perché come sapete è già da un po' che ho questo problema e non so più cosa fare devo partire,Amministrazione,alta,cedolino cambio mansione perché come sapete è già da un po' che ho questo problema e non so più cosa fare devo partire
+745,prodotto,ssotituzione articolo ...non ricordo bene,Commerciale,media,prodotto ssotituzione articolo non ricordo bene
+746,rotto,posso avere uno sconto comunque sia vi chiedo di intervenire il prima possibilie se potete,Commerciale,media,rotto posso avere uno sconto comunque sia vi chiedo di intervenire il prima possibilie se potete
+747,bloccato,Desidero segnalare che ho preso un virus Distinti saluti.,Tecnico,bassa,bloccato desidero segnalare che ho preso un virus distinti saluti
+748,busta paga,Buongiorno gli straordinari non sono stati pagati ok? non c'è fretta,Amministrazione,bassa,busta paga buongiorno gli straordinari non sono stati pagati ok non c'è fretta
+749,busta paga,mi serve certificato lavoro,Amministrazione,media,busta paga mi serve certificato lavoro
+750,vpn,Con la presente schermo nero quando accendo Resto in attesa di un cortese riscontro. il cliente aspetta,Tecnico,alta,vpn con la presente schermo nero quando accendo resto in attesa di un cortese riscontro il cliente aspetta
+751,straordinari,Ehi voglio dare le dimissioni graz curiosità,Amministrazione,bassa,straordinari ehi voglio dare le dimissioni graz curiosità
+752,lento,sono in smart più o meno working ma il vpn non va e devo fare le note spese e un ordine boh non è urgente,Tecnico,bassa,lento sono in smart più o meno working ma il vpn non va e devo fare le note spese e un ordine boh non è urgente
+753,offerta,"ciao, il prodotto è in gaeanzia? grz",Commerciale,media,offerta ciao il prodotto è in gaeanzia grz
+754,errore,non riesco ad accedere al portale vedere busta paga,Tecnico,media,errore non riesco ad accedere al portale vedere busta paga
+755,ORDINE,ancora?? sollecito pagamento voglio parlare con un responsabile! solo per sapere,Commerciale,bassa,ordine ancora sollecito pagamento voglio parlare con un responsabile solo per sapere
+756,LEGGERE,devo firmare il contratto e volevo anche dire che ho già provato di tutto ma non funziona niente il cliente aspetta,Amministrazione,alta,leggere devo firmare il contratto e volevo anche dire che ho già provato di tutto ma non funziona niente il cliente aspetta
+757,urgente,documenti per come dire la banca (o forse era un'altra cosa?),Amministrazione,bassa,urgente documenti per come dire la banca o forse era un'altra cosa
+758,non funziona,"Spett.le ufficio, devo scaricare la cud ma il sito non funziona Ringraziando anticipatamente, porgo cordiali saluti. fatemi sapere",Amministrazione,media,non funziona spett le ufficio devo scaricare la cud ma il sito non funziona ringraziando anticipatamente porgo cordiali saluti fatemi sapere
+759,help,ci sono offerte ...non ricordo bene è urgente,Commerciale,alta,help ci sono offerte non ricordo bene è urgente
+760,disponibilità,ANCORA?? DEVO RINNOVARE L'ABBONAMENTO INACCETTABILE!!!,Commerciale,alta,disponibilità ancora devo rinnovare l'abbonamento inaccettabile
+761,richiesta,Con la presente il wifi n prende In attesa di Vs. risposta cordialmennte. curiosità,Tecnico,bassa,richiesta con la presente il wifi n prende in attesa di vs risposta cordialmennte curiosità
+762,stampa,BASTA! HO PERSO TUTTI I DOCUMENTI È LA TERZA VOLTA CHE LO SEGNALO!!,Tecnico,media,stampa basta ho perso tutti i documenti è la terza volta che lo segnalo
+763,cliente,devo rinnovare l'abbonamento boh il capo chiede,Commerciale,alta,cliente devo rinnovare l'abbonamento boh il capo chiede
+764,prodotto,Salve verifica credito grazie!,Commerciale,alta,prodotto salve verifica credito grazie
+765,info,internet non funziona ...non ricordo bene serve subito,Tecnico,alta,info internet non funziona non ricordo bene serve subito
+766,LEGGERE,la webcam non funziona ok? solo per sapere,Tecnico,bassa,leggere la webcam non funziona ok solo per sapere
+767,HR,informazioni prestito aziendale e volevo anche dire che ho già provato di tutto ma non funziona niente siamo in ritardo,Amministrazione,alta,hr informazioni prestito aziendale e volevo anche dire che ho già provato di tutto ma non funziona niente siamo in ritardo
+768,problema,word nn salva file,Tecnico,media,problema word nn salva file
+769,internet,la webcam non funziona e aggiungo che un mio collega ha lo stesso identico problema bloccato completamente,Tecnico,alta,internet la webcam non funziona e aggiungo che un mio collega ha lo stesso identico problema bloccato completamente
+770,straordinari,devo comunicare la cioè malattia o qualcosa del genere,Amministrazione,media,straordinari devo comunicare la cioè malattia o qualcosa del genere
+771,pc rotto,Con la presente tastiera rotta Resto in attesa di un cortese riscontro. deadline domani,Tecnico,alta,pc rotto con la presente tastiera rotta resto in attesa di un cortese riscontro deadline domani
+772,segnalazione,Ma è possibile che ho perso tutti i documenti Voglio parlare con un responsabile!,Tecnico,media,segnalazione ma è possibile che ho perso tutti i documenti voglio parlare con un responsabile
+773,help,Non è accettabile che aiuto con il 730 Voglio parlare con un responsabile!,Amministrazione,bassa,help non è accettabile che aiuto con il 730 voglio parlare con un responsabile
+774,preventivo,mi srve il listino prezzi e volevo ank dire che ho già provato di tutto ma non funziona niente riunione importante,Commerciale,alta,preventivo mi srve il listino prezzi e volevo ank dire che ho già provato di tutto ma non funziona niente riunione importante
+775,schermo nero,teams non funziona e aggiungo che un mio collega ha lo stesso identico problema non è urgnte!!!,Tecnico,bassa,schermo nero teams non funziona e aggiungo che un mio collega ha lo stesso identico problema non è urgnte
+776,COMPUTER,Con la presente il mouse non risponde Distinti saluti.,Tecnico,media,computer con la presente il mouse non risponde distinti saluti
+777,pc rotto,SALVE LA WEBCAM NN FUNZINA GRAZIE!,Tecnico,media,pc rotto salve la webcam nn funzina grazie
+778,vpn,"Gentilissimi, nn riesco ad accedere al computer Grazie per la collaborazione. non è urgente",Tecnico,bassa,vpn gentilissimi nn riesco ad accedere al computer grazie per la collaborazione non è urgente
+779,cedolino,cambio mansione ...non ricordo bene sono fermo,Amministrazione,alta,cedolino cambio mansione non ricordo bene sono fermo
+780,malattia,MA È POSSIBILE CHE GLI STRAORDINARI NON SONO STATI PAGATI VOGLIO PARLARE CON UN RESPONSABILE! SERVE SUBITO,Amministrazione,alta,malattia ma è possibile che gli straordinari non sono stati pagati voglio parlare con un responsabile serve subito
+781,SUPPORTO,"ANCORA?? LA MAIL PER LE NOTE SPESE NON PARTE, COME FACCIO VOGLIO PARLARE CON UN RESPONSABILE! E URGENTE",Amministrazione,alta,supporto ancora la mail per le note spese non parte come faccio voglio parlare con un responsabile e urgente
+782,LEGGERE,la password non funziona più thx urgentissimo,Tecnico,alta,leggere la password non funziona più thx urgentissimo
+783,spedizione,upgrade del piano,Commerciale,media,spedizione upgrade del piano
+784,virus?,"Ciao, tastiera rotta grz",Tecnico,bassa,virus ciao tastiera rotta grz
+785,catalogo,avete il catalogo e volevo anche dire che ho già provato di tutto ma non funziona niente,Commerciale,bassa,catalogo avete il catalogo e volevo anche dire che ho già provato di tutto ma non funziona niente
+786,pagamento,upgrade del piano boh riunione importante,Commerciale,alta,pagamento upgrade del piano boh riunione importante
+787,(nessun oggetto),ho perso tutti documenti presentazione tra poco,Tecnico,alta,nessun oggetto ho perso tutti documenti presentazione tra poco
+788,errore,salve verifica credito,Commerciale,media,errore salve verifica credito
+789,cliente,"non riesco fare l'ordine online, sito errore",Commerciale,media,cliente non riesco fare l'ordine online sito errore
+790,fattura,posso avere uno  più o meno  sconto boh bloccato completamente,Commerciale,alta,fattura posso avere uno più o meno sconto boh bloccato completamente
+791,richiesta,word non salva i file comunque sia vi chiedo di intervenire il prima possibile se potete è un'emergenza,Tecnico,alta,richiesta word non salva i file comunque sia vi chiedo di intervenire il prima possibile se potete è un'emergenza
+792,bloccato,VI SCRIVO PER NON HO PIÙ SPAZIO SUL DISCO DISTINTI SALUTI.,Tecnico,media,bloccato vi scrivo per non ho più spazio sul disco distinti saluti
+793,errore,devo parlare con insomma hr ...non ricordo bene,Amministrazione,bassa,errore devo parlare con insomma hr non ricordo bene
+794,CLIENTE,PER L'ENNESIMA VOLTA: IL MIO ORDINE È IN RITARDO INACCETTABILE!!!,Commerciale,bassa,cliente per l'ennesima volta il mio ordine è in ritardo inaccettabile
+795,730,mi serve la cud inoltre vi faccio presente che questa situszione va avanti da settimane,Amministrazione,media,730 mi serve la cud inoltre vi faccio presente che questa situszione va avanti da settimane
+796,RIMBORSO,informazioni sul tfr inoltre vi faccio presente che questa situazione va avanti da settimane,Amministrazione,bassa,rimborso informazioni sul tfr inoltre vi faccio presente che questa situazione va avanti da settimane
+797,permesso,contributi sono sbagliati,Amministrazione,bassa,permesso contributi sono sbagliati
+798,info,la password non funziona  insomma  più o qualcosa del genere,Tecnico,media,info la password non funziona insomma più o qualcosa del genere
+799,sconto,assistenza post vendita una cosina veloce: non riesco più ad accedere a nulla,Commerciale,media,sconto assistenza post vendita una cosina veloce non riesco più ad accedere a nulla
+800,segnalazione,"Gentilissimi, non mi fa entrare nel sistema Grazie per la collaborazione. curiosità",Tecnico,bassa,segnalazione gentilissimi non mi fa entrare nel sistema grazie per la collaborazione curiosità
+801,preventivo,"Ciao, mi serve il listino prezzi thx curiosità?!",Commerciale,bassa,preventivo ciao mi serve il listino prezzi thx curiosità
+802,stampa,excel si chiude da solo comunque sia vi chiedo di intervenire il prima possibile se potete se avete tempo,Tecnico,bassa,stampa excel si chiude da solo comunque sia vi chiedo di intervenire il prima possibile se potete se avete tempo
+803,internet,il monitor non si accende grz se avete tempo,Tecnico,bassa,internet il monitor non si accende grz se avete tempo
+804,(nessun oggetto),MA È POSSIBILE CHE IL PRODOTTO È IN GARANZIA? È LA TERZA VOLTA CHE LO SEGNALO!! URGENTISSIMO,Commerciale,alta,nessun oggetto ma è possibile che il prodotto è in garanzia è la terza volta che lo segnalo urgentissimo
+805,errore sistema,"Ciao, non mi fa entrare nel sistema thx se avete tempo",Tecnico,bassa,errore sistema ciao non mi fa entrare nel sistema thx se avete tempo
+806,rete,SCHERMO NERO QUANDO ACCENDO COMUNQUE SIA VI CHIEDO DI INTERVENIRE IL PRIMA POSSIBILE SE POTETE GRAZIE,Tecnico,media,rete schermo nero quando accendo comunque sia vi chiedo di intervenire il prima possibile se potete grazie
+807,cedolino,Buongiorno detrazioni fiscali una cosina veloce: non riesco più ad accedere a nulla,Amministrazione,media,cedolino buongiorno detrazioni fiscali una cosina veloce non riesco più ad accedere a nulla
+808,prodotto,"info sui prodotti grz so ke e' urgente ma n c'è fretta, fate con comodo",Commerciale,media,prodotto info sui prodotti grz so ke e' urgente ma n c'è fretta fate con comodo
+809,contratto,BASTA! DETRAZIONI FISCALI PRETENDO UNA RISPOSTA OGGI!,Amministrazione,bassa,contratto basta detrazioni fiscali pretendo una risposta oggi
+810,PASSWORD,Ancora?? il gestionale fatture si blocca sempre quando apro le fatture Pretendo una risposta OGGI!,Tecnico,media,password ancora il gestionale fatture si blocca sempre quando apro le fatture pretendo una risposta oggi
+811,COMPUTER,non riesco ad accedere  non so se mi spiego  al computer boh,Tecnico,media,computer non riesco ad accedere non so se mi spiego al computer boh
+812,PROBLEMA PC,Basta! il pc non funziona e non riesco a mandare l'ordine né a timbrre le ferie Pretendo una risposta OGGI!,Tecnico,media,problema pc basta il pc non funziona e non riesco a mandare l'ordine né a timbrre le ferie pretendo una risposta oggi
+813,hr,richiesta smart working inoltre vi faccio presente che questa situazione va avanti da settimane,Amministrazione,media,hr richiesta smart working inoltre vi faccio presente che questa situazione va avanti da settimane
+814,fwd:,"Ehi il sistema delle ferie non mi fa inserire la richiesta, da errore thx",Amministrazione,bassa,fwd ehi il sistema delle ferie non mi fa inserire la richiesta da errore thx
+815,urgente,Ma è possibile ch vorrei dei campioni Non è possibilr andare avanti così! grazie!!!,Commerciale,media,urgente ma è possibile ch vorrei dei campioni non è possibilr andare avanti così grazie
+816,CONTRATTO,"Non è accettabile che la mail per le note spese nn parte, come faccio Inaccettabile",Amministrazione,bassa,contratto non è accettabile che la mail per le note spese nn parte come faccio inaccettabile
+817,errore sistema,il mouse non risponde grazie! devo partire,Tecnico,alta,errore sistema il mouse non risponde grazie devo partire
+818,aiuto,teams non funziona ciao aspetto risposta,Tecnico,media,aiuto teams non funziona ciao aspetto risposta
+819,disponibilità,Ancora?? devo fare un reso Voglio parlare con un responsabile!,Commerciale,media,disponibilità ancora devo fare un reso voglio parlare con un responsabile
+820,vi prego,Desidero segnalare che devo modificare l'ordine Grazie per la collaborazione.,Commerciale,media,vi prego desidero segnalare che devo modificare l'ordine grazie per la collaborazione
+821,internet,"Ciao, ho preso un virus fatemi sapere",Tecnico,media,internet ciao ho preso un virus fatemi sapere
+822,help,excel si chiude da solo e aggiungo che un mio collega ha lo stesso identico problema presentazione tra poco,Tecnico,alta,help excel si chiude da solo e aggiungo che un mio collega ha lo stesso identico problema presentazione tra poco
+823,mail,nonn mi fa entrare nel non so se mi spiego sistema ...non ricordo bene già che ci siete,Tecnico,bassa,mail nonn mi fa entrare nel non so se mi spiego sistema non ricordo bene già che ci siete
+824,lento,salve ho preso un virus thx,Tecnico,media,lento salve ho preso un virus thx
+825,spedizione,"non riesco  più o meno  a fare l'ordine online, il sito da errore o qualcosa del genere",Commerciale,media,spedizione non riesco più o meno a fare l'ordine online il sito da errore o qualcosa del genere
+826,richiesta,gli straordinari non  nel senso  sono stati pagati mah,Amministrazione,alta,richiesta gli straordinari non nel senso sono stati pagati mah
+827,spedizione,"Desidero segnalare ch la fattura è sbagliata In attesa di Vs. risposta, cordialmente.",Commerciale,bassa,spedizione desidero segnalare ch la fattura è sbagliata in attesa di vs risposta cordialmente
+828,busta paga,ANCORA?? DEVO COMUNICARE LA MALATTIA INACCETTABILE!!! URGENTE,Amministrazione,alta,busta paga ancora devo comunicare la malattia inaccettabile urgente
+829,malattia,NON E ACCETTABILE CHE DEVO COMUNICARE LA MALATTIA PRETENDO UNA RISPOSTA OGGI!,Amministrazione,media,malattia non e accettabile che devo comunicare la malattia pretendo una risposta oggi
+830,reso,voglio annullare l'ordine?!,Commerciale,media,reso voglio annullare l'ordine
+831,smart working,Con la presente assegni familiari Distinti saluti. se avete tempo,Amministrazione,bassa,smart working con la presente assegni familiari distinti saluti se avete tempo
+832,PRODOTTO,Ma è possibile che voglio annullare l'ordine Non è possibile andare avanti così! sono fermo,Commerciale,alta,prodotto ma è possibile che voglio annullare l'ordine non è possibile andare avanti così sono fermo
+833,lento,outlook nn si apre perché come sapete é già da un po' che ho qsto problema e non so più cosa fare urgentissimo,Tecnico,alta,lento outlook nn si apre perché come sapete é già da un po' che ho qsto problema e non so più cosa fare urgentissimo
+834,730,Salve il contratto scade grz,Amministrazione,media,730 salve il contratto scade grz
+835,pagamento,PROMOZIONI ATTIVE GRAZIE,Commerciale,media,pagamento promozioni attive grazie
+836,offerta,"Vi scrivo per devo rinnovare l'abbonamento Ringraziando anticipatamente, porgo cordiali saluti. una cosina veloce: non riesco più ad accedere a nulla",Commerciale,media,offerta vi scrivo per devo rinnovare l'abbonamento ringraziando anticipatamente porgo cordiali saluti una cosina veloce non riesco più ad accedere a nulla
+837,non funziona,vpn non si connette e volevo anche dire ch ho già provato di tutto ma non funziona niente,Tecnico,media,non funziona vpn non si connette e volevo anche dire ch ho già provato di tutto ma non funziona niente
+838,stampa,mouse non risponde!!,Tecnico,bassa,stampa mouse non risponde
+839,non va,il pc fa rumori strani e aggiungo che un mio collega ha lo stesso identico problema,Tecnico,bassa,non va il pc fa rumori strani e aggiungo che un mio collega ha lo stesso identico problema
+840,ordine,"Vi scrivo per feedback sul servizio Ringraziando anticipatamente, porgo cordiali ssluti.",Commerciale,media,ordine vi scrivo per feedback sul servizio ringraziando anticipatamente porgo cordiali ssluti
+841,importante,"Spett.le ufficio, vogio dare le dimissioni In attesa di Vs. risposta, cordialmente.",Amministrazione,media,importante spett le ufficio vogio dare le dimissioni in attesa di vs risposta cordialmente
+842,contratto,la fattura del fornitore non quadra con le mie note spese thx se avete tempo,Amministrazione,bassa,contratto la fattura del fornitore non quadra con le mie note spese thx se avete tempo
+843,offerta,ho pagato ma non risulta,Commerciale,media,offerta ho pagato ma non risulta
+844,URGENTE,richiesta smart working (o forse era un'altra cosa?),Amministrazione,media,urgente richiesta smart working o forse era un'altra cosa
+845,offerta,Spett.le ufficio spedizione urgenete Resto in attesa di un cortese riscontro,Commerciale,media,offerta spett le ufficio spedizione urgenete resto in attesa di un cortese riscontro
+846,rotto,"Gentilissimi, non riesco a stampare Grazie per la collaborazione. URGENTE",Tecnico,alta,rotto gentilissimi non riesco a stampare grazie per la collaborazione urgente
+847,non va,non riesco a non so se mi spiego stampare mah se avete tempo,Tecnico,bassa,non va non riesco a non so se mi spiego stampare mah se avete tempo
+848,richiesta,voglio cambiare orario boh,Amministrazione,bassa,richiesta voglio cambiare orario boh
+849,computer,ehi schermo nero quando accendo thx non so se si può,Tecnico,bassa,computer ehi schermo nero quando accendo thx non so se si può
+850,errore sistema,il monitor  non so se mi spiego  non si accende o qualcosa del genere riunione importante,Tecnico,alta,errore sistema il monitor non so se mi spiego non si accende o qualcosa del genere riunione importante
+851,(nessun oggetto),Ma é possibile ch dov'è il mio ordine Voglio parlare con un responsabile! già ke ci siete,Commerciale,bassa,nessun oggetto ma é possibile ch dov'è il mio ordine voglio parlare con un responsabile già ke ci siete
+852,documento,Per l'ennesima volta: devo fare il rimborso spese Inaccettabile!!! magari un giorno,Amministrazione,bassa,documento per l'ennesima volta devo fare il rimborso spese inaccettabile magari un giorno
+853,problema pc,ho preso virus aspetto risposta,Tecnico,media,problema pc ho preso virus aspetto risposta
+854,vpn,internet non funziona,Tecnico,bassa,vpn internet non funziona
+855,cedolino,MA È POSSIBILE CHE IL CEDOLINO HA UN ERRORE NON È POSSIBILE ANDARE AVANTI COSÌ! SIAMO IN RITARDO,Amministrazione,alta,cedolino ma è possibile che il cedolino ha un errore non è possibile andare avanti così siamo in ritardo
+856,straordinari,Vi scrivo per la fattura del fornitore non quadra con le mie note spese Distinti saluti.,Amministrazione,alta,straordinari vi scrivo per la fattura del fornitore non quadra con le mie note spese distinti saluti
+857,non va,Basta! non vedo le cartelle condivise Inaccettabile!!!,Tecnico,media,non va basta non vedo le cartelle condivise inaccettabile
+858,spedizione,Buongiorno ho pagato ma nn risulta thx fatemi sapere,Commerciale,media,spedizione buongiorno ho pagato ma nn risulta thx fatemi sapere
+859,malattia,mi serve la cud,Amministrazione,media,malattia mi serve la cud
+860,PROBLEMA PC,gentilissimi il compiuter si spegne da solo ringraziando anticipatamente porgo cordiali saluti. fatemi sapere,Tecnico,media,problema pc gentilissimi il compiuter si spegne da solo ringraziando anticipatamente porgo cordiali saluti fatemi sapere
+861,guasto,aiuto con più o meno il 730 n ricordo bene,Amministrazione,media,guasto aiuto con più o meno il 730 n ricordo bene
+862,errore,upgrade del piano,Commerciale,bassa,errore upgrade del piano
+863,contratto,nota spese da  non so se mi spiego  approvare boh,Amministrazione,bassa,contratto nota spese da non so se mi spiego approvare boh
+864,supporto,salve lettera di referenze thx,Amministrazione,media,supporto salve lettera di referenze thx
+865,virus?,Salve il gestionale fatture si blocca sempre quando apro le fatture ciao!!!,Tecnico,media,virus salve il gestionale fatture si blocca sempre quando apro le fatture ciao
+866,Re: Re:,richiesta maternità e volevo anche dire che ho già provato di tutto ma n funziona niente devo risolvere oggi,Amministrazione,alta,re re richiesta maternità e volevo anche dire che ho già provato di tutto ma n funziona niente devo risolvere oggi
+867,BUSTA PAGA,NON È ACCETTABILE CHE DEVO PARLARE CON HR INACCETTABIPE!!!,Amministrazione,bassa,busta paga non è accettabile che devo parlare con hr inaccettabipe
+868,hr,Per l'ennesima volta: la busta paga è sbagliata Voglio parlare con un responsabile! nn so se si può,Amministrazione,bassa,hr per l'ennesima volta la busta paga è sbagliata voglio parlare con un responsabile nn so se si può
+869,vi prego,"non mi arrivano le mail dei  più o meno  clienti, controllate boh",Tecnico,bassa,vi prego non mi arrivano le mail dei più o meno clienti controllate boh
+870,Re: Re:,mail non parte riunione importante,Tecnico,alta,re re mail non parte riunione importante
+871,RE: RE:,PER L'ENNESIMA VOLTA: NOTA SPESE DA APPROVARE INACCETTABILE!!!,Amministrazione,media,re re per l'ennesima volta nota spese da approvare inaccettabile
+872,cliente,upgrade del piano devo risolvere oggi,Commerciale,alta,cliente upgrade del piano devo risolvere oggi
+873,busta paga,SALVE IL SISTEMA DELLE FERIE NON MI FA INSERIRE LA RICHIESTA DA ERRORE CIAO FATEMI SAPERE,Amministrazione,media,busta paga salve il sistema delle ferie non mi fa inserire la richiesta da errore ciao fatemi sapere
+874,schermo nero,non mi fa entrare più o meno nel sistema n ricordo bene non so se si può,Tecnico,bassa,schermo nero non mi fa entrare più o meno nel sistema n ricordo bene non so se si può
+875,cedolino,"Vi scrivo per il sistema delle ferie non mi fa inserire la richiesta, da errore Distinti saluti.",Amministrazione,media,cedolino vi scrivo per il sistema delle ferie non mi fa inserire la richiesta da errore distinti saluti
+876,assistenza,contratto di fornitura (o forse era un'altra cosa?) deadline domani,Commerciale,alta,assistenza contratto di fornitura o forse era un'altra cosa deadline domani
+877,SEGNALAZIONE,Per l'ennesima volta: mi serve un certificato di lavoro È la terza volta che lo segnalo!! se avete tempo,Amministrazione,bassa,segnalazione per l'ennesima volta mi serve un certificato di lavoro è la terza volta che lo segnalo se avete tempo
+878,NON VA,Ma è possibile che il wifi non prende Inaccettabile!!!,Tecnico,bassa,non va ma è possibile che il wifi non prende inaccettabile
+879,cliente,vorrei un preventivo inoltre vi faccio presente che questa situazione va avanti da settimane fatemi sapere,Commerciale,media,cliente vorrei un preventivo inoltre vi faccio presente che questa situazione va avanti da settimane fatemi sapere
+880,computer,"Gentilissimi, il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie Ringraziando anticipatamente, porgo cordiali saluti. fatemi sapere niente di che ma il sistema è completamente bloccato",Tecnico,media,computer gentilissimi il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie ringraziando anticipatamente porgo cordiali saluti fatemi sapere niente di che ma il sistema è completamente bloccato
+881,virus?,pc fa rumori strani curiosità,Tecnico,bassa,virus pc fa rumori strani curiosità
+882,richiesta,informazioni sul tfr mah quando potete,Amministrazione,media,richiesta informazioni sul tfr mah quando potete
+883,domanda,ANCORA?? LA WEBCAM NON FUNZIONA NON È POSSIBILE ANDARE AVANTI COSÌ!,Tecnico,media,domanda ancora la webcam non funziona non è possibile andare avanti così
+884,ordine,VERIFICA CREDITO E AGGIUNGO CHE UN MIO COLLEGA HA LO STESSO IDENTICO PROBLEMA,Commerciale,media,ordine verifica credito e aggiungo che un mio collega ha lo stesso identico problema
+885,da risolvere,Ehi devo fare il rimborso spese grazie!,Amministrazione,media,da risolvere ehi devo fare il rimborso spese grazie
+886,smart working,"Spett.le ufficio, voglio cambiare orario Resto in attesa di un cortese riscontro.",Amministrazione,media,smart working spett le ufficio voglio cambiare orario resto in attesa di un cortese riscontro
+887,SPEDIZIONE,NON È ACCETTABILE CHE AVETE IL CATALOGO PRETENDO UNA RISPOSTA OGGI!,Commerciale,media,spedizione non è accettabile che avete il catalogo pretendo una risposta oggi
+888,errore,devo fare un ordine ma ho bisogno dell'approvazione del budget inoltre vi faccio presente ke questa situazione va avanti da settimane n so se si può,Commerciale,bassa,errore devo fare un ordine ma ho bisogno dell'approvazione del budget inoltre vi faccio presente ke questa situazione va avanti da settimane n so se si può
+889,non va,PER L'ENNESIMA VOLTA: INTERNET NN FUNZIONA PRETENDO UNA RISPOSTA OGGI,Tecnico,media,non va per l'ennesima volta internet nn funziona pretendo una risposta oggi
+890,errore sistema,il mouse non risponde e aggiungo ch un mio collega ha lo stesso identico problema,Tecnico,bassa,errore sistema il mouse non risponde e aggiungo ch un mio collega ha lo stesso identico problema
+891,reso,"spett.le ufficio, devo modificare l'ordine grazie per la collaborazione.",Commerciale,media,reso spett le ufficio devo modificare l'ordine grazie per la collaborazione
+892,rotto,busta paga è sbagliata non riesco a fare niente,Amministrazione,alta,rotto busta paga è sbagliata non riesco a fare niente
+893,password,il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie inoltre vi faccio presente che questa situazione va avanti da settimane quando potete ah dimenticavo questa cosa urgente... quando potete rispondete,Tecnico,media,password il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie inoltre vi faccio presente che questa situazione va avanti da settimane quando potete ah dimenticavo questa cosa urgente quando potete rispondete
+894,internet,"ciao, il mouse non risponde grz non so se si può",Tecnico,bassa,internet ciao il mouse non risponde grz non so se si può
+895,rimborso,LA FATTURA DEL FORNITORE NON QUADRA  CIOÈ  CON LE MIE NOTE SPESE O QUALCOSA DEL GENERE,Amministrazione,media,rimborso la fattura del fornitore non quadra cioè con le mie note spese o qualcosa del genere
+896,malattia,richiesta smart working tutto bloccato,Amministrazione,alta,malattia richiesta smart working tutto bloccato
+897,internet,Basta! tastiera rotta Inaccettabile!!! grazie,Tecnico,media,internet basta tastiera rotta inaccettabile grazie
+898,guasto,la stampante  non so se mi spiego  non stampa ...non ricordo bene niente di grave,Tecnico,bassa,guasto la stampante non so se mi spiego non stampa non ricordo bene niente di grave
+899,preventivo,devo fare ordine ma ho bisogno dell'approvazione del budget,Commerciale,media,preventivo devo fare ordine ma ho bisogno dell'approvazione del budget
+900,VPN,NON È ACCETTABILE CHE IL PC NON SI ACCENDE NON È POSSIBILE ANDARE AVANTI COSÌ!?!,Tecnico,bassa,vpn non è accettabile che il pc non si accende non è possibile andare avanti così
+901,PERMESSO,Basta! assegni familiari Pretendo una risposta OGGI! URGENTISSIMO!!!,Amministrazione,alta,permesso basta assegni familiari pretendo una risposta oggi urgentissimo
+902,730,buongiorno il contratto scade grz,Amministrazione,bassa,730 buongiorno il contratto scade grz
+903,segnalazione,teams non funziona (o forse era un'altra cosa?),Tecnico,media,segnalazione teams non funziona o forse era un'altra cosa
+904,internet,non riesco ad accedere al portale per vedere la  come dire  busta paga (o forse era un'altra cosa?) URGENTE,Tecnico,alta,internet non riesco ad accedere al portale per vedere la come dire busta paga o forse era un'altra cosa urgente
+905,guasto,"non riesco a fare l'ordine online, il sito da errore e volevo anche dire che ho già provato di tutto ma non funziona niente fatemi sapere",Commerciale,media,guasto non riesco a fare l'ordine online il sito da errore e volevo anche dire che ho già provato di tutto ma non funziona niente fatemi sapere
+906,cedolino,"ANCORA?? IL SISTEMA DELLE FERIE NON MI FA INSERIRE LA RICHIESTA, DA ERRORE PRETENDO UNA RISPOSTA OGGI!",Amministrazione,media,cedolino ancora il sistema delle ferie non mi fa inserire la richiesta da errore pretendo una risposta oggi
+907,assistenza,il mio ordine è in ritardo e aggiungo ke un mio colelga ha lo stesso identico problema,Commerciale,bassa,assistenza il mio ordine è in ritardo e aggiungo ke un mio colelga ha lo stesso identico problema
+908,hr,straordinari non sono stati pagati devo risolvere oggi!!,Amministrazione,alta,hr straordinari non sono stati pagati devo risolvere oggi
+909,PAGAMENTO,"Spett.le ufficio, devo fare un reso Ringraziando anticipatamente, porgo cordiali saluti. quando potete",Commerciale,bassa,pagamento spett le ufficio devo fare un reso ringraziando anticipatamente porgo cordiali saluti quando potete
+910,contratto,ANCORA?? VORREI CHIEDERE LE FERIE È LA TERZA VOLTA CHE LO SEGNALO!!,Amministrazione,media,contratto ancora vorrei chiedere le ferie è la terza volta che lo segnalo
+911,segnalazione,"non mi arrivano le mail dei  come dire  clienti, controllate ...non ricordo bene devo partire",Tecnico,alta,segnalazione non mi arrivano le mail dei come dire clienti controllate non ricordo bene devo partire
+912,non funziona,Buongiorno verifica credito ok? grazie,Commerciale,media,non funziona buongiorno verifica credito ok grazie
+913,spedizione,Per l'ennesima volta: devo fare un reso Non è possibile andare avanti così!,Commerciale,media,spedizione per l'ennesima volta devo fare un reso non è possibile andare avanti così
+914,aiuto,promozioni attive,Commerciale,media,aiuto promozioni attive
+915,da risolvere,"spett.le ufficio, ho perso tutti i documenti grazie per la collaborazione. è un'emergenza",Tecnico,alta,da risolvere spett le ufficio ho perso tutti i documenti grazie per la collaborazione è un'emergenza
+916,(nessun oggetto),l'audio non si sente,Tecnico,alta,nessun oggetto l'audio non si sente
+917,rimborso,devo firmare contratto niente di che ma il sistema è completamente bloccato,Amministrazione,media,rimborso devo firmare contratto niente di che ma il sistema è completamente bloccato
+918,busta paga,Ciao assegni familiari thx era solo un'idea,Amministrazione,bassa,busta paga ciao assegni familiari thx era solo un'idea
+919,disponibilità,DEVO FARE UN ORDINE MA HO BISOGNO DELL'APPROVAZIONE DEL BUDGET E VOLEVO ANCHE DIRE CHE HO GIÀ PROVATO DI TUTTO MA NON FUNZIONA NIENTE GRAZIE,Commerciale,media,disponibilità devo fare un ordine ma ho bisogno dell'approvazione del budget e volevo anche dire che ho già provato di tutto ma non funziona niente grazie
+920,malattia,voglio cambiare orario e aggiungo che un mio collega ha lo stesso identico problema,Amministrazione,media,malattia voglio cambiare orario e aggiungo che un mio collega ha lo stesso identico problema
+921,permesso,Salve mi serve la cud,Amministrazione,bassa,permesso salve mi serve la cud
+922,supporto,ho bisogno permesso stiamo perdendo tempo,Amministrazione,alta,supporto ho bisogno permesso stiamo perdendo tempo
+923,730,buongiorno gli straordinari non sono stati pagati,Amministrazione,media,730 buongiorno gli straordinari non sono stati pagati
+924,richiesta,proposta di collaborazione (o forse era un'altra cosa?) non so se si può,Commerciale,bassa,richiesta proposta di collaborazione o forse era un'altra cosa non so se si può
+925,cliente,avete il catalogo inoltre vi faccio presente che questa situazione va avanti da settimane,Commerciale,media,cliente avete il catalogo inoltre vi faccio presente che questa situazione va avanti da settimane
+926,reclamo,"spett.le ufficio, l'articolo è disponibile grazie per la collaborazione. urgentissimo",Commerciale,alta,reclamo spett le ufficio l'articolo è disponibile grazie per la collaborazione urgentissimo
+927,vpn,"Desidero segnalare ch l'audio non si sente Ringraziando anticipatamente, porgo cordiali saluti.",Tecnico,bassa,vpn desidero segnalare ch l'audio non si sente ringraziando anticipatamente porgo cordiali saluti
+928,ticket,"Ciao, gli straordinari non sono stati pagati deadline domani",Amministrazione,alta,ticket ciao gli straordinari non sono stati pagati deadline domani
+929,preventivo,Ehi verifica credito thx riunione importante,Commerciale,alta,preventivo ehi verifica credito thx riunione importante
+930,busta paga,"gentilissimi, devo scaricare la cud ma il sito non funziona in attesa di vs. risposta, cordialmente. serve subitto!!",Amministrazione,alta,busta paga gentilissimi devo scaricare la cud ma il sito non funziona in attesa di vs risposta cordialmente serve subitto
+931,CONTRATTO,NN E' QCCETTABILE CHE DEVO FARR IL RIMBORSO SPESE NON É POSSIBILE ANDARE AVANTI COSÌ!,Amministrazione,media,contratto nn e' qccettabile che devo farr il rimborso spese non é possibile andare avanti così
+932,reclamo,assistenza post vendita,Commerciale,alta,reclamo assistenza post vendita
+933,hr,aiuto con il insomma 730 ...non ricordo bene grazie,Amministrazione,media,hr aiuto con il insomma 730 non ricordo bene grazie
+934,cedolino,"ciao, devo fare una trasferta grz non c'è fretta",Amministrazione,bassa,cedolino ciao devo fare una trasferta grz non c'è fretta
+935,guasto,"la mail per le note spese non parte, come faccio comunque sia vi chiedo di intervenire il prima possibile se potete quando potete",Amministrazione,media,guasto la mail per le note spese non parte come faccio comunque sia vi chiedo di intervenire il prima possibile se potete quando potete
+936,ferie,devo scaricare la cud ma il sito non funziona e aggiungo che un mio collega ha lo stesso identico problema magari un giorno,Amministrazione,bassa,ferie devo scaricare la cud ma il sito non funziona e aggiungo che un mio collega ha lo stesso identico problema magari un giorno
+937,leggere,Salve devo fare una trasferta aspetto risposta,Amministrazione,media,leggere salve devo fare una trasferta aspetto risposta
+938,importante,contributi sono sbagliati,Amministrazione,media,importante contributi sono sbagliati
+939,assistenza,Non è accettabile ch devo fare un reso Voglio parlare con un responsabile!?!,Commerciale,media,assistenza non è accettabile ch devo fare un reso voglio parlare con un responsabile
+940,ORDINE,"NON É ACCETTABILE CHE NN RIESCO A FARE L'ORDINE ONLINE, IL SITO DA ERRORE PRETENDO UNA RISPOSTA OGGI!",Commerciale,media,ordine non é accettabile che nn riesco a fare l'ordine online il sito da errore pretendo una risposta oggi
+941,virus?,pc fa rumori strani,Tecnico,media,virus pc fa rumori strani
+942,problema,internet non funziona,Tecnico,media,problema internet non funziona
+943,documento,devo scaricare cud ma sito non funziona,Amministrazione,media,documento devo scaricare cud ma sito non funziona
+944,malattia,per l'ennesima volta: lettera di referenze Non e' possibile andare avanti così,Amministrazione,media,malattia per l'ennesima volta lettera di referenze non e' possibile andare avanti così
+945,730,la busta paga è sbagliata e volevo anche dire che ho già provato di tutto ma non funziona niente sono fermo,Amministrazione,alta,730 la busta paga è sbagliata e volevo anche dire che ho già provato di tutto ma non funziona niente sono fermo
+946,re: re:,monitor non si accende presentazione tra poco,Tecnico,alta,re re monitor non si accende presentazione tra poco
+947,LENTO,Basta! il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie Pretendo una risposta OGGI! DEADLINE DOMANI,Tecnico,alta,lento basta il pc non funziona e non riesco a mandare l'ordine né a timbrare le ferie pretendo una risposta oggi deadline domani
+948,errore sistema,non vedo cartelle condivise,Tecnico,media,errore sistema non vedo cartelle condivise
+949,spedizione,il prodotto è difettoso e aggiungo che un mio collega ha lo stesso identico problema non posso lavorare,Commerciale,alta,spedizione il prodotto è difettoso e aggiungo che un mio collega ha lo stesso identico problema non posso lavorare
+950,non va,"Vi scrivo per il backup non parte Ringraziando anticipatamente, porgo cordiali saluti. aspetto risposta",Tecnico,media,non va vi scrivo per il backup non parte ringraziando anticipatamente porgo cordiali saluti aspetto risposta
+951,problema,Per l'ennesima volta: voglio dare le dimissioni Pretendo una risposta OGGI! grazie,Amministrazione,media,problema per l'ennesima volta voglio dare le dimissioni pretendo una risposta oggi grazie
+952,da risolvere,il pc non si accende comunque sia vi chiedo di intervenire il prima possibile se potete curiosità,Tecnico,bassa,da risolvere il pc non si accende comunque sia vi chiedo di intervenire il prima possibile se potete curiosità
+953,password,"Buongiorno, il computer si spegne da solo Distinti saluti. fatemi sapere",Tecnico,media,password buongiorno il computer si spegne da solo distinti saluti fatemi sapere
+954,cliente,contratto fornitura!!,Commerciale,media,cliente contratto fornitura
+955,ASSISTENZA,Buongiorno informazioni prestito aziendale ciao solo per sapere,Amministrazione,bassa,assistenza buongiorno informazioni prestito aziendale ciao solo per sapere
+956,computer,il computer si spegne da solo comunque sia vi chiedo di intervenire il prima possibile se potete pensavo ch forse,Tecnico,bassa,computer il computer si spegne da solo comunque sia vi chiedo di intervenire il prima possibile se potete pensavo ch forse
+957,DA RISOLVERE,vorrei un preventivo boh è un'emergenza,Commerciale,alta,da risolvere vorrei un preventivo boh è un'emergenza
+958,INFO,"Gentilissimi, sollecito pagamento In attesa di Vs. risposta, cordialmente. bloccato completamente",Commerciale,alta,info gentilissimi sollecito pagamento in attesa di vs risposta cordialmente bloccato completamente
+959,straordinari,Vi scrivo per mi serve un certificato di lavoro Grazie per la collaborazione. urgentissimo,Amministrazione,alta,straordinari vi scrivo per mi serve un certificato di lavoro grazie per la collaborazione urgentissimo
+960,virus?,il gestionale fatture si blocca sempre quando apro le fatture perché come sapete è già da un po' che ho qsto problema e non so più cosa fare serve subito!!,Tecnico,alta,virus il gestionale fatture si blocca sempre quando apro le fatture perché come sapete è già da un po' che ho qsto problema e non so più cosa fare serve subito
+961,spedizione,Con la presente verifica credito Resto in attesa di un cortese riscontro. quando potete,Commerciale,media,spedizione con la presente verifica credito resto in attesa di un cortese riscontro quando potete
+962,problema,voglio annullare l'ordine e aggiungo che un mio collega ha lo stesso identico problema magari un giorno,Commerciale,bassa,problema voglio annullare l'ordine e aggiungo che un mio collega ha lo stesso identico problema magari un giorno
+963,bloccato,tastiera rotta serve subito,Tecnico,alta,bloccato tastiera rotta serve subito
+964,permesso,ASSEGNI FAMILIARI CIAO QUANDO POTETE,Amministrazione,media,permesso assegni familiari ciao quando potete
+965,bloccato,lo schermo sfarfalla ok?,Tecnico,alta,bloccato lo schermo sfarfalla ok
+966,urgente,Ehi la webcam non funziona grazie!,Tecnico,media,urgente ehi la webcam non funziona grazie
+967,cedolino,"Buongiorno, la mail per le note spese non parte, come faccio Resto in attesa di un cortese riscontro. bloccato completamente",Amministrazione,alta,cedolino buongiorno la mail per le note spese non parte come faccio resto in attesa di un cortese riscontro bloccato completamente
+968,aiuto,schermo sfarfalla,Tecnico,media,aiuto schermo sfarfalla
+969,problema,password non funziona più curiosità!!,Tecnico,bassa,problema password non funziona più curiosità
+970,bloccato,"non mi arrivano le mail praticamente dei cliemti, controllate ...non ricordo bene",Tecnico,media,bloccato non mi arrivano le mail praticamente dei cliemti controllate non ricordo bene
+971,errore,Ehi non riessco a stampare thx URGENTE,Tecnico,alta,errore ehi non riessco a stampare thx urgente
+972,reso,"Con la presente non riesco a fare l'ordine online, il sito da errore Grazie per la collaborazione.",Commerciale,bassa,reso con la presente non riesco a fare l'ordine online il sito da errore grazie per la collaborazione
+973,stampa,Ehi non ho più spazio sul disco ok? qando potete,Tecnico,media,stampa ehi non ho più spazio sul disco ok qando potete
+974,ufficio personale,i contributi sono sbagliati thx era solo un'idea,Amministrazione,bassa,ufficio personale i contributi sono sbagliati thx era solo un'idea
+975,documento,devo comunicare  insomma  la malattia ...non ricordo bene grazie,Amministrazione,media,documento devo comunicare insomma la malattia non ricordo bene grazie
+976,ufficio personale,fattura del fornitore non quadra mie note spese,Amministrazione,media,ufficio personale fattura del fornitore non quadra mie note spese
+977,rete,BASTA! NN MI FA ENRTARE NEL SISTEMA NON E' POSSIBILE ANDARE AVANTI COSÌ! ASPETTO RISPOSTA,Tecnico,media,rete basta nn mi fa enrtare nel sistema non e' possibile andare avanti così aspetto risposta
+978,smart working,aiuto con il 730 pk come sapete è già da un po' che ho qsto problema e non so più cosa fare devo partire,Amministrazione,alta,smart working aiuto con il 730 pk come sapete è già da un po' che ho qsto problema e non so più cosa fare devo partire
+979,problema pc,la stampante  più o meno  non stampa o qualcosa del genere curiosità,Tecnico,bassa,problema pc la stampante più o meno non stampa o qualcosa del genere curiosità
+980,Re: Re:,word non diciamo ch salva i file o qualcosa del genere,Tecnico,media,re re word non diciamo ch salva i file o qualcosa del genere
+981,730,Non è accettabile che devo comunicare la malattia Non è possibile andare avanti così! quando potete,Amministrazione,media,730 non è accettabile che devo comunicare la malattia non è possibile andare avanti così quando potete
+982,rimborso,nota spese  nel senso  da approvare (o forse era un'altra cosa?) quando potete,Amministrazione,bassa,rimborso nota spese nel senso da approvare o forse era un'altra cosa quando potete
+983,mail,internet non funziona (o forse era un'altra cosa?),Tecnico,bassa,mail internet non funziona o forse era un'altra cosa
+984,schermo nero,"Spett.le ufficio, nn riesco a stampare Grazie per la collaborazione.",Tecnico,alta,schermo nero spett le ufficio nn riesco a stampare grazie per la collaborazione
+985,documento,devo comunicare la malattia,Amministrazione,bassa,documento devo comunicare la malattia
+986,internet,mouse non risponde non so se si può,Tecnico,bassa,internet mouse non risponde non so se si può
+987,non va,Vi scrivo per non mi fa entrare nel sistema Distinti saluti. era solo un'idea,Tecnico,bassa,non va vi scrivo per non mi fa entrare nel sistema distinti saluti era solo un'idea
+988,mail,non ho più spazio sul disco devo risolvere oggi,Tecnico,alta,mail non ho più spazio sul disco devo risolvere oggi
+989,stampa,la webcam non funziona comunque sia vi chiedo di intervenire il prima possibile se potete il cliente aspetta,Tecnico,alta,stampa la webcam non funziona comunque sia vi chiedo di intervenire il prima possibile se potete il cliente aspetta
+990,non funziona,Buongiorno word non salva i file ciao,Tecnico,alta,non funziona buongiorno word non salva i file ciao
+991,vi prego,Per l'ennesima volta: la password non funziona più Inaccettabile!!!,Tecnico,bassa,vi prego per l'ennesima volta la password non funziona più inaccettabile
+992,errore sistema,Ma e possibilie che sn in smart working ma il vpn n va e devo fare le note spese e un ordine Pretendo una risposta OGGI!,Tecnico,alta,errore sistema ma e possibilie che sn in smart working ma il vpn n va e devo fare le note spese e un ordine pretendo una risposta oggi
+993,problema,"Spett.le ufficio, il cedolino ha un errore Grazie per la collaborazione. non c'è fretta",Amministrazione,bassa,problema spett le ufficio il cedolino ha un errore grazie per la collaborazione non c'è fretta
+994,UFFICIO PERSONALE,Non è accettabile che devo fare il rimborso spese Voglio parlare con un responsabile! se avete tempo,Amministrazione,bassa,ufficio personale non è accettabile che devo fare il rimborso spese voglio parlare con un responsabile se avete tempo
+995,disponibilità,"Con la presente posso avere uno sconto In attesa di Vs. risposta, cordialmente. il cliente aspetta",Commerciale,alta,disponibilità con la presente posso avere uno sconto in attesa di vs risposta cordialmente il cliente aspetta
+996,non funziona,informazioni sul tfr,Amministrazione,media,non funziona informazioni sul tfr
+997,rimborso,voglio dare dimissioni non posso lavorare,Amministrazione,alta,rimborso voglio dare dimissioni non posso lavorare
+998,busta paga,ho bisogno di un permesso grazie,Amministrazione,media,busta paga ho bisogno di un permesso grazie
+999,documento,"la mail per le note spese non parte, come faccio comunque sia vi chiedo di intervenire il prima possibile se potete",Amministrazione,media,documento la mail per le note spese non parte come faccio comunque sia vi chiedo di intervenire il prima possibile se potete
+1000,computer,Basta! il pc fa rumori strani È la terza volta che lo segnalo!! È URGENTE,Tecnico,alta,computer basta il pc fa rumori strani è la terza volta che lo segnalo è urgente
