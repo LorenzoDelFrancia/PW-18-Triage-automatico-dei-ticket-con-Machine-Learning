@@ -1,6 +1,6 @@
 # Triage Automatico dei Ticket con Machine Learning
 
-Progetto universitario per la classificazione automatica di ticket di supporto.
+Progetto universitario per la classificazione automatica di ticket.
 
 ## Cos'è?
 
@@ -10,7 +10,7 @@ Un sistema che legge i ticket e predice automaticamente:
 
 ## Prova il progetto
 
-👉 **[Dashboard](https://triage-ticket.streamlit.app/)** - puoi testarlo direttamente online
+👉 **[Dashboard](https://triage-ticket.streamlit.app/)**
 
 ## Come funziona
 
