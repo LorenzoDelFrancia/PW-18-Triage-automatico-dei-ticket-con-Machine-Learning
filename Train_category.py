@@ -41,8 +41,8 @@ cm_linear = confusion_matrix(y_test_cat, y_pred_cat_linear)
 print("SVM Lineare - Categoria")
 print("Accuracy:", accuracy_cat_linear)
 print("F1 Score (Macro):", f1_cat_linear)
-print("Confusion Matrix:\n", cm_linear)
-print("\nClassification Report:\n", classification_report(y_test_cat, y_pred_cat_linear))
+print("Matrice di confusione:\n", cm_linear)
+print("\nReport di classificazione:\n", classification_report(y_test_cat, y_pred_cat_linear))
 
 # SVM RBF
 svm_rbf_model_cat = SVC(kernel='rbf', C=1, random_state=42, class_weight='balanced')
@@ -56,8 +56,8 @@ cm_rbf = confusion_matrix(y_test_cat, y_pred_cat_rbf)
 print("SVM RBF - Categoria")
 print("Accuracy:", accuracy_cat_rbf)
 print("F1 Score (Macro):", f1_cat_rbf)
-print("Confusion Matrix:\n", cm_rbf)
-print("\nClassification Report:\n", classification_report(y_test_cat, y_pred_cat_rbf))
+print("Matrice di confusione:\n", cm_rbf)
+print("\nReport di classificazione:\n", classification_report(y_test_cat, y_pred_cat_rbf))
 
 # MLP (Rete Neurale)
 mlp_model_cat = MLPClassifier(hidden_layer_sizes=(100,), max_iter=300, random_state=42)
@@ -71,8 +71,8 @@ cm_mlp = confusion_matrix(y_test_cat, y_pred_cat_mlp)
 print("MLP Classifier - Categoria")
 print("Accuracy:", accuracy_cat_mlp)
 print("F1 Score (Macro):", f1_cat_mlp)
-print("Confusion Matrix:\n", cm_mlp)
-print("\nClassification Report:\n", classification_report(y_test_cat, y_pred_cat_mlp))
+print("Matrice di confusione:\n", cm_mlp)
+print("\nReport di classificazione:\n", classification_report(y_test_cat, y_pred_cat_mlp))
 
 # Confronto modelli
 results = {

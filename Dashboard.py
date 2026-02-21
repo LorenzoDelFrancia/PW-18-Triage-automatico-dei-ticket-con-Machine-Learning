@@ -178,8 +178,8 @@ if file:
                     st.metric("Accuracy", f"{risultati_cat[nome]['accuracy']:.2%}")
                     st.metric("F1", f"{risultati_cat[nome]['f1']:.2%}")
             
-            # Confusion matrix
-            st.write("Confusion Matrix")
+            # Matrice di confusione
+            st.write("Matrice di confusione")
             col1, col2, col3 = st.columns(3)
             cols = [col1, col2, col3]
             for i, nome in enumerate(nomi):
@@ -227,8 +227,8 @@ if file:
                     st.metric("Accuracy", f"{risultati_prio[nome]['accuracy']:.2%}")
                     st.metric("F1", f"{risultati_prio[nome]['f1']:.2%}")
             
-            # Confusion matrix
-            st.write("Confusion Matrix")
+            # Matrice di confusione
+            st.write("Matrice di confusione")
             col1, col2, col3 = st.columns(3)
             cols = [col1, col2, col3]
             for i, nome in enumerate(nomi):
