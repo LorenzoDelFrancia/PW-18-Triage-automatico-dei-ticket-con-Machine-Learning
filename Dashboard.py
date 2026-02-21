@@ -13,13 +13,13 @@ tfidf_prio = joblib.load("models/tfidf_priority.pkl")
 models_cat = {
     "SVM Lineare": joblib.load("models/svm_category.pkl"),
     "SVM RBF": joblib.load("models/svm_rbf_category.pkl"),
-    "MLP": joblib.load("models/mlp_category.pkl")
+    "MLP Classifier": joblib.load("models/mlp_category.pkl")
 }
 
 models_prio = {
     "SVM Lineare": joblib.load("models/svm_priority.pkl"),
     "SVM RBF": joblib.load("models/svm_rbf_priority.pkl"),
-    "MLP": joblib.load("models/mlp_priority.pkl")
+    "MLP Classifier": joblib.load("models/mlp_priority.pkl")
 }
 
 # Funzione per trovare le parole piu influenti
@@ -63,8 +63,8 @@ if st.button("Predici"):
             pred = models_cat["SVM RBF"].predict(X_cat)[0]
             st.metric("SVM RBF", pred)
         with col3:
-            pred = models_cat["MLP"].predict(X_cat)[0]
-            st.metric("MLP", pred)
+            pred = models_cat["MLP Classifier"].predict(X_cat)[0]
+            st.metric("MLP Classifier", pred)
         
         # Predizioni priorita
         st.subheader("Priorità")
@@ -77,8 +77,8 @@ if st.button("Predici"):
             pred = models_prio["SVM RBF"].predict(X_prio)[0]
             st.metric("SVM RBF", pred)
         with col3:
-            pred = models_prio["MLP"].predict(X_prio)[0]
-            st.metric("MLP", pred)
+            pred = models_prio["MLP Classifier"].predict(X_prio)[0]
+            st.metric("MLP Classifier", pred)
         
         # Parole influenti
         parole = top_words(testo, tfidf_cat, models_cat["SVM Lineare"])

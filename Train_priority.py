@@ -76,29 +76,32 @@ print("\nClassification Report:\n", classification_report(y_test_prio, y_pred_pr
 
 # Confronto modelli
 results = {
-    'SVM Linear': {'accuracy': accuracy_prio_linear, 'f1_score': f1_prio_linear, 'confusion_matrix': cm_linear},
+    'SVM Lineare': {'accuracy': accuracy_prio_linear, 'f1_score': f1_prio_linear, 'confusion_matrix': cm_linear},
     'SVM RBF': {'accuracy': accuracy_prio_rbf, 'f1_score': f1_prio_rbf, 'confusion_matrix': cm_rbf},
-    'MLP': {'accuracy': accuracy_prio_mlp, 'f1_score': f1_prio_mlp, 'confusion_matrix': cm_mlp}
+    'MLP Classifier': {'accuracy': accuracy_prio_mlp, 'f1_score': f1_prio_mlp, 'confusion_matrix': cm_mlp}
 }
 
-# Bar Chart
+# Grafico a barre
 model_names = list(results.keys())
 accuracies = [results[model]['accuracy'] for model in model_names]
 
 plt.figure()
 plt.bar(model_names, accuracies)
 plt.title("Confronto accuracy modelli - Priorità")
+plt.xlabel("Modello")
 plt.ylabel("Accuracy")
 plt.ylim(0, 1)
 plt.xticks(rotation=15)
 plt.show()
 
-# Confusion Matrix
+# Matrice di confusione
 for model in model_names:
     plt.figure()
-    disp = ConfusionMatrixDisplay(confusion_matrix=results[model]['confusion_matrix'])
+    disp = ConfusionMatrixDisplay(confusion_matrix=results[model]['confusion_matrix'], display_labels=svm_linear_model_prio.classes_)
     disp.plot()
-    plt.title(f"Confusion Matrix - {model}")
+    disp.ax_.set_xlabel("Classe predetta")
+    disp.ax_.set_ylabel("Classe reale")
+    plt.title(f"Matrice di confusione - {model}")
     plt.show()
 
 # Salvataggio modelli
