@@ -41,8 +41,8 @@ cm_linear = confusion_matrix(y_test_prio, y_pred_prio_linear)
 print("SVM Lineare - Priorità")
 print("Accuracy:", accuracy_prio_linear)
 print("F1 Score (Macro):", f1_prio_linear)
-print("Matrice di confusione:\n", cm_linear)
-print("\nReport di classificazione:\n", classification_report(y_test_prio, y_pred_prio_linear))
+print("Confusion Matrix:\n", cm_linear)
+print("\nClassification Report:\n", classification_report(y_test_prio, y_pred_prio_linear))
 
 # SVM RBF
 svm_rbf_model_prio = SVC(kernel='rbf', C=1, random_state=42, class_weight='balanced')
@@ -56,8 +56,8 @@ cm_rbf = confusion_matrix(y_test_prio, y_pred_prio_rbf)
 print("SVM RBF - Priorità")
 print("Accuracy:", accuracy_prio_rbf)
 print("F1 Score (Macro):", f1_prio_rbf)
-print("Matrice di confusione:\n", cm_rbf)
-print("\nReport di classificazione:\n", classification_report(y_test_prio, y_pred_prio_rbf))
+print("Confusion Matrix:\n", cm_rbf)
+print("\nClassification Report:\n", classification_report(y_test_prio, y_pred_prio_rbf))
 
 # MLP (Rete Neurale)
 mlp_model_prio = MLPClassifier(hidden_layer_sizes=(100,), max_iter=300, random_state=42)
@@ -71,8 +71,8 @@ cm_mlp = confusion_matrix(y_test_prio, y_pred_prio_mlp)
 print("MLP Classifier - Priorità")
 print("Accuracy:", accuracy_prio_mlp)
 print("F1 Score (Macro):", f1_prio_mlp)
-print("Matrice di confusione:\n", cm_mlp)
-print("\nReport di classificazione:\n", classification_report(y_test_prio, y_pred_prio_mlp))
+print("Confusion Matrix:\n", cm_mlp)
+print("\nClassification Report:\n", classification_report(y_test_prio, y_pred_prio_mlp))
 
 # Confronto modelli
 results = {
